@@ -1,0 +1,22 @@
+Modelo,Categoria,Accuracy,Sensibilidade,Especificidade,F1,AUC
+Random Forest,Baseline (RBP),0.6,0.5278,0.6897,0.5938,0.6734
+Random Forest,Mean Frequency,0.6,0.6667,0.5172,0.6486,0.6236
+Random Forest,Lempel-Ziv Complexity,0.6769,0.7222,0.6207,0.7123,0.7284
+Random Forest,Phase-Amplitude Coupling,0.7538,0.75,0.7586,0.7714,0.7658
+Random Forest,Kuramoto Order,0.6769,0.6944,0.6552,0.7042,0.7026
+Random Forest,Mutual Information,0.6615,0.6667,0.6552,0.6857,0.7064
+Random Forest,Assinatura Completa (Multivariado),0.7231,0.7222,0.7241,0.7429,0.796
+SVM (Linear),Baseline (RBP),0.7077,0.7222,0.6897,0.7324,0.7921
+SVM (Linear),Mean Frequency,0.6615,0.7222,0.5862,0.7027,0.683
+SVM (Linear),Lempel-Ziv Complexity,0.7538,0.8333,0.6552,0.7895,0.749
+SVM (Linear),Phase-Amplitude Coupling,0.4615,0.0278,1.0,0.0541,1.0
+SVM (Linear),Kuramoto Order,0.7385,0.6667,0.8276,0.7385,0.7126
+SVM (Linear),Mutual Information,0.6462,0.5833,0.7241,0.6462,0.6964
+SVM (Linear),Assinatura Completa (Multivariado),0.8,0.75,0.8621,0.806,0.817
+XGBoost,Baseline (RBP),0.5846,0.6111,0.5517,0.6197,0.6475
+XGBoost,Mean Frequency,0.5692,0.6111,0.5172,0.6111,0.5843
+XGBoost,Lempel-Ziv Complexity,0.7077,0.7222,0.6897,0.7324,0.7375
+XGBoost,Phase-Amplitude Coupling,0.7538,0.7778,0.7241,0.7778,0.7615
+XGBoost,Kuramoto Order,0.6308,0.6389,0.6207,0.6571,0.7059
+XGBoost,Mutual Information,0.6923,0.6944,0.6897,0.7143,0.7251
+XGBoost,Assinatura Completa (Multivariado),0.8154,0.8056,0.8276,0.8286,0.8247
