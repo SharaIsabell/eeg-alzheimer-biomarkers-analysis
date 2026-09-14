@@ -96,8 +96,8 @@ Abaixo, apresentamos o gráfico facetado de acurácia, que evidencia a supremaci
 Recomenda-se a utilização de um ambiente virtual (Anaconda ou venv).
 
 ```bash
-git clone https://github.com/SeuUsuario/eeg-alzheimers-classification.git
-cd eeg-alzheimers-classification
+git clone https://github.com/SharaIsabell/eeg-alzheimer-biomarkers-analysis.git
+cd eeg-alzheimer-biomarkers-analysis
 ```
 
 ### 2. Instalando as Dependências
