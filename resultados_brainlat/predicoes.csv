@@ -1,0 +1,1408 @@
+Subject_ID,Modelo,Categoria,pred,prob_AD,site
+sub-10001,Random Forest,Baseline (RBP),0,0.25,CL
+sub-100010,Random Forest,Baseline (RBP),0,0.38,CL
+sub-100011,Random Forest,Baseline (RBP),0,0.38,CL
+sub-100012,Random Forest,Baseline (RBP),0,0.32,AR
+sub-100014,Random Forest,Baseline (RBP),0,0.39,CL
+sub-100015,Random Forest,Baseline (RBP),0,0.26,AR
+sub-100016,Random Forest,Baseline (RBP),0,0.32,CL
+sub-100017,Random Forest,Baseline (RBP),0,0.42,CL
+sub-100018,Random Forest,Baseline (RBP),0,0.41,AR
+sub-10002,Random Forest,Baseline (RBP),0,0.41,AR
+sub-100020,Random Forest,Baseline (RBP),0,0.4,AR
+sub-100021,Random Forest,Baseline (RBP),0,0.46,CL
+sub-100022,Random Forest,Baseline (RBP),0,0.44,AR
+sub-100024,Random Forest,Baseline (RBP),1,0.51,AR
+sub-100026,Random Forest,Baseline (RBP),0,0.31,AR
+sub-100028,Random Forest,Baseline (RBP),0,0.28,AR
+sub-100029,Random Forest,Baseline (RBP),0,0.36,CL
+sub-10003,Random Forest,Baseline (RBP),0,0.34,AR
+sub-100030,Random Forest,Baseline (RBP),0,0.44,AR
+sub-100031,Random Forest,Baseline (RBP),0,0.33,AR
+sub-100033,Random Forest,Baseline (RBP),1,0.66,AR
+sub-100034,Random Forest,Baseline (RBP),0,0.46,CL
+sub-100035,Random Forest,Baseline (RBP),0,0.41,AR
+sub-100037,Random Forest,Baseline (RBP),0,0.3,CL
+sub-100038,Random Forest,Baseline (RBP),0,0.15,AR
+sub-10004,Random Forest,Baseline (RBP),0,0.39,AR
+sub-100043,Random Forest,Baseline (RBP),0,0.26,CL
+sub-10005,Random Forest,Baseline (RBP),0,0.46,CL
+sub-10006,Random Forest,Baseline (RBP),0,0.41,AR
+sub-10007,Random Forest,Baseline (RBP),0,0.22,AR
+sub-10008,Random Forest,Baseline (RBP),1,0.51,CL
+sub-10009,Random Forest,Baseline (RBP),0,0.35,AR
+sub-30001,Random Forest,Baseline (RBP),0,0.43,AR
+sub-30002,Random Forest,Baseline (RBP),1,0.53,AR
+sub-30003,Random Forest,Baseline (RBP),0,0.36,CL
+sub-30004,Random Forest,Baseline (RBP),0,0.35,AR
+sub-30005,Random Forest,Baseline (RBP),0,0.46,CL
+sub-30006,Random Forest,Baseline (RBP),1,0.78,CL
+sub-30007,Random Forest,Baseline (RBP),1,0.51,CL
+sub-30008,Random Forest,Baseline (RBP),0,0.37,AR
+sub-30009,Random Forest,Baseline (RBP),0,0.43,AR
+sub-30010,Random Forest,Baseline (RBP),0,0.34,CL
+sub-30011,Random Forest,Baseline (RBP),0,0.31,AR
+sub-30012,Random Forest,Baseline (RBP),0,0.35,AR
+sub-30013,Random Forest,Baseline (RBP),0,0.17,AR
+sub-30014,Random Forest,Baseline (RBP),0,0.45,CL
+sub-30015,Random Forest,Baseline (RBP),0,0.34,AR
+sub-30016,Random Forest,Baseline (RBP),1,0.72,CL
+sub-30017,Random Forest,Baseline (RBP),0,0.5,AR
+sub-30018,Random Forest,Baseline (RBP),0,0.43,AR
+sub-30019,Random Forest,Baseline (RBP),0,0.29,CL
+sub-30020,Random Forest,Baseline (RBP),1,0.62,AR
+sub-30021,Random Forest,Baseline (RBP),0,0.47,CL
+sub-30022,Random Forest,Baseline (RBP),0,0.47,AR
+sub-30023,Random Forest,Baseline (RBP),0,0.5,CL
+sub-30024,Random Forest,Baseline (RBP),0,0.27,CL
+sub-30025,Random Forest,Baseline (RBP),0,0.45,CL
+sub-30026,Random Forest,Baseline (RBP),1,0.54,AR
+sub-30027,Random Forest,Baseline (RBP),0,0.43,CL
+sub-30028,Random Forest,Baseline (RBP),0,0.33,CL
+sub-30029,Random Forest,Baseline (RBP),0,0.23,AR
+sub-30030,Random Forest,Baseline (RBP),0,0.45,CL
+sub-30031,Random Forest,Baseline (RBP),0,0.32,AR
+sub-30032,Random Forest,Baseline (RBP),0,0.17,CL
+sub-30033,Random Forest,Baseline (RBP),0,0.46,CL
+sub-30034,Random Forest,Baseline (RBP),0,0.45,CL
+sub-30035,Random Forest,Baseline (RBP),0,0.39,CL
+sub-10001,Random Forest,Mean Frequency,1,0.79,CL
+sub-100010,Random Forest,Mean Frequency,1,0.83,CL
+sub-100011,Random Forest,Mean Frequency,1,0.62,CL
+sub-100012,Random Forest,Mean Frequency,1,0.54,AR
+sub-100014,Random Forest,Mean Frequency,1,0.52,CL
+sub-100015,Random Forest,Mean Frequency,1,0.63,AR
+sub-100016,Random Forest,Mean Frequency,1,0.53,CL
+sub-100017,Random Forest,Mean Frequency,1,0.7,CL
+sub-100018,Random Forest,Mean Frequency,0,0.4,AR
+sub-10002,Random Forest,Mean Frequency,0,0.38,AR
+sub-100020,Random Forest,Mean Frequency,1,0.74,AR
+sub-100021,Random Forest,Mean Frequency,1,0.56,CL
+sub-100022,Random Forest,Mean Frequency,0,0.48,AR
+sub-100024,Random Forest,Mean Frequency,1,0.58,AR
+sub-100026,Random Forest,Mean Frequency,0,0.47,AR
+sub-100028,Random Forest,Mean Frequency,1,0.52,AR
+sub-100029,Random Forest,Mean Frequency,0,0.45,CL
+sub-10003,Random Forest,Mean Frequency,1,0.73,AR
+sub-100030,Random Forest,Mean Frequency,1,0.68,AR
+sub-100031,Random Forest,Mean Frequency,1,0.78,AR
+sub-100033,Random Forest,Mean Frequency,0,0.39,AR
+sub-100034,Random Forest,Mean Frequency,1,0.52,CL
+sub-100035,Random Forest,Mean Frequency,1,0.67,AR
+sub-100037,Random Forest,Mean Frequency,0,0.47,CL
+sub-100038,Random Forest,Mean Frequency,0,0.44,AR
+sub-10004,Random Forest,Mean Frequency,0,0.48,AR
+sub-100043,Random Forest,Mean Frequency,0,0.45,CL
+sub-10005,Random Forest,Mean Frequency,1,0.54,CL
+sub-10006,Random Forest,Mean Frequency,0,0.41,AR
+sub-10007,Random Forest,Mean Frequency,1,0.64,AR
+sub-10008,Random Forest,Mean Frequency,1,0.56,CL
+sub-10009,Random Forest,Mean Frequency,1,0.63,AR
+sub-30001,Random Forest,Mean Frequency,1,0.71,AR
+sub-30002,Random Forest,Mean Frequency,1,0.58,AR
+sub-30003,Random Forest,Mean Frequency,1,0.8,CL
+sub-30004,Random Forest,Mean Frequency,1,0.67,AR
+sub-30005,Random Forest,Mean Frequency,1,0.59,CL
+sub-30006,Random Forest,Mean Frequency,1,0.9,CL
+sub-30007,Random Forest,Mean Frequency,1,0.61,CL
+sub-30008,Random Forest,Mean Frequency,1,0.53,AR
+sub-30009,Random Forest,Mean Frequency,1,0.54,AR
+sub-30010,Random Forest,Mean Frequency,1,0.88,CL
+sub-30011,Random Forest,Mean Frequency,1,0.51,AR
+sub-30012,Random Forest,Mean Frequency,1,0.53,AR
+sub-30013,Random Forest,Mean Frequency,1,0.6,AR
+sub-30014,Random Forest,Mean Frequency,1,0.69,CL
+sub-30015,Random Forest,Mean Frequency,1,0.67,AR
+sub-30016,Random Forest,Mean Frequency,1,0.87,CL
+sub-30017,Random Forest,Mean Frequency,0,0.49,AR
+sub-30018,Random Forest,Mean Frequency,1,0.75,AR
+sub-30019,Random Forest,Mean Frequency,1,0.65,CL
+sub-30020,Random Forest,Mean Frequency,0,0.47,AR
+sub-30021,Random Forest,Mean Frequency,1,0.6,CL
+sub-30022,Random Forest,Mean Frequency,1,0.63,AR
+sub-30023,Random Forest,Mean Frequency,1,0.58,CL
+sub-30024,Random Forest,Mean Frequency,1,0.66,CL
+sub-30025,Random Forest,Mean Frequency,1,0.64,CL
+sub-30026,Random Forest,Mean Frequency,1,0.57,AR
+sub-30027,Random Forest,Mean Frequency,1,0.52,CL
+sub-30028,Random Forest,Mean Frequency,1,0.73,CL
+sub-30029,Random Forest,Mean Frequency,0,0.44,AR
+sub-30030,Random Forest,Mean Frequency,1,0.71,CL
+sub-30031,Random Forest,Mean Frequency,1,0.83,AR
+sub-30032,Random Forest,Mean Frequency,0,0.46,CL
+sub-30033,Random Forest,Mean Frequency,1,0.55,CL
+sub-30034,Random Forest,Mean Frequency,0,0.42,CL
+sub-30035,Random Forest,Mean Frequency,1,0.51,CL
+sub-10001,Random Forest,Lempel-Ziv Complexity,0,0.5,CL
+sub-100010,Random Forest,Lempel-Ziv Complexity,1,0.66,CL
+sub-100011,Random Forest,Lempel-Ziv Complexity,1,0.58,CL
+sub-100012,Random Forest,Lempel-Ziv Complexity,0,0.42,AR
+sub-100014,Random Forest,Lempel-Ziv Complexity,1,0.55,CL
+sub-100015,Random Forest,Lempel-Ziv Complexity,0,0.41,AR
+sub-100016,Random Forest,Lempel-Ziv Complexity,1,0.58,CL
+sub-100017,Random Forest,Lempel-Ziv Complexity,0,0.42,CL
+sub-100018,Random Forest,Lempel-Ziv Complexity,0,0.35,AR
+sub-10002,Random Forest,Lempel-Ziv Complexity,0,0.46,AR
+sub-100020,Random Forest,Lempel-Ziv Complexity,1,0.69,AR
+sub-100021,Random Forest,Lempel-Ziv Complexity,1,0.59,CL
+sub-100022,Random Forest,Lempel-Ziv Complexity,0,0.41,AR
+sub-100024,Random Forest,Lempel-Ziv Complexity,0,0.38,AR
+sub-100026,Random Forest,Lempel-Ziv Complexity,0,0.38,AR
+sub-100028,Random Forest,Lempel-Ziv Complexity,0,0.34,AR
+sub-100029,Random Forest,Lempel-Ziv Complexity,1,0.53,CL
+sub-10003,Random Forest,Lempel-Ziv Complexity,0,0.46,AR
+sub-100030,Random Forest,Lempel-Ziv Complexity,0,0.37,AR
+sub-100031,Random Forest,Lempel-Ziv Complexity,1,0.58,AR
+sub-100033,Random Forest,Lempel-Ziv Complexity,0,0.41,AR
+sub-100034,Random Forest,Lempel-Ziv Complexity,0,0.49,CL
+sub-100035,Random Forest,Lempel-Ziv Complexity,1,0.87,AR
+sub-100037,Random Forest,Lempel-Ziv Complexity,0,0.4,CL
+sub-100038,Random Forest,Lempel-Ziv Complexity,0,0.435,AR
+sub-10004,Random Forest,Lempel-Ziv Complexity,0,0.47,AR
+sub-100043,Random Forest,Lempel-Ziv Complexity,0,0.39,CL
+sub-10005,Random Forest,Lempel-Ziv Complexity,0,0.42,CL
+sub-10006,Random Forest,Lempel-Ziv Complexity,0,0.47,AR
+sub-10007,Random Forest,Lempel-Ziv Complexity,0,0.41,AR
+sub-10008,Random Forest,Lempel-Ziv Complexity,0,0.4,CL
+sub-10009,Random Forest,Lempel-Ziv Complexity,0,0.37,AR
+sub-30001,Random Forest,Lempel-Ziv Complexity,1,0.54,AR
+sub-30002,Random Forest,Lempel-Ziv Complexity,0,0.38,AR
+sub-30003,Random Forest,Lempel-Ziv Complexity,1,0.59,CL
+sub-30004,Random Forest,Lempel-Ziv Complexity,0,0.37,AR
+sub-30005,Random Forest,Lempel-Ziv Complexity,0,0.42,CL
+sub-30006,Random Forest,Lempel-Ziv Complexity,1,0.94,CL
+sub-30007,Random Forest,Lempel-Ziv Complexity,0,0.4,CL
+sub-30008,Random Forest,Lempel-Ziv Complexity,1,0.61,AR
+sub-30009,Random Forest,Lempel-Ziv Complexity,1,0.56,AR
+sub-30010,Random Forest,Lempel-Ziv Complexity,1,0.55,CL
+sub-30011,Random Forest,Lempel-Ziv Complexity,1,0.53,AR
+sub-30012,Random Forest,Lempel-Ziv Complexity,0,0.48,AR
+sub-30013,Random Forest,Lempel-Ziv Complexity,0,0.35,AR
+sub-30014,Random Forest,Lempel-Ziv Complexity,0,0.36,CL
+sub-30015,Random Forest,Lempel-Ziv Complexity,1,0.85,AR
+sub-30016,Random Forest,Lempel-Ziv Complexity,0,0.45,CL
+sub-30017,Random Forest,Lempel-Ziv Complexity,0,0.36,AR
+sub-30018,Random Forest,Lempel-Ziv Complexity,0,0.46,AR
+sub-30019,Random Forest,Lempel-Ziv Complexity,0,0.41,CL
+sub-30020,Random Forest,Lempel-Ziv Complexity,1,0.55,AR
+sub-30021,Random Forest,Lempel-Ziv Complexity,0,0.44,CL
+sub-30022,Random Forest,Lempel-Ziv Complexity,1,0.87,AR
+sub-30023,Random Forest,Lempel-Ziv Complexity,0,0.42,CL
+sub-30024,Random Forest,Lempel-Ziv Complexity,1,0.88,CL
+sub-30025,Random Forest,Lempel-Ziv Complexity,1,0.62,CL
+sub-30026,Random Forest,Lempel-Ziv Complexity,0,0.5,AR
+sub-30027,Random Forest,Lempel-Ziv Complexity,0,0.48,CL
+sub-30028,Random Forest,Lempel-Ziv Complexity,1,0.57,CL
+sub-30029,Random Forest,Lempel-Ziv Complexity,1,0.87,AR
+sub-30030,Random Forest,Lempel-Ziv Complexity,0,0.36,CL
+sub-30031,Random Forest,Lempel-Ziv Complexity,1,0.53,AR
+sub-30032,Random Forest,Lempel-Ziv Complexity,0,0.4,CL
+sub-30033,Random Forest,Lempel-Ziv Complexity,0,0.38,CL
+sub-30034,Random Forest,Lempel-Ziv Complexity,1,0.88,CL
+sub-30035,Random Forest,Lempel-Ziv Complexity,1,0.72,CL
+sub-10001,Random Forest,Phase-Amplitude Coupling,1,0.63,CL
+sub-100010,Random Forest,Phase-Amplitude Coupling,1,0.77,CL
+sub-100011,Random Forest,Phase-Amplitude Coupling,0,0.44,CL
+sub-100012,Random Forest,Phase-Amplitude Coupling,1,0.67,AR
+sub-100014,Random Forest,Phase-Amplitude Coupling,1,0.83,CL
+sub-100015,Random Forest,Phase-Amplitude Coupling,1,0.53,AR
+sub-100016,Random Forest,Phase-Amplitude Coupling,0,0.37,CL
+sub-100017,Random Forest,Phase-Amplitude Coupling,1,0.62,CL
+sub-100018,Random Forest,Phase-Amplitude Coupling,1,0.65,AR
+sub-10002,Random Forest,Phase-Amplitude Coupling,1,0.69,AR
+sub-100020,Random Forest,Phase-Amplitude Coupling,1,0.85,AR
+sub-100021,Random Forest,Phase-Amplitude Coupling,1,0.64,CL
+sub-100022,Random Forest,Phase-Amplitude Coupling,1,0.74,AR
+sub-100024,Random Forest,Phase-Amplitude Coupling,1,0.85,AR
+sub-100026,Random Forest,Phase-Amplitude Coupling,1,0.72,AR
+sub-100028,Random Forest,Phase-Amplitude Coupling,0,0.29,AR
+sub-100029,Random Forest,Phase-Amplitude Coupling,0,0.45,CL
+sub-10003,Random Forest,Phase-Amplitude Coupling,1,0.58,AR
+sub-100030,Random Forest,Phase-Amplitude Coupling,1,0.7,AR
+sub-100031,Random Forest,Phase-Amplitude Coupling,1,0.67,AR
+sub-100033,Random Forest,Phase-Amplitude Coupling,1,0.95,AR
+sub-100034,Random Forest,Phase-Amplitude Coupling,1,0.95,CL
+sub-100035,Random Forest,Phase-Amplitude Coupling,1,0.88,AR
+sub-100037,Random Forest,Phase-Amplitude Coupling,1,0.54,CL
+sub-100038,Random Forest,Phase-Amplitude Coupling,0,0.36,AR
+sub-10004,Random Forest,Phase-Amplitude Coupling,1,0.62,AR
+sub-100043,Random Forest,Phase-Amplitude Coupling,0,0.5,CL
+sub-10005,Random Forest,Phase-Amplitude Coupling,1,0.65,CL
+sub-10006,Random Forest,Phase-Amplitude Coupling,1,0.6,AR
+sub-10007,Random Forest,Phase-Amplitude Coupling,0,0.38,AR
+sub-10008,Random Forest,Phase-Amplitude Coupling,1,0.72,CL
+sub-10009,Random Forest,Phase-Amplitude Coupling,1,0.72,AR
+sub-30001,Random Forest,Phase-Amplitude Coupling,1,0.86,AR
+sub-30002,Random Forest,Phase-Amplitude Coupling,1,0.92,AR
+sub-30003,Random Forest,Phase-Amplitude Coupling,0,0.36,CL
+sub-30004,Random Forest,Phase-Amplitude Coupling,1,0.7,AR
+sub-30005,Random Forest,Phase-Amplitude Coupling,1,0.7,CL
+sub-30006,Random Forest,Phase-Amplitude Coupling,1,0.85,CL
+sub-30007,Random Forest,Phase-Amplitude Coupling,1,0.65,CL
+sub-30008,Random Forest,Phase-Amplitude Coupling,0,0.36,AR
+sub-30009,Random Forest,Phase-Amplitude Coupling,1,0.65,AR
+sub-30010,Random Forest,Phase-Amplitude Coupling,1,0.88,CL
+sub-30011,Random Forest,Phase-Amplitude Coupling,0,0.41,AR
+sub-30012,Random Forest,Phase-Amplitude Coupling,0,0.38,AR
+sub-30013,Random Forest,Phase-Amplitude Coupling,0,0.41,AR
+sub-30014,Random Forest,Phase-Amplitude Coupling,1,0.74,CL
+sub-30015,Random Forest,Phase-Amplitude Coupling,0,0.32,AR
+sub-30016,Random Forest,Phase-Amplitude Coupling,1,0.87,CL
+sub-30017,Random Forest,Phase-Amplitude Coupling,1,0.89,AR
+sub-30018,Random Forest,Phase-Amplitude Coupling,1,0.6,AR
+sub-30019,Random Forest,Phase-Amplitude Coupling,0,0.43,CL
+sub-30020,Random Forest,Phase-Amplitude Coupling,1,0.53,AR
+sub-30021,Random Forest,Phase-Amplitude Coupling,1,0.95,CL
+sub-30022,Random Forest,Phase-Amplitude Coupling,1,0.87,AR
+sub-30023,Random Forest,Phase-Amplitude Coupling,1,0.92,CL
+sub-30024,Random Forest,Phase-Amplitude Coupling,1,0.71,CL
+sub-30025,Random Forest,Phase-Amplitude Coupling,0,0.5,CL
+sub-30026,Random Forest,Phase-Amplitude Coupling,1,0.92,AR
+sub-30027,Random Forest,Phase-Amplitude Coupling,1,0.9,CL
+sub-30028,Random Forest,Phase-Amplitude Coupling,1,0.66,CL
+sub-30029,Random Forest,Phase-Amplitude Coupling,1,0.52,AR
+sub-30030,Random Forest,Phase-Amplitude Coupling,1,0.84,CL
+sub-30031,Random Forest,Phase-Amplitude Coupling,0,0.44,AR
+sub-30032,Random Forest,Phase-Amplitude Coupling,1,0.63,CL
+sub-30033,Random Forest,Phase-Amplitude Coupling,1,0.91,CL
+sub-30034,Random Forest,Phase-Amplitude Coupling,1,0.84,CL
+sub-30035,Random Forest,Phase-Amplitude Coupling,1,0.8,CL
+sub-10001,Random Forest,Kuramoto Order,1,0.85,CL
+sub-100010,Random Forest,Kuramoto Order,1,0.81,CL
+sub-100011,Random Forest,Kuramoto Order,1,0.79,CL
+sub-100012,Random Forest,Kuramoto Order,1,0.63,AR
+sub-100014,Random Forest,Kuramoto Order,1,0.87,CL
+sub-100015,Random Forest,Kuramoto Order,1,0.73,AR
+sub-100016,Random Forest,Kuramoto Order,1,0.84,CL
+sub-100017,Random Forest,Kuramoto Order,1,0.85,CL
+sub-100018,Random Forest,Kuramoto Order,1,0.91,AR
+sub-10002,Random Forest,Kuramoto Order,1,0.86,AR
+sub-100020,Random Forest,Kuramoto Order,1,0.78,AR
+sub-100021,Random Forest,Kuramoto Order,1,0.79,CL
+sub-100022,Random Forest,Kuramoto Order,1,0.91,AR
+sub-100024,Random Forest,Kuramoto Order,1,0.74,AR
+sub-100026,Random Forest,Kuramoto Order,1,0.63,AR
+sub-100028,Random Forest,Kuramoto Order,1,0.86,AR
+sub-100029,Random Forest,Kuramoto Order,1,0.9,CL
+sub-10003,Random Forest,Kuramoto Order,1,0.82,AR
+sub-100030,Random Forest,Kuramoto Order,1,0.86,AR
+sub-100031,Random Forest,Kuramoto Order,1,0.87,AR
+sub-100033,Random Forest,Kuramoto Order,1,0.77,AR
+sub-100034,Random Forest,Kuramoto Order,1,0.81,CL
+sub-100035,Random Forest,Kuramoto Order,1,0.85,AR
+sub-100037,Random Forest,Kuramoto Order,1,0.79,CL
+sub-100038,Random Forest,Kuramoto Order,1,0.86,AR
+sub-10004,Random Forest,Kuramoto Order,1,0.91,AR
+sub-100043,Random Forest,Kuramoto Order,1,0.85,CL
+sub-10005,Random Forest,Kuramoto Order,1,0.81,CL
+sub-10006,Random Forest,Kuramoto Order,1,0.84,AR
+sub-10007,Random Forest,Kuramoto Order,1,0.87,AR
+sub-10008,Random Forest,Kuramoto Order,1,0.8,CL
+sub-10009,Random Forest,Kuramoto Order,1,0.86,AR
+sub-30001,Random Forest,Kuramoto Order,1,0.6,AR
+sub-30002,Random Forest,Kuramoto Order,1,0.61,AR
+sub-30003,Random Forest,Kuramoto Order,1,0.79,CL
+sub-30004,Random Forest,Kuramoto Order,1,0.68,AR
+sub-30005,Random Forest,Kuramoto Order,1,0.81,CL
+sub-30006,Random Forest,Kuramoto Order,1,0.84,CL
+sub-30007,Random Forest,Kuramoto Order,1,0.69,CL
+sub-30008,Random Forest,Kuramoto Order,1,0.81,AR
+sub-30009,Random Forest,Kuramoto Order,1,0.84,AR
+sub-30010,Random Forest,Kuramoto Order,1,0.54,CL
+sub-30011,Random Forest,Kuramoto Order,1,0.82,AR
+sub-30012,Random Forest,Kuramoto Order,1,0.81,AR
+sub-30013,Random Forest,Kuramoto Order,1,0.61,AR
+sub-30014,Random Forest,Kuramoto Order,1,0.8,CL
+sub-30015,Random Forest,Kuramoto Order,1,0.8,AR
+sub-30016,Random Forest,Kuramoto Order,1,0.81,CL
+sub-30017,Random Forest,Kuramoto Order,1,0.86,AR
+sub-30018,Random Forest,Kuramoto Order,1,0.93,AR
+sub-30019,Random Forest,Kuramoto Order,1,0.9,CL
+sub-30020,Random Forest,Kuramoto Order,1,0.85,AR
+sub-30021,Random Forest,Kuramoto Order,1,0.78,CL
+sub-30022,Random Forest,Kuramoto Order,1,0.63,AR
+sub-30023,Random Forest,Kuramoto Order,1,0.84,CL
+sub-30024,Random Forest,Kuramoto Order,1,0.88,CL
+sub-30025,Random Forest,Kuramoto Order,1,0.81,CL
+sub-30026,Random Forest,Kuramoto Order,1,0.82,AR
+sub-30027,Random Forest,Kuramoto Order,1,0.77,CL
+sub-30028,Random Forest,Kuramoto Order,1,0.86,CL
+sub-30029,Random Forest,Kuramoto Order,1,0.92,AR
+sub-30030,Random Forest,Kuramoto Order,1,0.73,CL
+sub-30031,Random Forest,Kuramoto Order,1,0.91,AR
+sub-30032,Random Forest,Kuramoto Order,1,0.62,CL
+sub-30033,Random Forest,Kuramoto Order,1,0.81,CL
+sub-30034,Random Forest,Kuramoto Order,1,0.86,CL
+sub-30035,Random Forest,Kuramoto Order,1,0.74,CL
+sub-10001,Random Forest,Mutual Information,0,0.48,CL
+sub-100010,Random Forest,Mutual Information,0,0.34,CL
+sub-100011,Random Forest,Mutual Information,0,0.48,CL
+sub-100012,Random Forest,Mutual Information,1,0.51,AR
+sub-100014,Random Forest,Mutual Information,0,0.34,CL
+sub-100015,Random Forest,Mutual Information,1,0.53,AR
+sub-100016,Random Forest,Mutual Information,0,0.39,CL
+sub-100017,Random Forest,Mutual Information,0,0.36,CL
+sub-100018,Random Forest,Mutual Information,0,0.5,AR
+sub-10002,Random Forest,Mutual Information,0,0.46,AR
+sub-100020,Random Forest,Mutual Information,0,0.26,AR
+sub-100021,Random Forest,Mutual Information,0,0.44,CL
+sub-100022,Random Forest,Mutual Information,1,0.53,AR
+sub-100024,Random Forest,Mutual Information,0,0.32,AR
+sub-100026,Random Forest,Mutual Information,1,0.56,AR
+sub-100028,Random Forest,Mutual Information,1,0.56,AR
+sub-100029,Random Forest,Mutual Information,1,0.59,CL
+sub-10003,Random Forest,Mutual Information,1,0.71,AR
+sub-100030,Random Forest,Mutual Information,0,0.5,AR
+sub-100031,Random Forest,Mutual Information,0,0.41,AR
+sub-100033,Random Forest,Mutual Information,1,0.56,AR
+sub-100034,Random Forest,Mutual Information,0,0.44,CL
+sub-100035,Random Forest,Mutual Information,1,0.54,AR
+sub-100037,Random Forest,Mutual Information,1,0.66,CL
+sub-100038,Random Forest,Mutual Information,1,0.54,AR
+sub-10004,Random Forest,Mutual Information,1,0.69,AR
+sub-100043,Random Forest,Mutual Information,0,0.27,CL
+sub-10005,Random Forest,Mutual Information,0,0.36,CL
+sub-10006,Random Forest,Mutual Information,0,0.27,AR
+sub-10007,Random Forest,Mutual Information,1,0.58,AR
+sub-10008,Random Forest,Mutual Information,0,0.34,CL
+sub-10009,Random Forest,Mutual Information,0,0.5,AR
+sub-30001,Random Forest,Mutual Information,1,0.74,AR
+sub-30002,Random Forest,Mutual Information,1,0.64,AR
+sub-30003,Random Forest,Mutual Information,1,0.56,CL
+sub-30004,Random Forest,Mutual Information,1,0.64,AR
+sub-30005,Random Forest,Mutual Information,1,0.56,CL
+sub-30006,Random Forest,Mutual Information,0,0.39,CL
+sub-30007,Random Forest,Mutual Information,0,0.27,CL
+sub-30008,Random Forest,Mutual Information,0,0.32,AR
+sub-30009,Random Forest,Mutual Information,1,0.7,AR
+sub-30010,Random Forest,Mutual Information,1,0.55,CL
+sub-30011,Random Forest,Mutual Information,1,0.71,AR
+sub-30012,Random Forest,Mutual Information,1,0.69,AR
+sub-30013,Random Forest,Mutual Information,1,0.65,AR
+sub-30014,Random Forest,Mutual Information,1,0.68,CL
+sub-30015,Random Forest,Mutual Information,0,0.24,AR
+sub-30016,Random Forest,Mutual Information,0,0.37,CL
+sub-30017,Random Forest,Mutual Information,1,0.53,AR
+sub-30018,Random Forest,Mutual Information,1,0.77,AR
+sub-30019,Random Forest,Mutual Information,1,0.63,CL
+sub-30020,Random Forest,Mutual Information,0,0.28,AR
+sub-30021,Random Forest,Mutual Information,0,0.49,CL
+sub-30022,Random Forest,Mutual Information,1,0.66,AR
+sub-30023,Random Forest,Mutual Information,0,0.43,CL
+sub-30024,Random Forest,Mutual Information,1,0.65,CL
+sub-30025,Random Forest,Mutual Information,1,0.57,CL
+sub-30026,Random Forest,Mutual Information,0,0.37,AR
+sub-30027,Random Forest,Mutual Information,0,0.29,CL
+sub-30028,Random Forest,Mutual Information,1,0.64,CL
+sub-30029,Random Forest,Mutual Information,1,0.56,AR
+sub-30030,Random Forest,Mutual Information,1,0.55,CL
+sub-30031,Random Forest,Mutual Information,1,0.65,AR
+sub-30032,Random Forest,Mutual Information,0,0.41,CL
+sub-30033,Random Forest,Mutual Information,0,0.41,CL
+sub-30034,Random Forest,Mutual Information,1,0.51,CL
+sub-30035,Random Forest,Mutual Information,0,0.31,CL
+sub-10001,Random Forest,Assinatura Completa (Multivariado),0,0.48,CL
+sub-100010,Random Forest,Assinatura Completa (Multivariado),1,0.63,CL
+sub-100011,Random Forest,Assinatura Completa (Multivariado),0,0.43,CL
+sub-100012,Random Forest,Assinatura Completa (Multivariado),0,0.41,AR
+sub-100014,Random Forest,Assinatura Completa (Multivariado),1,0.57,CL
+sub-100015,Random Forest,Assinatura Completa (Multivariado),0,0.4,AR
+sub-100016,Random Forest,Assinatura Completa (Multivariado),1,0.51,CL
+sub-100017,Random Forest,Assinatura Completa (Multivariado),0,0.42,CL
+sub-100018,Random Forest,Assinatura Completa (Multivariado),0,0.47,AR
+sub-10002,Random Forest,Assinatura Completa (Multivariado),0,0.5,AR
+sub-100020,Random Forest,Assinatura Completa (Multivariado),1,0.66,AR
+sub-100021,Random Forest,Assinatura Completa (Multivariado),1,0.51,CL
+sub-100022,Random Forest,Assinatura Completa (Multivariado),0,0.49,AR
+sub-100024,Random Forest,Assinatura Completa (Multivariado),1,0.54,AR
+sub-100026,Random Forest,Assinatura Completa (Multivariado),0,0.38,AR
+sub-100028,Random Forest,Assinatura Completa (Multivariado),0,0.37,AR
+sub-100029,Random Forest,Assinatura Completa (Multivariado),0,0.4,CL
+sub-10003,Random Forest,Assinatura Completa (Multivariado),0,0.4,AR
+sub-100030,Random Forest,Assinatura Completa (Multivariado),0,0.4,AR
+sub-100031,Random Forest,Assinatura Completa (Multivariado),0,0.48,AR
+sub-100033,Random Forest,Assinatura Completa (Multivariado),1,0.59,AR
+sub-100034,Random Forest,Assinatura Completa (Multivariado),1,0.62,CL
+sub-100035,Random Forest,Assinatura Completa (Multivariado),1,0.73,AR
+sub-100037,Random Forest,Assinatura Completa (Multivariado),0,0.4,CL
+sub-100038,Random Forest,Assinatura Completa (Multivariado),0,0.47,AR
+sub-10004,Random Forest,Assinatura Completa (Multivariado),1,0.57,AR
+sub-100043,Random Forest,Assinatura Completa (Multivariado),0,0.35,CL
+sub-10005,Random Forest,Assinatura Completa (Multivariado),0,0.48,CL
+sub-10006,Random Forest,Assinatura Completa (Multivariado),0,0.46,AR
+sub-10007,Random Forest,Assinatura Completa (Multivariado),0,0.42,AR
+sub-10008,Random Forest,Assinatura Completa (Multivariado),0,0.47,CL
+sub-10009,Random Forest,Assinatura Completa (Multivariado),0,0.39,AR
+sub-30001,Random Forest,Assinatura Completa (Multivariado),1,0.63,AR
+sub-30002,Random Forest,Assinatura Completa (Multivariado),1,0.53,AR
+sub-30003,Random Forest,Assinatura Completa (Multivariado),1,0.56,CL
+sub-30004,Random Forest,Assinatura Completa (Multivariado),0,0.4,AR
+sub-30005,Random Forest,Assinatura Completa (Multivariado),0,0.48,CL
+sub-30006,Random Forest,Assinatura Completa (Multivariado),1,0.9,CL
+sub-30007,Random Forest,Assinatura Completa (Multivariado),0,0.41,CL
+sub-30008,Random Forest,Assinatura Completa (Multivariado),0,0.45,AR
+sub-30009,Random Forest,Assinatura Completa (Multivariado),1,0.53,AR
+sub-30010,Random Forest,Assinatura Completa (Multivariado),1,0.78,CL
+sub-30011,Random Forest,Assinatura Completa (Multivariado),0,0.43,AR
+sub-30012,Random Forest,Assinatura Completa (Multivariado),0,0.47,AR
+sub-30013,Random Forest,Assinatura Completa (Multivariado),0,0.42,AR
+sub-30014,Random Forest,Assinatura Completa (Multivariado),1,0.52,CL
+sub-30015,Random Forest,Assinatura Completa (Multivariado),1,0.61,AR
+sub-30016,Random Forest,Assinatura Completa (Multivariado),1,0.74,CL
+sub-30017,Random Forest,Assinatura Completa (Multivariado),1,0.54,AR
+sub-30018,Random Forest,Assinatura Completa (Multivariado),1,0.6,AR
+sub-30019,Random Forest,Assinatura Completa (Multivariado),0,0.41,CL
+sub-30020,Random Forest,Assinatura Completa (Multivariado),1,0.56,AR
+sub-30021,Random Forest,Assinatura Completa (Multivariado),1,0.64,CL
+sub-30022,Random Forest,Assinatura Completa (Multivariado),1,0.7,AR
+sub-30023,Random Forest,Assinatura Completa (Multivariado),1,0.63,CL
+sub-30024,Random Forest,Assinatura Completa (Multivariado),1,0.71,CL
+sub-30025,Random Forest,Assinatura Completa (Multivariado),1,0.54,CL
+sub-30026,Random Forest,Assinatura Completa (Multivariado),1,0.66,AR
+sub-30027,Random Forest,Assinatura Completa (Multivariado),1,0.61,CL
+sub-30028,Random Forest,Assinatura Completa (Multivariado),1,0.51,CL
+sub-30029,Random Forest,Assinatura Completa (Multivariado),1,0.65,AR
+sub-30030,Random Forest,Assinatura Completa (Multivariado),0,0.5,CL
+sub-30031,Random Forest,Assinatura Completa (Multivariado),1,0.57,AR
+sub-30032,Random Forest,Assinatura Completa (Multivariado),0,0.42,CL
+sub-30033,Random Forest,Assinatura Completa (Multivariado),1,0.56,CL
+sub-30034,Random Forest,Assinatura Completa (Multivariado),1,0.71,CL
+sub-30035,Random Forest,Assinatura Completa (Multivariado),1,0.71,CL
+sub-10001,SVM (Linear),Baseline (RBP),0,0.007208201148609487,CL
+sub-100010,SVM (Linear),Baseline (RBP),0,0.00986232708745283,CL
+sub-100011,SVM (Linear),Baseline (RBP),0,5.534235403968958e-06,CL
+sub-100012,SVM (Linear),Baseline (RBP),0,2.805881765070907e-06,AR
+sub-100014,SVM (Linear),Baseline (RBP),0,0.00017269593575234911,CL
+sub-100015,SVM (Linear),Baseline (RBP),0,1.2714261794538322e-07,AR
+sub-100016,SVM (Linear),Baseline (RBP),0,2.866840334554114e-06,CL
+sub-100017,SVM (Linear),Baseline (RBP),0,1.0000000994736041e-07,CL
+sub-100018,SVM (Linear),Baseline (RBP),0,0.00016425296497149964,AR
+sub-10002,SVM (Linear),Baseline (RBP),0,0.016618602259629706,AR
+sub-100020,SVM (Linear),Baseline (RBP),0,0.07978640131118506,AR
+sub-100021,SVM (Linear),Baseline (RBP),0,7.312260565997169e-07,CL
+sub-100022,SVM (Linear),Baseline (RBP),0,0.00022880747083774196,AR
+sub-100024,SVM (Linear),Baseline (RBP),0,0.0010343240617193127,AR
+sub-100026,SVM (Linear),Baseline (RBP),0,0.00013918987220419205,AR
+sub-100028,SVM (Linear),Baseline (RBP),0,1.8264165885471632e-05,AR
+sub-100029,SVM (Linear),Baseline (RBP),0,9.55326393810012e-07,CL
+sub-10003,SVM (Linear),Baseline (RBP),0,3.770045765800354e-05,AR
+sub-100030,SVM (Linear),Baseline (RBP),0,2.5404886581068572e-05,AR
+sub-100031,SVM (Linear),Baseline (RBP),0,0.00016410725987617644,AR
+sub-100033,SVM (Linear),Baseline (RBP),1,0.7675376461517865,AR
+sub-100034,SVM (Linear),Baseline (RBP),0,0.003146354615534765,CL
+sub-100035,SVM (Linear),Baseline (RBP),1,0.9147867720593454,AR
+sub-100037,SVM (Linear),Baseline (RBP),0,0.00014334334192783567,CL
+sub-100038,SVM (Linear),Baseline (RBP),0,0.010989762918726364,AR
+sub-10004,SVM (Linear),Baseline (RBP),0,0.13001921896995602,AR
+sub-100043,SVM (Linear),Baseline (RBP),0,2.0161090037595603e-05,CL
+sub-10005,SVM (Linear),Baseline (RBP),0,1.9257170545340022e-05,CL
+sub-10006,SVM (Linear),Baseline (RBP),0,0.0065065464413488665,AR
+sub-10007,SVM (Linear),Baseline (RBP),0,3.6624669055216034e-07,AR
+sub-10008,SVM (Linear),Baseline (RBP),0,0.003083169676085561,CL
+sub-10009,SVM (Linear),Baseline (RBP),0,1.2995991496895928e-05,AR
+sub-30001,SVM (Linear),Baseline (RBP),1,0.932200747752201,AR
+sub-30002,SVM (Linear),Baseline (RBP),1,0.9818962690223451,AR
+sub-30003,SVM (Linear),Baseline (RBP),0,0.00028849777072767284,CL
+sub-30004,SVM (Linear),Baseline (RBP),0,0.0012391815558114735,AR
+sub-30005,SVM (Linear),Baseline (RBP),0,0.0003736838993360013,CL
+sub-30006,SVM (Linear),Baseline (RBP),1,0.9944660763680698,CL
+sub-30007,SVM (Linear),Baseline (RBP),0,8.647318315670431e-06,CL
+sub-30008,SVM (Linear),Baseline (RBP),0,1.0097696063261766e-05,AR
+sub-30009,SVM (Linear),Baseline (RBP),0,0.008342052159945185,AR
+sub-30010,SVM (Linear),Baseline (RBP),1,0.7657015697582428,CL
+sub-30011,SVM (Linear),Baseline (RBP),0,1.873492610178946e-05,AR
+sub-30012,SVM (Linear),Baseline (RBP),0,0.010307888334034935,AR
+sub-30013,SVM (Linear),Baseline (RBP),0,0.0004891729322986003,AR
+sub-30014,SVM (Linear),Baseline (RBP),0,0.006878375581390568,CL
+sub-30015,SVM (Linear),Baseline (RBP),0,0.0004609667890230774,AR
+sub-30016,SVM (Linear),Baseline (RBP),1,0.9570917648835049,CL
+sub-30017,SVM (Linear),Baseline (RBP),0,0.019260982881920297,AR
+sub-30018,SVM (Linear),Baseline (RBP),0,0.21160875570225604,AR
+sub-30019,SVM (Linear),Baseline (RBP),0,8.86601135470889e-06,CL
+sub-30020,SVM (Linear),Baseline (RBP),0,0.4224930721627347,AR
+sub-30021,SVM (Linear),Baseline (RBP),1,0.9969062248031894,CL
+sub-30022,SVM (Linear),Baseline (RBP),0,0.05542617360085838,AR
+sub-30023,SVM (Linear),Baseline (RBP),0,0.04176858156824409,CL
+sub-30024,SVM (Linear),Baseline (RBP),0,0.162838347646293,CL
+sub-30025,SVM (Linear),Baseline (RBP),0,0.0014531368588127998,CL
+sub-30026,SVM (Linear),Baseline (RBP),0,0.3894761462579024,AR
+sub-30027,SVM (Linear),Baseline (RBP),0,0.08590703680189551,CL
+sub-30028,SVM (Linear),Baseline (RBP),0,1.0000000994736041e-07,CL
+sub-30029,SVM (Linear),Baseline (RBP),0,0.04400674529090548,AR
+sub-30030,SVM (Linear),Baseline (RBP),0,0.3379230666760552,CL
+sub-30031,SVM (Linear),Baseline (RBP),0,0.004253098107041489,AR
+sub-30032,SVM (Linear),Baseline (RBP),0,0.004290943147622106,CL
+sub-30033,SVM (Linear),Baseline (RBP),0,0.3839704665804103,CL
+sub-30034,SVM (Linear),Baseline (RBP),0,0.3498356076856547,CL
+sub-30035,SVM (Linear),Baseline (RBP),0,0.12902165455024964,CL
+sub-10001,SVM (Linear),Mean Frequency,1,0.7235490274391487,CL
+sub-100010,SVM (Linear),Mean Frequency,1,0.9033783552046285,CL
+sub-100011,SVM (Linear),Mean Frequency,1,0.7119202359082922,CL
+sub-100012,SVM (Linear),Mean Frequency,1,0.6825554707813403,AR
+sub-100014,SVM (Linear),Mean Frequency,1,0.7065754746893161,CL
+sub-100015,SVM (Linear),Mean Frequency,1,0.6798420274842729,AR
+sub-100016,SVM (Linear),Mean Frequency,0,0.47274971083949635,CL
+sub-100017,SVM (Linear),Mean Frequency,1,0.8138944846827544,CL
+sub-100018,SVM (Linear),Mean Frequency,1,0.7164742916414648,AR
+sub-10002,SVM (Linear),Mean Frequency,0,0.41166788063533644,AR
+sub-100020,SVM (Linear),Mean Frequency,1,0.9351684949786936,AR
+sub-100021,SVM (Linear),Mean Frequency,1,0.8793084400017491,CL
+sub-100022,SVM (Linear),Mean Frequency,0,0.2286900624208469,AR
+sub-100024,SVM (Linear),Mean Frequency,1,0.8726185512660969,AR
+sub-100026,SVM (Linear),Mean Frequency,1,0.7308929486957144,AR
+sub-100028,SVM (Linear),Mean Frequency,1,0.7687603352803286,AR
+sub-100029,SVM (Linear),Mean Frequency,1,0.6104575656453285,CL
+sub-10003,SVM (Linear),Mean Frequency,1,0.843142685010708,AR
+sub-100030,SVM (Linear),Mean Frequency,1,0.8771166549670248,AR
+sub-100031,SVM (Linear),Mean Frequency,1,0.6615879973593287,AR
+sub-100033,SVM (Linear),Mean Frequency,0,0.07816265986996036,AR
+sub-100034,SVM (Linear),Mean Frequency,1,0.5582758825223155,CL
+sub-100035,SVM (Linear),Mean Frequency,1,0.9285122324891907,AR
+sub-100037,SVM (Linear),Mean Frequency,0,0.5,CL
+sub-100038,SVM (Linear),Mean Frequency,0,0.4347377685375569,AR
+sub-10004,SVM (Linear),Mean Frequency,1,0.8342508977612226,AR
+sub-100043,SVM (Linear),Mean Frequency,0,0.4800190535541437,CL
+sub-10005,SVM (Linear),Mean Frequency,1,0.7802742559227444,CL
+sub-10006,SVM (Linear),Mean Frequency,1,0.6463225729186466,AR
+sub-10007,SVM (Linear),Mean Frequency,1,0.9131326502760905,AR
+sub-10008,SVM (Linear),Mean Frequency,1,0.8243304839381381,CL
+sub-10009,SVM (Linear),Mean Frequency,1,0.7863417803992112,AR
+sub-30001,SVM (Linear),Mean Frequency,1,0.9236468723820829,AR
+sub-30002,SVM (Linear),Mean Frequency,1,0.9506708246212474,AR
+sub-30003,SVM (Linear),Mean Frequency,1,0.7967503854970065,CL
+sub-30004,SVM (Linear),Mean Frequency,1,0.779750327618238,AR
+sub-30005,SVM (Linear),Mean Frequency,1,0.8486446734158111,CL
+sub-30006,SVM (Linear),Mean Frequency,1,0.8882793332839846,CL
+sub-30007,SVM (Linear),Mean Frequency,1,0.7545003563953109,CL
+sub-30008,SVM (Linear),Mean Frequency,1,0.8455737559294817,AR
+sub-30009,SVM (Linear),Mean Frequency,1,0.7375689427381337,AR
+sub-30010,SVM (Linear),Mean Frequency,1,0.8494392235990404,CL
+sub-30011,SVM (Linear),Mean Frequency,1,0.6667908551066943,AR
+sub-30012,SVM (Linear),Mean Frequency,1,0.776952618114127,AR
+sub-30013,SVM (Linear),Mean Frequency,0,0.5,AR
+sub-30014,SVM (Linear),Mean Frequency,1,0.8053190613009453,CL
+sub-30015,SVM (Linear),Mean Frequency,1,0.811418193967966,AR
+sub-30016,SVM (Linear),Mean Frequency,1,0.7399348360428621,CL
+sub-30017,SVM (Linear),Mean Frequency,1,0.6859920087973814,AR
+sub-30018,SVM (Linear),Mean Frequency,1,0.5858839995304329,AR
+sub-30019,SVM (Linear),Mean Frequency,1,0.8182449317019109,CL
+sub-30020,SVM (Linear),Mean Frequency,0,0.25726651973709636,AR
+sub-30021,SVM (Linear),Mean Frequency,1,0.787525345156185,CL
+sub-30022,SVM (Linear),Mean Frequency,1,0.8559808757455146,AR
+sub-30023,SVM (Linear),Mean Frequency,1,0.8427794099918069,CL
+sub-30024,SVM (Linear),Mean Frequency,1,0.8303296803765874,CL
+sub-30025,SVM (Linear),Mean Frequency,1,0.8796850374988583,CL
+sub-30026,SVM (Linear),Mean Frequency,1,0.8810369956109247,AR
+sub-30027,SVM (Linear),Mean Frequency,1,0.7168102328688848,CL
+sub-30028,SVM (Linear),Mean Frequency,1,0.7383680977921966,CL
+sub-30029,SVM (Linear),Mean Frequency,0,0.48857848750696875,AR
+sub-30030,SVM (Linear),Mean Frequency,1,0.8674927975287992,CL
+sub-30031,SVM (Linear),Mean Frequency,1,0.7915049956940922,AR
+sub-30032,SVM (Linear),Mean Frequency,0,0.2653946308183335,CL
+sub-30033,SVM (Linear),Mean Frequency,1,0.7801981136613169,CL
+sub-30034,SVM (Linear),Mean Frequency,1,0.7108927502997908,CL
+sub-30035,SVM (Linear),Mean Frequency,1,0.9004985972005506,CL
+sub-10001,SVM (Linear),Lempel-Ziv Complexity,0,0.47199365082255723,CL
+sub-100010,SVM (Linear),Lempel-Ziv Complexity,0,0.5385566930249047,CL
+sub-100011,SVM (Linear),Lempel-Ziv Complexity,0,0.41582588912788754,CL
+sub-100012,SVM (Linear),Lempel-Ziv Complexity,0,0.2761413478186218,AR
+sub-100014,SVM (Linear),Lempel-Ziv Complexity,0,0.3420516256731185,CL
+sub-100015,SVM (Linear),Lempel-Ziv Complexity,0,0.2993042176079606,AR
+sub-100016,SVM (Linear),Lempel-Ziv Complexity,0,0.2924019224229513,CL
+sub-100017,SVM (Linear),Lempel-Ziv Complexity,0,0.1947286693527084,CL
+sub-100018,SVM (Linear),Lempel-Ziv Complexity,0,0.4073807823116986,AR
+sub-10002,SVM (Linear),Lempel-Ziv Complexity,0,0.47967733713848076,AR
+sub-100020,SVM (Linear),Lempel-Ziv Complexity,0,0.5328954592764614,AR
+sub-100021,SVM (Linear),Lempel-Ziv Complexity,0,0.21196608015309432,CL
+sub-100022,SVM (Linear),Lempel-Ziv Complexity,0,0.41993308141949165,AR
+sub-100024,SVM (Linear),Lempel-Ziv Complexity,0,0.35550652011242556,AR
+sub-100026,SVM (Linear),Lempel-Ziv Complexity,0,0.4820104878867015,AR
+sub-100028,SVM (Linear),Lempel-Ziv Complexity,0,0.4546579044736015,AR
+sub-100029,SVM (Linear),Lempel-Ziv Complexity,0,0.3409439534456762,CL
+sub-10003,SVM (Linear),Lempel-Ziv Complexity,0,0.5,AR
+sub-100030,SVM (Linear),Lempel-Ziv Complexity,0,0.42475367861218466,AR
+sub-100031,SVM (Linear),Lempel-Ziv Complexity,0,0.35235513342236724,AR
+sub-100033,SVM (Linear),Lempel-Ziv Complexity,0,0.5115026433089482,AR
+sub-100034,SVM (Linear),Lempel-Ziv Complexity,0,0.38813411641209333,CL
+sub-100035,SVM (Linear),Lempel-Ziv Complexity,0,0.5481143599899848,AR
+sub-100037,SVM (Linear),Lempel-Ziv Complexity,0,0.3891369714847024,CL
+sub-100038,SVM (Linear),Lempel-Ziv Complexity,0,0.5332865136827714,AR
+sub-10004,SVM (Linear),Lempel-Ziv Complexity,0,0.4818368387085836,AR
+sub-100043,SVM (Linear),Lempel-Ziv Complexity,0,0.4871313578766137,CL
+sub-10005,SVM (Linear),Lempel-Ziv Complexity,0,0.21903864638020162,CL
+sub-10006,SVM (Linear),Lempel-Ziv Complexity,0,0.4803638760536673,AR
+sub-10007,SVM (Linear),Lempel-Ziv Complexity,0,0.26400861395360814,AR
+sub-10008,SVM (Linear),Lempel-Ziv Complexity,0,0.3646392549671124,CL
+sub-10009,SVM (Linear),Lempel-Ziv Complexity,0,0.46116714580016993,AR
+sub-30001,SVM (Linear),Lempel-Ziv Complexity,0,0.5272158383934796,AR
+sub-30002,SVM (Linear),Lempel-Ziv Complexity,0,0.4333410491634158,AR
+sub-30003,SVM (Linear),Lempel-Ziv Complexity,0,0.3991108452419193,CL
+sub-30004,SVM (Linear),Lempel-Ziv Complexity,0,0.4302179231294605,AR
+sub-30005,SVM (Linear),Lempel-Ziv Complexity,0,0.3033990802053513,CL
+sub-30006,SVM (Linear),Lempel-Ziv Complexity,1,0.5830566727055864,CL
+sub-30007,SVM (Linear),Lempel-Ziv Complexity,0,0.3510333758796029,CL
+sub-30008,SVM (Linear),Lempel-Ziv Complexity,0,0.3691141099753799,AR
+sub-30009,SVM (Linear),Lempel-Ziv Complexity,0,0.40640054215542437,AR
+sub-30010,SVM (Linear),Lempel-Ziv Complexity,0,0.5486221080480586,CL
+sub-30011,SVM (Linear),Lempel-Ziv Complexity,0,0.42532812167505646,AR
+sub-30012,SVM (Linear),Lempel-Ziv Complexity,0,0.5320443916850995,AR
+sub-30013,SVM (Linear),Lempel-Ziv Complexity,0,0.4253891725095307,AR
+sub-30014,SVM (Linear),Lempel-Ziv Complexity,0,0.43135688995604865,CL
+sub-30015,SVM (Linear),Lempel-Ziv Complexity,1,0.5994740217796887,AR
+sub-30016,SVM (Linear),Lempel-Ziv Complexity,0,0.5580595960137374,CL
+sub-30017,SVM (Linear),Lempel-Ziv Complexity,0,0.44253399333252225,AR
+sub-30018,SVM (Linear),Lempel-Ziv Complexity,0,0.5,AR
+sub-30019,SVM (Linear),Lempel-Ziv Complexity,0,0.3321499672918574,CL
+sub-30020,SVM (Linear),Lempel-Ziv Complexity,0,0.5436640192007793,AR
+sub-30021,SVM (Linear),Lempel-Ziv Complexity,0,0.4723682280851988,CL
+sub-30022,SVM (Linear),Lempel-Ziv Complexity,0,0.5479379194336431,AR
+sub-30023,SVM (Linear),Lempel-Ziv Complexity,0,0.5200911241377593,CL
+sub-30024,SVM (Linear),Lempel-Ziv Complexity,1,0.576137948041626,CL
+sub-30025,SVM (Linear),Lempel-Ziv Complexity,0,0.3889571321969383,CL
+sub-30026,SVM (Linear),Lempel-Ziv Complexity,0,0.4009493761923225,AR
+sub-30027,SVM (Linear),Lempel-Ziv Complexity,0,0.4395262170340389,CL
+sub-30028,SVM (Linear),Lempel-Ziv Complexity,0,0.20598035507092607,CL
+sub-30029,SVM (Linear),Lempel-Ziv Complexity,1,0.5824654924916354,AR
+sub-30030,SVM (Linear),Lempel-Ziv Complexity,0,0.4530556889367267,CL
+sub-30031,SVM (Linear),Lempel-Ziv Complexity,0,0.45062654478772496,AR
+sub-30032,SVM (Linear),Lempel-Ziv Complexity,0,0.40858452316600885,CL
+sub-30033,SVM (Linear),Lempel-Ziv Complexity,0,0.39014515774892283,CL
+sub-30034,SVM (Linear),Lempel-Ziv Complexity,1,0.5858696623770585,CL
+sub-30035,SVM (Linear),Lempel-Ziv Complexity,0,0.525937056692991,CL
+sub-10001,SVM (Linear),Phase-Amplitude Coupling,0,0.6203568453968586,CL
+sub-100010,SVM (Linear),Phase-Amplitude Coupling,0,0.6203184492249684,CL
+sub-100011,SVM (Linear),Phase-Amplitude Coupling,0,0.620327014807025,CL
+sub-100012,SVM (Linear),Phase-Amplitude Coupling,0,0.6202826420662947,AR
+sub-100014,SVM (Linear),Phase-Amplitude Coupling,0,0.6203254559969692,CL
+sub-100015,SVM (Linear),Phase-Amplitude Coupling,0,0.6202448959338308,AR
+sub-100016,SVM (Linear),Phase-Amplitude Coupling,0,0.620237195815599,CL
+sub-100017,SVM (Linear),Phase-Amplitude Coupling,0,0.6202057493647326,CL
+sub-100018,SVM (Linear),Phase-Amplitude Coupling,0,0.6203212768765656,AR
+sub-10002,SVM (Linear),Phase-Amplitude Coupling,0,0.6202943475000727,AR
+sub-100020,SVM (Linear),Phase-Amplitude Coupling,0,0.6203783373131648,AR
+sub-100021,SVM (Linear),Phase-Amplitude Coupling,0,0.6202786606754372,CL
+sub-100022,SVM (Linear),Phase-Amplitude Coupling,0,0.6202458424595795,AR
+sub-100024,SVM (Linear),Phase-Amplitude Coupling,0,0.620264120792946,AR
+sub-100026,SVM (Linear),Phase-Amplitude Coupling,0,0.6202966212383831,AR
+sub-100028,SVM (Linear),Phase-Amplitude Coupling,0,0.6202965321482204,AR
+sub-100029,SVM (Linear),Phase-Amplitude Coupling,0,0.6202444525379657,CL
+sub-10003,SVM (Linear),Phase-Amplitude Coupling,0,0.6202893226731225,AR
+sub-100030,SVM (Linear),Phase-Amplitude Coupling,0,0.6202928583464071,AR
+sub-100031,SVM (Linear),Phase-Amplitude Coupling,0,0.6203060615254441,AR
+sub-100033,SVM (Linear),Phase-Amplitude Coupling,0,0.6202851696429813,AR
+sub-100034,SVM (Linear),Phase-Amplitude Coupling,0,0.6202996037738228,CL
+sub-100035,SVM (Linear),Phase-Amplitude Coupling,0,0.6204003114245804,AR
+sub-100037,SVM (Linear),Phase-Amplitude Coupling,0,0.6202657198237109,CL
+sub-100038,SVM (Linear),Phase-Amplitude Coupling,0,0.620193415942206,AR
+sub-10004,SVM (Linear),Phase-Amplitude Coupling,0,0.620470435047629,AR
+sub-100043,SVM (Linear),Phase-Amplitude Coupling,0,0.6202597450198624,CL
+sub-10005,SVM (Linear),Phase-Amplitude Coupling,0,0.6202627349243455,CL
+sub-10006,SVM (Linear),Phase-Amplitude Coupling,0,0.6203493845264588,AR
+sub-10007,SVM (Linear),Phase-Amplitude Coupling,0,0.6203692192017297,AR
+sub-10008,SVM (Linear),Phase-Amplitude Coupling,0,0.6203239791661427,CL
+sub-10009,SVM (Linear),Phase-Amplitude Coupling,0,0.6202514400317366,AR
+sub-30001,SVM (Linear),Phase-Amplitude Coupling,0,0.6202908975536632,AR
+sub-30002,SVM (Linear),Phase-Amplitude Coupling,0,0.6202921104934717,AR
+sub-30003,SVM (Linear),Phase-Amplitude Coupling,0,0.6202841281652142,CL
+sub-30004,SVM (Linear),Phase-Amplitude Coupling,0,0.6203287963352568,AR
+sub-30005,SVM (Linear),Phase-Amplitude Coupling,0,0.6203031640812631,CL
+sub-30006,SVM (Linear),Phase-Amplitude Coupling,0,0.6204197910776731,CL
+sub-30007,SVM (Linear),Phase-Amplitude Coupling,0,0.6202351938260816,CL
+sub-30008,SVM (Linear),Phase-Amplitude Coupling,0,0.6202643249536427,AR
+sub-30009,SVM (Linear),Phase-Amplitude Coupling,0,0.6203234772564189,AR
+sub-30010,SVM (Linear),Phase-Amplitude Coupling,0,0.6202994542031475,CL
+sub-30011,SVM (Linear),Phase-Amplitude Coupling,0,0.6202729197169445,AR
+sub-30012,SVM (Linear),Phase-Amplitude Coupling,0,0.6203221840034647,AR
+sub-30013,SVM (Linear),Phase-Amplitude Coupling,0,0.6202404617884351,AR
+sub-30014,SVM (Linear),Phase-Amplitude Coupling,0,0.6202378043627165,CL
+sub-30015,SVM (Linear),Phase-Amplitude Coupling,0,0.6202676745610846,AR
+sub-30016,SVM (Linear),Phase-Amplitude Coupling,0,0.6203355082512522,CL
+sub-30017,SVM (Linear),Phase-Amplitude Coupling,0,0.6202643138343777,AR
+sub-30018,SVM (Linear),Phase-Amplitude Coupling,0,0.6203492879358309,AR
+sub-30019,SVM (Linear),Phase-Amplitude Coupling,0,0.6203105892535561,CL
+sub-30020,SVM (Linear),Phase-Amplitude Coupling,0,0.6203262052487558,AR
+sub-30021,SVM (Linear),Phase-Amplitude Coupling,0,0.6202997861450501,CL
+sub-30022,SVM (Linear),Phase-Amplitude Coupling,0,0.6203303822384416,AR
+sub-30023,SVM (Linear),Phase-Amplitude Coupling,0,0.6202681190449456,CL
+sub-30024,SVM (Linear),Phase-Amplitude Coupling,0,0.6203266290420227,CL
+sub-30025,SVM (Linear),Phase-Amplitude Coupling,0,0.6203359423484823,CL
+sub-30026,SVM (Linear),Phase-Amplitude Coupling,0,0.6203088279272002,AR
+sub-30027,SVM (Linear),Phase-Amplitude Coupling,0,0.6203016461329326,CL
+sub-30028,SVM (Linear),Phase-Amplitude Coupling,0,0.6202178843332535,CL
+sub-30029,SVM (Linear),Phase-Amplitude Coupling,0,0.6203154124227779,AR
+sub-30030,SVM (Linear),Phase-Amplitude Coupling,0,0.6203184295141148,CL
+sub-30031,SVM (Linear),Phase-Amplitude Coupling,0,0.620350755205482,AR
+sub-30032,SVM (Linear),Phase-Amplitude Coupling,0,0.6202305497731305,CL
+sub-30033,SVM (Linear),Phase-Amplitude Coupling,0,0.6203062467326909,CL
+sub-30034,SVM (Linear),Phase-Amplitude Coupling,0,0.6203371916274475,CL
+sub-30035,SVM (Linear),Phase-Amplitude Coupling,0,0.6203512286411129,CL
+sub-10001,SVM (Linear),Kuramoto Order,1,0.6847556124605353,CL
+sub-100010,SVM (Linear),Kuramoto Order,1,0.6469300823179979,CL
+sub-100011,SVM (Linear),Kuramoto Order,1,0.6570852280533016,CL
+sub-100012,SVM (Linear),Kuramoto Order,1,0.6654145157217718,AR
+sub-100014,SVM (Linear),Kuramoto Order,1,0.6657184550220073,CL
+sub-100015,SVM (Linear),Kuramoto Order,1,0.6502038614398921,AR
+sub-100016,SVM (Linear),Kuramoto Order,1,0.7844930602888873,CL
+sub-100017,SVM (Linear),Kuramoto Order,1,0.6087670513253108,CL
+sub-100018,SVM (Linear),Kuramoto Order,1,0.807234096799976,AR
+sub-10002,SVM (Linear),Kuramoto Order,1,0.6766695551043711,AR
+sub-100020,SVM (Linear),Kuramoto Order,1,0.6984330004336622,AR
+sub-100021,SVM (Linear),Kuramoto Order,1,0.7212136423918113,CL
+sub-100022,SVM (Linear),Kuramoto Order,1,0.5991552648226385,AR
+sub-100024,SVM (Linear),Kuramoto Order,0,0.5,AR
+sub-100026,SVM (Linear),Kuramoto Order,1,0.736429677718563,AR
+sub-100028,SVM (Linear),Kuramoto Order,1,0.7405343694952847,AR
+sub-100029,SVM (Linear),Kuramoto Order,1,0.7372701792283599,CL
+sub-10003,SVM (Linear),Kuramoto Order,1,0.759995956835133,AR
+sub-100030,SVM (Linear),Kuramoto Order,1,0.6698986759774412,AR
+sub-100031,SVM (Linear),Kuramoto Order,1,0.7729530730925349,AR
+sub-100033,SVM (Linear),Kuramoto Order,1,0.6990719650533159,AR
+sub-100034,SVM (Linear),Kuramoto Order,1,0.6881418371291339,CL
+sub-100035,SVM (Linear),Kuramoto Order,1,0.62244244053519,AR
+sub-100037,SVM (Linear),Kuramoto Order,1,0.7425592696437365,CL
+sub-100038,SVM (Linear),Kuramoto Order,1,0.7436637417765788,AR
+sub-10004,SVM (Linear),Kuramoto Order,1,0.7497962500718115,AR
+sub-100043,SVM (Linear),Kuramoto Order,1,0.7237324355483142,CL
+sub-10005,SVM (Linear),Kuramoto Order,1,0.6576693309177924,CL
+sub-10006,SVM (Linear),Kuramoto Order,1,0.6776890464518713,AR
+sub-10007,SVM (Linear),Kuramoto Order,1,0.7464076599452981,AR
+sub-10008,SVM (Linear),Kuramoto Order,1,0.7011980701040932,CL
+sub-10009,SVM (Linear),Kuramoto Order,1,0.6610374012334319,AR
+sub-30001,SVM (Linear),Kuramoto Order,1,0.6793915656211859,AR
+sub-30002,SVM (Linear),Kuramoto Order,0,0.5640892075094958,AR
+sub-30003,SVM (Linear),Kuramoto Order,1,0.6757089932065287,CL
+sub-30004,SVM (Linear),Kuramoto Order,1,0.6615570402124826,AR
+sub-30005,SVM (Linear),Kuramoto Order,1,0.7251425178770438,CL
+sub-30006,SVM (Linear),Kuramoto Order,1,0.7454329240259466,CL
+sub-30007,SVM (Linear),Kuramoto Order,1,0.6260880716884244,CL
+sub-30008,SVM (Linear),Kuramoto Order,1,0.71979156587185,AR
+sub-30009,SVM (Linear),Kuramoto Order,1,0.6478507588562696,AR
+sub-30010,SVM (Linear),Kuramoto Order,1,0.6123404631681005,CL
+sub-30011,SVM (Linear),Kuramoto Order,1,0.714432117483788,AR
+sub-30012,SVM (Linear),Kuramoto Order,1,0.7520497995904691,AR
+sub-30013,SVM (Linear),Kuramoto Order,1,0.6910318673622138,AR
+sub-30014,SVM (Linear),Kuramoto Order,1,0.6399157259186998,CL
+sub-30015,SVM (Linear),Kuramoto Order,1,0.6878674502745982,AR
+sub-30016,SVM (Linear),Kuramoto Order,1,0.6977744974776673,CL
+sub-30017,SVM (Linear),Kuramoto Order,0,0.5561618782220628,AR
+sub-30018,SVM (Linear),Kuramoto Order,1,0.7368146542425045,AR
+sub-30019,SVM (Linear),Kuramoto Order,1,0.7783518972760739,CL
+sub-30020,SVM (Linear),Kuramoto Order,1,0.7415102193203003,AR
+sub-30021,SVM (Linear),Kuramoto Order,1,0.6019889931575791,CL
+sub-30022,SVM (Linear),Kuramoto Order,1,0.643306847207796,AR
+sub-30023,SVM (Linear),Kuramoto Order,1,0.6649188187389393,CL
+sub-30024,SVM (Linear),Kuramoto Order,1,0.6440820762169294,CL
+sub-30025,SVM (Linear),Kuramoto Order,1,0.6418292806014201,CL
+sub-30026,SVM (Linear),Kuramoto Order,1,0.6709124706976913,AR
+sub-30027,SVM (Linear),Kuramoto Order,1,0.6474415018140844,CL
+sub-30028,SVM (Linear),Kuramoto Order,1,0.6533890543078941,CL
+sub-30029,SVM (Linear),Kuramoto Order,1,0.7418368680917942,AR
+sub-30030,SVM (Linear),Kuramoto Order,1,0.6498924062797086,CL
+sub-30031,SVM (Linear),Kuramoto Order,1,0.8064916072980434,AR
+sub-30032,SVM (Linear),Kuramoto Order,1,0.7654284007951236,CL
+sub-30033,SVM (Linear),Kuramoto Order,0,0.512158423307412,CL
+sub-30034,SVM (Linear),Kuramoto Order,1,0.635973840498673,CL
+sub-30035,SVM (Linear),Kuramoto Order,1,0.6108167136252245,CL
+sub-10001,SVM (Linear),Mutual Information,1,0.7069035766852503,CL
+sub-100010,SVM (Linear),Mutual Information,1,0.6732448414064722,CL
+sub-100011,SVM (Linear),Mutual Information,1,0.7335803106381504,CL
+sub-100012,SVM (Linear),Mutual Information,1,0.7602914092946979,AR
+sub-100014,SVM (Linear),Mutual Information,1,0.7487650870171283,CL
+sub-100015,SVM (Linear),Mutual Information,1,0.7439900348550179,AR
+sub-100016,SVM (Linear),Mutual Information,1,0.800884337977877,CL
+sub-100017,SVM (Linear),Mutual Information,1,0.7238581420438216,CL
+sub-100018,SVM (Linear),Mutual Information,1,0.8136069910695614,AR
+sub-10002,SVM (Linear),Mutual Information,1,0.7239023556857913,AR
+sub-100020,SVM (Linear),Mutual Information,1,0.7333504083982989,AR
+sub-100021,SVM (Linear),Mutual Information,1,0.7745156923906957,CL
+sub-100022,SVM (Linear),Mutual Information,1,0.7172294810746928,AR
+sub-100024,SVM (Linear),Mutual Information,1,0.6578978739115844,AR
+sub-100026,SVM (Linear),Mutual Information,1,0.7216581813516754,AR
+sub-100028,SVM (Linear),Mutual Information,1,0.7851566198782368,AR
+sub-100029,SVM (Linear),Mutual Information,1,0.8059649608231249,CL
+sub-10003,SVM (Linear),Mutual Information,1,0.7689176711069725,AR
+sub-100030,SVM (Linear),Mutual Information,1,0.7399871420970442,AR
+sub-100031,SVM (Linear),Mutual Information,1,0.7949236399524474,AR
+sub-100033,SVM (Linear),Mutual Information,1,0.7094680963618563,AR
+sub-100034,SVM (Linear),Mutual Information,1,0.7241084491774993,CL
+sub-100035,SVM (Linear),Mutual Information,1,0.6606516000006731,AR
+sub-100037,SVM (Linear),Mutual Information,1,0.7194721957244309,CL
+sub-100038,SVM (Linear),Mutual Information,1,0.7196372593829145,AR
+sub-10004,SVM (Linear),Mutual Information,1,0.7587580017203436,AR
+sub-100043,SVM (Linear),Mutual Information,1,0.7447249283318134,CL
+sub-10005,SVM (Linear),Mutual Information,1,0.7222461616855309,CL
+sub-10006,SVM (Linear),Mutual Information,1,0.7098661096185566,AR
+sub-10007,SVM (Linear),Mutual Information,1,0.8286270620399081,AR
+sub-10008,SVM (Linear),Mutual Information,1,0.7247578869125773,CL
+sub-10009,SVM (Linear),Mutual Information,1,0.720648637119156,AR
+sub-30001,SVM (Linear),Mutual Information,1,0.676316492109141,AR
+sub-30002,SVM (Linear),Mutual Information,1,0.652234464308727,AR
+sub-30003,SVM (Linear),Mutual Information,1,0.7336240667660224,CL
+sub-30004,SVM (Linear),Mutual Information,1,0.702847523333966,AR
+sub-30005,SVM (Linear),Mutual Information,1,0.7154115870857557,CL
+sub-30006,SVM (Linear),Mutual Information,1,0.7062372241391268,CL
+sub-30007,SVM (Linear),Mutual Information,1,0.6896422679682408,CL
+sub-30008,SVM (Linear),Mutual Information,1,0.7467686961371647,AR
+sub-30009,SVM (Linear),Mutual Information,1,0.6785416805769823,AR
+sub-30010,SVM (Linear),Mutual Information,1,0.6542408591289438,CL
+sub-30011,SVM (Linear),Mutual Information,1,0.7272701942782983,AR
+sub-30012,SVM (Linear),Mutual Information,1,0.7076311811355791,AR
+sub-30013,SVM (Linear),Mutual Information,1,0.7493707256258311,AR
+sub-30014,SVM (Linear),Mutual Information,1,0.6819282141626973,CL
+sub-30015,SVM (Linear),Mutual Information,1,0.7317846045978376,AR
+sub-30016,SVM (Linear),Mutual Information,1,0.690258848548696,CL
+sub-30017,SVM (Linear),Mutual Information,1,0.6854581748136115,AR
+sub-30018,SVM (Linear),Mutual Information,1,0.7783479240289081,AR
+sub-30019,SVM (Linear),Mutual Information,1,0.801543347352498,CL
+sub-30020,SVM (Linear),Mutual Information,1,0.7332744599894672,AR
+sub-30021,SVM (Linear),Mutual Information,1,0.6326541441759496,CL
+sub-30022,SVM (Linear),Mutual Information,1,0.684402025250962,AR
+sub-30023,SVM (Linear),Mutual Information,1,0.7045962539260173,CL
+sub-30024,SVM (Linear),Mutual Information,1,0.6772246790124722,CL
+sub-30025,SVM (Linear),Mutual Information,1,0.6905088516391014,CL
+sub-30026,SVM (Linear),Mutual Information,1,0.6874456730352689,AR
+sub-30027,SVM (Linear),Mutual Information,1,0.6891671087078752,CL
+sub-30028,SVM (Linear),Mutual Information,1,0.7623853669379655,CL
+sub-30029,SVM (Linear),Mutual Information,1,0.7568831057358087,AR
+sub-30030,SVM (Linear),Mutual Information,1,0.6738819932526088,CL
+sub-30031,SVM (Linear),Mutual Information,1,0.7902413588939818,AR
+sub-30032,SVM (Linear),Mutual Information,1,0.7129188601588126,CL
+sub-30033,SVM (Linear),Mutual Information,1,0.5743109007253779,CL
+sub-30034,SVM (Linear),Mutual Information,1,0.6825030004218379,CL
+sub-30035,SVM (Linear),Mutual Information,1,0.654552491589315,CL
+sub-10001,SVM (Linear),Assinatura Completa (Multivariado),0,0.09370368109614877,CL
+sub-100010,SVM (Linear),Assinatura Completa (Multivariado),0,0.3840014559859971,CL
+sub-100011,SVM (Linear),Assinatura Completa (Multivariado),0,0.0024064854113222648,CL
+sub-100012,SVM (Linear),Assinatura Completa (Multivariado),0,0.0009596548317042824,AR
+sub-100014,SVM (Linear),Assinatura Completa (Multivariado),0,0.014500993620206447,CL
+sub-100015,SVM (Linear),Assinatura Completa (Multivariado),0,0.00043813777547945367,AR
+sub-100016,SVM (Linear),Assinatura Completa (Multivariado),0,0.0005979757823400282,CL
+sub-100017,SVM (Linear),Assinatura Completa (Multivariado),0,0.00014926891524537117,CL
+sub-100018,SVM (Linear),Assinatura Completa (Multivariado),0,0.00800223353712713,AR
+sub-10002,SVM (Linear),Assinatura Completa (Multivariado),0,0.05473925151119429,AR
+sub-100020,SVM (Linear),Assinatura Completa (Multivariado),1,0.6557192623497128,AR
+sub-100021,SVM (Linear),Assinatura Completa (Multivariado),0,0.0015827091728925458,CL
+sub-100022,SVM (Linear),Assinatura Completa (Multivariado),0,0.0024241392785859027,AR
+sub-100024,SVM (Linear),Assinatura Completa (Multivariado),0,0.0811533045686969,AR
+sub-100026,SVM (Linear),Assinatura Completa (Multivariado),0,0.02295310354116052,AR
+sub-100028,SVM (Linear),Assinatura Completa (Multivariado),0,0.0063450684236345395,AR
+sub-100029,SVM (Linear),Assinatura Completa (Multivariado),0,0.0006092763303456803,CL
+sub-10003,SVM (Linear),Assinatura Completa (Multivariado),0,0.03472861914390641,AR
+sub-100030,SVM (Linear),Assinatura Completa (Multivariado),0,0.01129778375680728,AR
+sub-100031,SVM (Linear),Assinatura Completa (Multivariado),0,0.00505952370595456,AR
+sub-100033,SVM (Linear),Assinatura Completa (Multivariado),0,0.17119718456278493,AR
+sub-100034,SVM (Linear),Assinatura Completa (Multivariado),0,0.0596448921060093,CL
+sub-100035,SVM (Linear),Assinatura Completa (Multivariado),1,0.8828862089912543,AR
+sub-100037,SVM (Linear),Assinatura Completa (Multivariado),0,0.00295406340673327,CL
+sub-100038,SVM (Linear),Assinatura Completa (Multivariado),0,0.05528497331022968,AR
+sub-10004,SVM (Linear),Assinatura Completa (Multivariado),0,0.11278262038108944,AR
+sub-100043,SVM (Linear),Assinatura Completa (Multivariado),0,0.004406210994026458,CL
+sub-10005,SVM (Linear),Assinatura Completa (Multivariado),0,0.0025235747589370237,CL
+sub-10006,SVM (Linear),Assinatura Completa (Multivariado),0,0.07145703087356103,AR
+sub-10007,SVM (Linear),Assinatura Completa (Multivariado),0,0.0009952674869573744,AR
+sub-10008,SVM (Linear),Assinatura Completa (Multivariado),0,0.11315788695347137,CL
+sub-10009,SVM (Linear),Assinatura Completa (Multivariado),0,0.018248121437107107,AR
+sub-30001,SVM (Linear),Assinatura Completa (Multivariado),1,0.9213722279030888,AR
+sub-30002,SVM (Linear),Assinatura Completa (Multivariado),1,0.9716799895580728,AR
+sub-30003,SVM (Linear),Assinatura Completa (Multivariado),0,0.034714886960772906,CL
+sub-30004,SVM (Linear),Assinatura Completa (Multivariado),0,0.04679583567893522,AR
+sub-30005,SVM (Linear),Assinatura Completa (Multivariado),0,0.026055701804937506,CL
+sub-30006,SVM (Linear),Assinatura Completa (Multivariado),1,0.9767742663626725,CL
+sub-30007,SVM (Linear),Assinatura Completa (Multivariado),0,0.008812396369570435,CL
+sub-30008,SVM (Linear),Assinatura Completa (Multivariado),0,0.01046092282283389,AR
+sub-30009,SVM (Linear),Assinatura Completa (Multivariado),0,0.16385564936058047,AR
+sub-30010,SVM (Linear),Assinatura Completa (Multivariado),1,0.8354543460413804,CL
+sub-30011,SVM (Linear),Assinatura Completa (Multivariado),0,0.005477419404138948,AR
+sub-30012,SVM (Linear),Assinatura Completa (Multivariado),0,0.14545325534707781,AR
+sub-30013,SVM (Linear),Assinatura Completa (Multivariado),0,0.014719390483605288,AR
+sub-30014,SVM (Linear),Assinatura Completa (Multivariado),0,0.27378162612765095,CL
+sub-30015,SVM (Linear),Assinatura Completa (Multivariado),0,0.09546836331492534,AR
+sub-30016,SVM (Linear),Assinatura Completa (Multivariado),1,0.8583921083147146,CL
+sub-30017,SVM (Linear),Assinatura Completa (Multivariado),0,0.16520619723529148,AR
+sub-30018,SVM (Linear),Assinatura Completa (Multivariado),0,0.1732476768597917,AR
+sub-30019,SVM (Linear),Assinatura Completa (Multivariado),0,0.0048157341176955255,CL
+sub-30020,SVM (Linear),Assinatura Completa (Multivariado),0,0.15265863184894854,AR
+sub-30021,SVM (Linear),Assinatura Completa (Multivariado),1,0.9542170899440007,CL
+sub-30022,SVM (Linear),Assinatura Completa (Multivariado),0,0.5348623826261345,AR
+sub-30023,SVM (Linear),Assinatura Completa (Multivariado),0,0.54357780930446,CL
+sub-30024,SVM (Linear),Assinatura Completa (Multivariado),1,0.6316403080980365,CL
+sub-30025,SVM (Linear),Assinatura Completa (Multivariado),0,0.06082091564332827,CL
+sub-30026,SVM (Linear),Assinatura Completa (Multivariado),1,0.7345945915827848,AR
+sub-30027,SVM (Linear),Assinatura Completa (Multivariado),0,0.3412208624932549,CL
+sub-30028,SVM (Linear),Assinatura Completa (Multivariado),0,5.304256829697323e-05,CL
+sub-30029,SVM (Linear),Assinatura Completa (Multivariado),0,0.15095988400849214,AR
+sub-30030,SVM (Linear),Assinatura Completa (Multivariado),1,0.7280473501872081,CL
+sub-30031,SVM (Linear),Assinatura Completa (Multivariado),0,0.06280972983381589,AR
+sub-30032,SVM (Linear),Assinatura Completa (Multivariado),0,0.02134691402076648,CL
+sub-30033,SVM (Linear),Assinatura Completa (Multivariado),0,0.5184241025533323,CL
+sub-30034,SVM (Linear),Assinatura Completa (Multivariado),0,0.520759472032742,CL
+sub-30035,SVM (Linear),Assinatura Completa (Multivariado),1,0.6773776835558412,CL
+sub-10001,XGBoost,Baseline (RBP),0,0.44307243824005127,CL
+sub-100010,XGBoost,Baseline (RBP),0,0.4206245541572571,CL
+sub-100011,XGBoost,Baseline (RBP),0,0.3418295979499817,CL
+sub-100012,XGBoost,Baseline (RBP),0,0.3418295979499817,AR
+sub-100014,XGBoost,Baseline (RBP),0,0.4323766231536865,CL
+sub-100015,XGBoost,Baseline (RBP),0,0.27213728427886963,AR
+sub-100016,XGBoost,Baseline (RBP),0,0.4549591541290283,CL
+sub-100017,XGBoost,Baseline (RBP),0,0.3626311123371124,CL
+sub-100018,XGBoost,Baseline (RBP),0,0.4206245541572571,AR
+sub-10002,XGBoost,Baseline (RBP),0,0.4206245541572571,AR
+sub-100020,XGBoost,Baseline (RBP),1,0.5265348553657532,AR
+sub-100021,XGBoost,Baseline (RBP),0,0.4323766231536865,CL
+sub-100022,XGBoost,Baseline (RBP),0,0.4206245541572571,AR
+sub-100024,XGBoost,Baseline (RBP),0,0.4323766231536865,AR
+sub-100026,XGBoost,Baseline (RBP),0,0.33128905296325684,AR
+sub-100028,XGBoost,Baseline (RBP),0,0.07158050686120987,AR
+sub-100029,XGBoost,Baseline (RBP),0,0.3418295979499817,CL
+sub-10003,XGBoost,Baseline (RBP),0,0.44307243824005127,AR
+sub-100030,XGBoost,Baseline (RBP),0,0.4206245541572571,AR
+sub-100031,XGBoost,Baseline (RBP),0,0.44307243824005127,AR
+sub-100033,XGBoost,Baseline (RBP),1,0.5265348553657532,AR
+sub-100034,XGBoost,Baseline (RBP),1,0.5265348553657532,CL
+sub-100035,XGBoost,Baseline (RBP),0,0.4206245541572571,AR
+sub-100037,XGBoost,Baseline (RBP),0,0.44307243824005127,CL
+sub-100038,XGBoost,Baseline (RBP),0,0.44307243824005127,AR
+sub-10004,XGBoost,Baseline (RBP),1,0.5265348553657532,AR
+sub-100043,XGBoost,Baseline (RBP),0,0.07158050686120987,CL
+sub-10005,XGBoost,Baseline (RBP),0,0.3626311123371124,CL
+sub-10006,XGBoost,Baseline (RBP),0,0.4206245541572571,AR
+sub-10007,XGBoost,Baseline (RBP),0,0.10562680661678314,AR
+sub-10008,XGBoost,Baseline (RBP),0,0.4323766231536865,CL
+sub-10009,XGBoost,Baseline (RBP),0,0.3418295979499817,AR
+sub-30001,XGBoost,Baseline (RBP),0,0.4323766231536865,AR
+sub-30002,XGBoost,Baseline (RBP),0,0.4323766231536865,AR
+sub-30003,XGBoost,Baseline (RBP),0,0.44307243824005127,CL
+sub-30004,XGBoost,Baseline (RBP),0,0.4206245541572571,AR
+sub-30005,XGBoost,Baseline (RBP),0,0.3626311123371124,CL
+sub-30006,XGBoost,Baseline (RBP),0,0.4323766231536865,CL
+sub-30007,XGBoost,Baseline (RBP),0,0.4323766231536865,CL
+sub-30008,XGBoost,Baseline (RBP),0,0.4323766231536865,AR
+sub-30009,XGBoost,Baseline (RBP),0,0.3626311123371124,AR
+sub-30010,XGBoost,Baseline (RBP),1,0.5265348553657532,CL
+sub-30011,XGBoost,Baseline (RBP),0,0.33128905296325684,AR
+sub-30012,XGBoost,Baseline (RBP),0,0.44307243824005127,AR
+sub-30013,XGBoost,Baseline (RBP),0,0.44307243824005127,AR
+sub-30014,XGBoost,Baseline (RBP),0,0.3626311123371124,CL
+sub-30015,XGBoost,Baseline (RBP),0,0.10562680661678314,AR
+sub-30016,XGBoost,Baseline (RBP),1,0.5265348553657532,CL
+sub-30017,XGBoost,Baseline (RBP),0,0.4323766231536865,AR
+sub-30018,XGBoost,Baseline (RBP),1,0.5265348553657532,AR
+sub-30019,XGBoost,Baseline (RBP),0,0.3418295979499817,CL
+sub-30020,XGBoost,Baseline (RBP),1,0.5265348553657532,AR
+sub-30021,XGBoost,Baseline (RBP),0,0.4323766231536865,CL
+sub-30022,XGBoost,Baseline (RBP),0,0.4206245541572571,AR
+sub-30023,XGBoost,Baseline (RBP),0,0.4323766231536865,CL
+sub-30024,XGBoost,Baseline (RBP),0,0.4314565062522888,CL
+sub-30025,XGBoost,Baseline (RBP),0,0.4323766231536865,CL
+sub-30026,XGBoost,Baseline (RBP),0,0.4323766231536865,AR
+sub-30027,XGBoost,Baseline (RBP),1,0.5265348553657532,CL
+sub-30028,XGBoost,Baseline (RBP),0,0.2796672582626343,CL
+sub-30029,XGBoost,Baseline (RBP),0,0.4206245541572571,AR
+sub-30030,XGBoost,Baseline (RBP),0,0.3626311123371124,CL
+sub-30031,XGBoost,Baseline (RBP),0,0.4314565062522888,AR
+sub-30032,XGBoost,Baseline (RBP),0,0.3229924142360687,CL
+sub-30033,XGBoost,Baseline (RBP),0,0.3626311123371124,CL
+sub-30034,XGBoost,Baseline (RBP),0,0.4206245541572571,CL
+sub-30035,XGBoost,Baseline (RBP),1,0.5265348553657532,CL
+sub-10001,XGBoost,Mean Frequency,1,0.911812424659729,CL
+sub-100010,XGBoost,Mean Frequency,1,0.9757165908813477,CL
+sub-100011,XGBoost,Mean Frequency,0,0.3530200719833374,CL
+sub-100012,XGBoost,Mean Frequency,0,0.21816809475421906,AR
+sub-100014,XGBoost,Mean Frequency,1,0.6082118153572083,CL
+sub-100015,XGBoost,Mean Frequency,1,0.8335986137390137,AR
+sub-100016,XGBoost,Mean Frequency,1,0.7020016312599182,CL
+sub-100017,XGBoost,Mean Frequency,1,0.8335986137390137,CL
+sub-100018,XGBoost,Mean Frequency,0,0.15716566145420074,AR
+sub-10002,XGBoost,Mean Frequency,0,0.21816809475421906,AR
+sub-100020,XGBoost,Mean Frequency,1,0.9731364846229553,AR
+sub-100021,XGBoost,Mean Frequency,1,0.8428645133972168,CL
+sub-100022,XGBoost,Mean Frequency,0,0.21816809475421906,AR
+sub-100024,XGBoost,Mean Frequency,1,0.8965283036231995,AR
+sub-100026,XGBoost,Mean Frequency,0,0.1422097384929657,AR
+sub-100028,XGBoost,Mean Frequency,0,0.4836002290248871,AR
+sub-100029,XGBoost,Mean Frequency,0,0.1540219932794571,CL
+sub-10003,XGBoost,Mean Frequency,1,0.7815516591072083,AR
+sub-100030,XGBoost,Mean Frequency,1,0.942342221736908,AR
+sub-100031,XGBoost,Mean Frequency,1,0.861473560333252,AR
+sub-100033,XGBoost,Mean Frequency,0,0.22417990863323212,AR
+sub-100034,XGBoost,Mean Frequency,1,0.6082118153572083,CL
+sub-100035,XGBoost,Mean Frequency,1,0.8965283036231995,AR
+sub-100037,XGBoost,Mean Frequency,0,0.441561222076416,CL
+sub-100038,XGBoost,Mean Frequency,0,0.17842459678649902,AR
+sub-10004,XGBoost,Mean Frequency,0,0.22417990863323212,AR
+sub-100043,XGBoost,Mean Frequency,0,0.22473075985908508,CL
+sub-10005,XGBoost,Mean Frequency,0,0.19328786432743073,CL
+sub-10006,XGBoost,Mean Frequency,0,0.21816809475421906,AR
+sub-10007,XGBoost,Mean Frequency,1,0.8965283036231995,AR
+sub-10008,XGBoost,Mean Frequency,1,0.7666511535644531,CL
+sub-10009,XGBoost,Mean Frequency,1,0.7767247557640076,AR
+sub-30001,XGBoost,Mean Frequency,1,0.688245415687561,AR
+sub-30002,XGBoost,Mean Frequency,1,0.8965283036231995,AR
+sub-30003,XGBoost,Mean Frequency,1,0.8915542364120483,CL
+sub-30004,XGBoost,Mean Frequency,1,0.8264485597610474,AR
+sub-30005,XGBoost,Mean Frequency,1,0.7237475514411926,CL
+sub-30006,XGBoost,Mean Frequency,1,0.9620836973190308,CL
+sub-30007,XGBoost,Mean Frequency,0,0.48059022426605225,CL
+sub-30008,XGBoost,Mean Frequency,1,0.8213526606559753,AR
+sub-30009,XGBoost,Mean Frequency,1,0.6843986511230469,AR
+sub-30010,XGBoost,Mean Frequency,1,0.9314641952514648,CL
+sub-30011,XGBoost,Mean Frequency,0,0.179678276181221,AR
+sub-30012,XGBoost,Mean Frequency,0,0.32046812772750854,AR
+sub-30013,XGBoost,Mean Frequency,1,0.6907936930656433,AR
+sub-30014,XGBoost,Mean Frequency,1,0.8335986137390137,CL
+sub-30015,XGBoost,Mean Frequency,1,0.7815516591072083,AR
+sub-30016,XGBoost,Mean Frequency,1,0.9779860377311707,CL
+sub-30017,XGBoost,Mean Frequency,0,0.2927934229373932,AR
+sub-30018,XGBoost,Mean Frequency,1,0.8839757442474365,AR
+sub-30019,XGBoost,Mean Frequency,0,0.48059022426605225,CL
+sub-30020,XGBoost,Mean Frequency,0,0.25239208340644836,AR
+sub-30021,XGBoost,Mean Frequency,1,0.6082118153572083,CL
+sub-30022,XGBoost,Mean Frequency,1,0.8965283036231995,AR
+sub-30023,XGBoost,Mean Frequency,1,0.8965283036231995,CL
+sub-30024,XGBoost,Mean Frequency,1,0.5848203301429749,CL
+sub-30025,XGBoost,Mean Frequency,1,0.5848203301429749,CL
+sub-30026,XGBoost,Mean Frequency,1,0.7034969925880432,AR
+sub-30027,XGBoost,Mean Frequency,1,0.5979804396629333,CL
+sub-30028,XGBoost,Mean Frequency,1,0.9364078044891357,CL
+sub-30029,XGBoost,Mean Frequency,0,0.2109592705965042,AR
+sub-30030,XGBoost,Mean Frequency,1,0.8581996560096741,CL
+sub-30031,XGBoost,Mean Frequency,1,0.861473560333252,AR
+sub-30032,XGBoost,Mean Frequency,0,0.22417990863323212,CL
+sub-30033,XGBoost,Mean Frequency,0,0.40438178181648254,CL
+sub-30034,XGBoost,Mean Frequency,1,0.6843986511230469,CL
+sub-30035,XGBoost,Mean Frequency,1,0.6967906355857849,CL
+sub-10001,XGBoost,Lempel-Ziv Complexity,0,0.24408116936683655,CL
+sub-100010,XGBoost,Lempel-Ziv Complexity,0,0.4186587333679199,CL
+sub-100011,XGBoost,Lempel-Ziv Complexity,0,0.3607243299484253,CL
+sub-100012,XGBoost,Lempel-Ziv Complexity,0,0.19282202422618866,AR
+sub-100014,XGBoost,Lempel-Ziv Complexity,0,0.3868767321109772,CL
+sub-100015,XGBoost,Lempel-Ziv Complexity,0,0.19282202422618866,AR
+sub-100016,XGBoost,Lempel-Ziv Complexity,0,0.4258648455142975,CL
+sub-100017,XGBoost,Lempel-Ziv Complexity,0,0.19282202422618866,CL
+sub-100018,XGBoost,Lempel-Ziv Complexity,0,0.18974539637565613,AR
+sub-10002,XGBoost,Lempel-Ziv Complexity,0,0.2147194892168045,AR
+sub-100020,XGBoost,Lempel-Ziv Complexity,0,0.4186587333679199,AR
+sub-100021,XGBoost,Lempel-Ziv Complexity,0,0.4606764316558838,CL
+sub-100022,XGBoost,Lempel-Ziv Complexity,0,0.12457543611526489,AR
+sub-100024,XGBoost,Lempel-Ziv Complexity,0,0.19282202422618866,AR
+sub-100026,XGBoost,Lempel-Ziv Complexity,0,0.16534361243247986,AR
+sub-100028,XGBoost,Lempel-Ziv Complexity,0,0.18974539637565613,AR
+sub-100029,XGBoost,Lempel-Ziv Complexity,0,0.3597499132156372,CL
+sub-10003,XGBoost,Lempel-Ziv Complexity,0,0.1468154489994049,AR
+sub-100030,XGBoost,Lempel-Ziv Complexity,0,0.18974539637565613,AR
+sub-100031,XGBoost,Lempel-Ziv Complexity,0,0.3597499132156372,AR
+sub-100033,XGBoost,Lempel-Ziv Complexity,0,0.16824983060359955,AR
+sub-100034,XGBoost,Lempel-Ziv Complexity,0,0.4040219187736511,CL
+sub-100035,XGBoost,Lempel-Ziv Complexity,1,0.9665241241455078,AR
+sub-100037,XGBoost,Lempel-Ziv Complexity,0,0.18974539637565613,CL
+sub-100038,XGBoost,Lempel-Ziv Complexity,0,0.1468154489994049,AR
+sub-10004,XGBoost,Lempel-Ziv Complexity,0,0.1468154489994049,AR
+sub-100043,XGBoost,Lempel-Ziv Complexity,0,0.16534361243247986,CL
+sub-10005,XGBoost,Lempel-Ziv Complexity,0,0.19282202422618866,CL
+sub-10006,XGBoost,Lempel-Ziv Complexity,0,0.18471582233905792,AR
+sub-10007,XGBoost,Lempel-Ziv Complexity,0,0.19282202422618866,AR
+sub-10008,XGBoost,Lempel-Ziv Complexity,0,0.19282202422618866,CL
+sub-10009,XGBoost,Lempel-Ziv Complexity,0,0.16534361243247986,AR
+sub-30001,XGBoost,Lempel-Ziv Complexity,0,0.18548966944217682,AR
+sub-30002,XGBoost,Lempel-Ziv Complexity,0,0.18974539637565613,AR
+sub-30003,XGBoost,Lempel-Ziv Complexity,0,0.4258648455142975,CL
+sub-30004,XGBoost,Lempel-Ziv Complexity,0,0.18974539637565613,AR
+sub-30005,XGBoost,Lempel-Ziv Complexity,0,0.19282202422618866,CL
+sub-30006,XGBoost,Lempel-Ziv Complexity,1,0.953833281993866,CL
+sub-30007,XGBoost,Lempel-Ziv Complexity,0,0.19282202422618866,CL
+sub-30008,XGBoost,Lempel-Ziv Complexity,0,0.4606764316558838,AR
+sub-30009,XGBoost,Lempel-Ziv Complexity,0,0.3826224207878113,AR
+sub-30010,XGBoost,Lempel-Ziv Complexity,0,0.11402709037065506,CL
+sub-30011,XGBoost,Lempel-Ziv Complexity,0,0.33929410576820374,AR
+sub-30012,XGBoost,Lempel-Ziv Complexity,0,0.15263628959655762,AR
+sub-30013,XGBoost,Lempel-Ziv Complexity,0,0.18974539637565613,AR
+sub-30014,XGBoost,Lempel-Ziv Complexity,0,0.18974539637565613,CL
+sub-30015,XGBoost,Lempel-Ziv Complexity,1,0.9052446484565735,AR
+sub-30016,XGBoost,Lempel-Ziv Complexity,0,0.29145053029060364,CL
+sub-30017,XGBoost,Lempel-Ziv Complexity,0,0.16534361243247986,AR
+sub-30018,XGBoost,Lempel-Ziv Complexity,0,0.16824983060359955,AR
+sub-30019,XGBoost,Lempel-Ziv Complexity,0,0.19282202422618866,CL
+sub-30020,XGBoost,Lempel-Ziv Complexity,0,0.1695398986339569,AR
+sub-30021,XGBoost,Lempel-Ziv Complexity,0,0.18089713156223297,CL
+sub-30022,XGBoost,Lempel-Ziv Complexity,1,0.9665241241455078,AR
+sub-30023,XGBoost,Lempel-Ziv Complexity,0,0.15263628959655762,CL
+sub-30024,XGBoost,Lempel-Ziv Complexity,1,0.9265776872634888,CL
+sub-30025,XGBoost,Lempel-Ziv Complexity,0,0.4258648455142975,CL
+sub-30026,XGBoost,Lempel-Ziv Complexity,0,0.4040219187736511,AR
+sub-30027,XGBoost,Lempel-Ziv Complexity,0,0.36575964093208313,CL
+sub-30028,XGBoost,Lempel-Ziv Complexity,0,0.3597499132156372,CL
+sub-30029,XGBoost,Lempel-Ziv Complexity,1,0.9562495350837708,AR
+sub-30030,XGBoost,Lempel-Ziv Complexity,0,0.16534361243247986,CL
+sub-30031,XGBoost,Lempel-Ziv Complexity,0,0.4040219187736511,AR
+sub-30032,XGBoost,Lempel-Ziv Complexity,0,0.18974539637565613,CL
+sub-30033,XGBoost,Lempel-Ziv Complexity,0,0.18974539637565613,CL
+sub-30034,XGBoost,Lempel-Ziv Complexity,1,0.9562495350837708,CL
+sub-30035,XGBoost,Lempel-Ziv Complexity,0,0.4186587333679199,CL
+sub-10001,XGBoost,Phase-Amplitude Coupling,1,0.7704787850379944,CL
+sub-100010,XGBoost,Phase-Amplitude Coupling,1,0.6441259384155273,CL
+sub-100011,XGBoost,Phase-Amplitude Coupling,0,0.21072976291179657,CL
+sub-100012,XGBoost,Phase-Amplitude Coupling,1,0.6980639696121216,AR
+sub-100014,XGBoost,Phase-Amplitude Coupling,1,0.8906031250953674,CL
+sub-100015,XGBoost,Phase-Amplitude Coupling,1,0.6629514098167419,AR
+sub-100016,XGBoost,Phase-Amplitude Coupling,0,0.21072976291179657,CL
+sub-100017,XGBoost,Phase-Amplitude Coupling,1,0.7136148810386658,CL
+sub-100018,XGBoost,Phase-Amplitude Coupling,1,0.7130014896392822,AR
+sub-10002,XGBoost,Phase-Amplitude Coupling,1,0.5908086895942688,AR
+sub-100020,XGBoost,Phase-Amplitude Coupling,1,0.9835653901100159,AR
+sub-100021,XGBoost,Phase-Amplitude Coupling,0,0.4861016869544983,CL
+sub-100022,XGBoost,Phase-Amplitude Coupling,1,0.5961440205574036,AR
+sub-100024,XGBoost,Phase-Amplitude Coupling,1,0.9744953513145447,AR
+sub-100026,XGBoost,Phase-Amplitude Coupling,1,0.709074079990387,AR
+sub-100028,XGBoost,Phase-Amplitude Coupling,0,0.09425675123929977,AR
+sub-100029,XGBoost,Phase-Amplitude Coupling,0,0.18272370100021362,CL
+sub-10003,XGBoost,Phase-Amplitude Coupling,1,0.636814296245575,AR
+sub-100030,XGBoost,Phase-Amplitude Coupling,1,0.709074079990387,AR
+sub-100031,XGBoost,Phase-Amplitude Coupling,1,0.7130014896392822,AR
+sub-100033,XGBoost,Phase-Amplitude Coupling,1,0.9866259098052979,AR
+sub-100034,XGBoost,Phase-Amplitude Coupling,1,0.9867169857025146,CL
+sub-100035,XGBoost,Phase-Amplitude Coupling,1,0.9835653901100159,AR
+sub-100037,XGBoost,Phase-Amplitude Coupling,1,0.6629514098167419,CL
+sub-100038,XGBoost,Phase-Amplitude Coupling,0,0.15780498087406158,AR
+sub-10004,XGBoost,Phase-Amplitude Coupling,1,0.7746285796165466,AR
+sub-100043,XGBoost,Phase-Amplitude Coupling,0,0.1371392458677292,CL
+sub-10005,XGBoost,Phase-Amplitude Coupling,1,0.5961440205574036,CL
+sub-10006,XGBoost,Phase-Amplitude Coupling,1,0.5961440205574036,AR
+sub-10007,XGBoost,Phase-Amplitude Coupling,0,0.1371392458677292,AR
+sub-10008,XGBoost,Phase-Amplitude Coupling,1,0.5961440205574036,CL
+sub-10009,XGBoost,Phase-Amplitude Coupling,1,0.7130014896392822,AR
+sub-30001,XGBoost,Phase-Amplitude Coupling,1,0.9744953513145447,AR
+sub-30002,XGBoost,Phase-Amplitude Coupling,1,0.9835653901100159,AR
+sub-30003,XGBoost,Phase-Amplitude Coupling,0,0.12795044481754303,CL
+sub-30004,XGBoost,Phase-Amplitude Coupling,1,0.727769672870636,AR
+sub-30005,XGBoost,Phase-Amplitude Coupling,1,0.5961440205574036,CL
+sub-30006,XGBoost,Phase-Amplitude Coupling,1,0.9915392994880676,CL
+sub-30007,XGBoost,Phase-Amplitude Coupling,0,0.4861016869544983,CL
+sub-30008,XGBoost,Phase-Amplitude Coupling,0,0.0610562264919281,AR
+sub-30009,XGBoost,Phase-Amplitude Coupling,1,0.5961440205574036,AR
+sub-30010,XGBoost,Phase-Amplitude Coupling,1,0.9722990393638611,CL
+sub-30011,XGBoost,Phase-Amplitude Coupling,0,0.09425675123929977,AR
+sub-30012,XGBoost,Phase-Amplitude Coupling,0,0.18272370100021362,AR
+sub-30013,XGBoost,Phase-Amplitude Coupling,0,0.18272370100021362,AR
+sub-30014,XGBoost,Phase-Amplitude Coupling,1,0.5908086895942688,CL
+sub-30015,XGBoost,Phase-Amplitude Coupling,0,0.2883780896663666,AR
+sub-30016,XGBoost,Phase-Amplitude Coupling,1,0.9774647951126099,CL
+sub-30017,XGBoost,Phase-Amplitude Coupling,1,0.9823331236839294,AR
+sub-30018,XGBoost,Phase-Amplitude Coupling,1,0.5779865384101868,AR
+sub-30019,XGBoost,Phase-Amplitude Coupling,0,0.1929083913564682,CL
+sub-30020,XGBoost,Phase-Amplitude Coupling,0,0.32120633125305176,AR
+sub-30021,XGBoost,Phase-Amplitude Coupling,1,0.9835653901100159,CL
+sub-30022,XGBoost,Phase-Amplitude Coupling,1,0.9762611389160156,AR
+sub-30023,XGBoost,Phase-Amplitude Coupling,1,0.9823331236839294,CL
+sub-30024,XGBoost,Phase-Amplitude Coupling,1,0.759107768535614,CL
+sub-30025,XGBoost,Phase-Amplitude Coupling,1,0.7053819298744202,CL
+sub-30026,XGBoost,Phase-Amplitude Coupling,1,0.9835653901100159,AR
+sub-30027,XGBoost,Phase-Amplitude Coupling,1,0.9835653901100159,CL
+sub-30028,XGBoost,Phase-Amplitude Coupling,1,0.7130014896392822,CL
+sub-30029,XGBoost,Phase-Amplitude Coupling,0,0.11988729238510132,AR
+sub-30030,XGBoost,Phase-Amplitude Coupling,1,0.9762611389160156,CL
+sub-30031,XGBoost,Phase-Amplitude Coupling,0,0.14462590217590332,AR
+sub-30032,XGBoost,Phase-Amplitude Coupling,1,0.7130014896392822,CL
+sub-30033,XGBoost,Phase-Amplitude Coupling,1,0.9835653901100159,CL
+sub-30034,XGBoost,Phase-Amplitude Coupling,1,0.9672437310218811,CL
+sub-30035,XGBoost,Phase-Amplitude Coupling,1,0.9762611389160156,CL
+sub-10001,XGBoost,Kuramoto Order,1,0.8452549576759338,CL
+sub-100010,XGBoost,Kuramoto Order,1,0.8392820358276367,CL
+sub-100011,XGBoost,Kuramoto Order,1,0.8401610255241394,CL
+sub-100012,XGBoost,Kuramoto Order,1,0.676738440990448,AR
+sub-100014,XGBoost,Kuramoto Order,1,0.9654474854469299,CL
+sub-100015,XGBoost,Kuramoto Order,1,0.676738440990448,AR
+sub-100016,XGBoost,Kuramoto Order,1,0.9718785285949707,CL
+sub-100017,XGBoost,Kuramoto Order,1,0.8452549576759338,CL
+sub-100018,XGBoost,Kuramoto Order,1,0.8663684129714966,AR
+sub-10002,XGBoost,Kuramoto Order,1,0.8513723015785217,AR
+sub-100020,XGBoost,Kuramoto Order,1,0.9093156456947327,AR
+sub-100021,XGBoost,Kuramoto Order,1,0.9699748158454895,CL
+sub-100022,XGBoost,Kuramoto Order,1,0.9681240320205688,AR
+sub-100024,XGBoost,Kuramoto Order,1,0.8582334518432617,AR
+sub-100026,XGBoost,Kuramoto Order,1,0.676738440990448,AR
+sub-100028,XGBoost,Kuramoto Order,1,0.8401610255241394,AR
+sub-100029,XGBoost,Kuramoto Order,1,0.9669163823127747,CL
+sub-10003,XGBoost,Kuramoto Order,1,0.8452549576759338,AR
+sub-100030,XGBoost,Kuramoto Order,1,0.8513723015785217,AR
+sub-100031,XGBoost,Kuramoto Order,1,0.9675446152687073,AR
+sub-100033,XGBoost,Kuramoto Order,1,0.9316105246543884,AR
+sub-100034,XGBoost,Kuramoto Order,1,0.9208350777626038,CL
+sub-100035,XGBoost,Kuramoto Order,1,0.8452549576759338,AR
+sub-100037,XGBoost,Kuramoto Order,1,0.8452549576759338,CL
+sub-100038,XGBoost,Kuramoto Order,1,0.8452549576759338,AR
+sub-10004,XGBoost,Kuramoto Order,1,0.9681240320205688,AR
+sub-100043,XGBoost,Kuramoto Order,1,0.8561701774597168,CL
+sub-10005,XGBoost,Kuramoto Order,1,0.834030032157898,CL
+sub-10006,XGBoost,Kuramoto Order,1,0.8455923199653625,AR
+sub-10007,XGBoost,Kuramoto Order,1,0.9807851314544678,AR
+sub-10008,XGBoost,Kuramoto Order,1,0.8778320550918579,CL
+sub-10009,XGBoost,Kuramoto Order,1,0.8452549576759338,AR
+sub-30001,XGBoost,Kuramoto Order,0,0.35412469506263733,AR
+sub-30002,XGBoost,Kuramoto Order,0,0.35412469506263733,AR
+sub-30003,XGBoost,Kuramoto Order,1,0.8748275637626648,CL
+sub-30004,XGBoost,Kuramoto Order,1,0.676738440990448,AR
+sub-30005,XGBoost,Kuramoto Order,1,0.8452549576759338,CL
+sub-30006,XGBoost,Kuramoto Order,1,0.8778320550918579,CL
+sub-30007,XGBoost,Kuramoto Order,1,0.676738440990448,CL
+sub-30008,XGBoost,Kuramoto Order,1,0.8455923199653625,AR
+sub-30009,XGBoost,Kuramoto Order,1,0.9340190291404724,AR
+sub-30010,XGBoost,Kuramoto Order,1,0.6668248176574707,CL
+sub-30011,XGBoost,Kuramoto Order,1,0.8452549576759338,AR
+sub-30012,XGBoost,Kuramoto Order,1,0.9340190291404724,AR
+sub-30013,XGBoost,Kuramoto Order,0,0.35412469506263733,AR
+sub-30014,XGBoost,Kuramoto Order,1,0.8452549576759338,CL
+sub-30015,XGBoost,Kuramoto Order,1,0.8452549576759338,AR
+sub-30016,XGBoost,Kuramoto Order,1,0.8683080077171326,CL
+sub-30017,XGBoost,Kuramoto Order,1,0.8561701774597168,AR
+sub-30018,XGBoost,Kuramoto Order,1,0.9869535565376282,AR
+sub-30019,XGBoost,Kuramoto Order,1,0.9669163823127747,CL
+sub-30020,XGBoost,Kuramoto Order,1,0.8401610255241394,AR
+sub-30021,XGBoost,Kuramoto Order,1,0.8452549576759338,CL
+sub-30022,XGBoost,Kuramoto Order,1,0.676738440990448,AR
+sub-30023,XGBoost,Kuramoto Order,1,0.8561701774597168,CL
+sub-30024,XGBoost,Kuramoto Order,1,0.9340190291404724,CL
+sub-30025,XGBoost,Kuramoto Order,1,0.9340190291404724,CL
+sub-30026,XGBoost,Kuramoto Order,1,0.9718785285949707,AR
+sub-30027,XGBoost,Kuramoto Order,1,0.8401610255241394,CL
+sub-30028,XGBoost,Kuramoto Order,1,0.8452549576759338,CL
+sub-30029,XGBoost,Kuramoto Order,1,0.8618337512016296,AR
+sub-30030,XGBoost,Kuramoto Order,1,0.676738440990448,CL
+sub-30031,XGBoost,Kuramoto Order,1,0.9681240320205688,AR
+sub-30032,XGBoost,Kuramoto Order,0,0.35412469506263733,CL
+sub-30033,XGBoost,Kuramoto Order,1,0.9654474854469299,CL
+sub-30034,XGBoost,Kuramoto Order,1,0.8452549576759338,CL
+sub-30035,XGBoost,Kuramoto Order,1,0.8733336329460144,CL
+sub-10001,XGBoost,Mutual Information,0,0.2531375288963318,CL
+sub-100010,XGBoost,Mutual Information,0,0.17915204167366028,CL
+sub-100011,XGBoost,Mutual Information,1,0.5224727392196655,CL
+sub-100012,XGBoost,Mutual Information,1,0.5224727392196655,AR
+sub-100014,XGBoost,Mutual Information,1,0.6151034832000732,CL
+sub-100015,XGBoost,Mutual Information,1,0.6674560904502869,AR
+sub-100016,XGBoost,Mutual Information,1,0.7418622374534607,CL
+sub-100017,XGBoost,Mutual Information,0,0.25369393825531006,CL
+sub-100018,XGBoost,Mutual Information,1,0.8190534710884094,AR
+sub-10002,XGBoost,Mutual Information,1,0.5396790504455566,AR
+sub-100020,XGBoost,Mutual Information,0,0.3152603805065155,AR
+sub-100021,XGBoost,Mutual Information,1,0.7310503721237183,CL
+sub-100022,XGBoost,Mutual Information,1,0.5716252326965332,AR
+sub-100024,XGBoost,Mutual Information,0,0.27536243200302124,AR
+sub-100026,XGBoost,Mutual Information,0,0.41792404651641846,AR
+sub-100028,XGBoost,Mutual Information,1,0.9055606126785278,AR
+sub-100029,XGBoost,Mutual Information,1,0.8829729557037354,CL
+sub-10003,XGBoost,Mutual Information,1,0.8290303945541382,AR
+sub-100030,XGBoost,Mutual Information,1,0.918801486492157,AR
+sub-100031,XGBoost,Mutual Information,1,0.7044752240180969,AR
+sub-100033,XGBoost,Mutual Information,0,0.23925839364528656,AR
+sub-100034,XGBoost,Mutual Information,1,0.7245215177536011,CL
+sub-100035,XGBoost,Mutual Information,1,0.6330467462539673,AR
+sub-100037,XGBoost,Mutual Information,1,0.6813868284225464,CL
+sub-100038,XGBoost,Mutual Information,1,0.5355330109596252,AR
+sub-10004,XGBoost,Mutual Information,1,0.8516095876693726,AR
+sub-100043,XGBoost,Mutual Information,0,0.11238378286361694,CL
+sub-10005,XGBoost,Mutual Information,0,0.4118397831916809,CL
+sub-10006,XGBoost,Mutual Information,0,0.263467013835907,AR
+sub-10007,XGBoost,Mutual Information,1,0.6533109545707703,AR
+sub-10008,XGBoost,Mutual Information,1,0.7623371481895447,CL
+sub-10009,XGBoost,Mutual Information,0,0.3335876762866974,AR
+sub-30001,XGBoost,Mutual Information,1,0.7278119921684265,AR
+sub-30002,XGBoost,Mutual Information,0,0.47515296936035156,AR
+sub-30003,XGBoost,Mutual Information,1,0.8003993034362793,CL
+sub-30004,XGBoost,Mutual Information,0,0.47515296936035156,AR
+sub-30005,XGBoost,Mutual Information,0,0.38338667154312134,CL
+sub-30006,XGBoost,Mutual Information,1,0.5749375820159912,CL
+sub-30007,XGBoost,Mutual Information,0,0.11248284578323364,CL
+sub-30008,XGBoost,Mutual Information,0,0.2941594123840332,AR
+sub-30009,XGBoost,Mutual Information,1,0.6703632473945618,AR
+sub-30010,XGBoost,Mutual Information,0,0.2613425552845001,CL
+sub-30011,XGBoost,Mutual Information,1,0.6596047878265381,AR
+sub-30012,XGBoost,Mutual Information,1,0.7031115889549255,AR
+sub-30013,XGBoost,Mutual Information,1,0.6192653179168701,AR
+sub-30014,XGBoost,Mutual Information,1,0.6703632473945618,CL
+sub-30015,XGBoost,Mutual Information,0,0.09526678174734116,AR
+sub-30016,XGBoost,Mutual Information,0,0.21038827300071716,CL
+sub-30017,XGBoost,Mutual Information,1,0.8553638458251953,AR
+sub-30018,XGBoost,Mutual Information,1,0.929779052734375,AR
+sub-30019,XGBoost,Mutual Information,1,0.8553638458251953,CL
+sub-30020,XGBoost,Mutual Information,0,0.16405244171619415,AR
+sub-30021,XGBoost,Mutual Information,0,0.4498004913330078,CL
+sub-30022,XGBoost,Mutual Information,0,0.4498004913330078,AR
+sub-30023,XGBoost,Mutual Information,0,0.3828934133052826,CL
+sub-30024,XGBoost,Mutual Information,0,0.47515296936035156,CL
+sub-30025,XGBoost,Mutual Information,0,0.4498004913330078,CL
+sub-30026,XGBoost,Mutual Information,1,0.694502055644989,AR
+sub-30027,XGBoost,Mutual Information,0,0.14491015672683716,CL
+sub-30028,XGBoost,Mutual Information,1,0.8187015652656555,CL
+sub-30029,XGBoost,Mutual Information,1,0.8510189056396484,AR
+sub-30030,XGBoost,Mutual Information,1,0.7278119921684265,CL
+sub-30031,XGBoost,Mutual Information,1,0.8484400510787964,AR
+sub-30032,XGBoost,Mutual Information,1,0.7031115889549255,CL
+sub-30033,XGBoost,Mutual Information,0,0.27029263973236084,CL
+sub-30034,XGBoost,Mutual Information,0,0.31657835841178894,CL
+sub-30035,XGBoost,Mutual Information,0,0.29091745615005493,CL
+sub-10001,XGBoost,Assinatura Completa (Multivariado),0,0.08918817341327667,CL
+sub-100010,XGBoost,Assinatura Completa (Multivariado),0,0.32053226232528687,CL
+sub-100011,XGBoost,Assinatura Completa (Multivariado),0,0.1065758466720581,CL
+sub-100012,XGBoost,Assinatura Completa (Multivariado),0,0.11232215166091919,AR
+sub-100014,XGBoost,Assinatura Completa (Multivariado),0,0.34997132420539856,CL
+sub-100015,XGBoost,Assinatura Completa (Multivariado),0,0.11815702170133591,AR
+sub-100016,XGBoost,Assinatura Completa (Multivariado),0,0.14290285110473633,CL
+sub-100017,XGBoost,Assinatura Completa (Multivariado),0,0.08483953028917313,CL
+sub-100018,XGBoost,Assinatura Completa (Multivariado),0,0.05450838804244995,AR
+sub-10002,XGBoost,Assinatura Completa (Multivariado),0,0.06762070208787918,AR
+sub-100020,XGBoost,Assinatura Completa (Multivariado),0,0.41184714436531067,AR
+sub-100021,XGBoost,Assinatura Completa (Multivariado),0,0.09787800908088684,CL
+sub-100022,XGBoost,Assinatura Completa (Multivariado),0,0.062201544642448425,AR
+sub-100024,XGBoost,Assinatura Completa (Multivariado),0,0.2902269959449768,AR
+sub-100026,XGBoost,Assinatura Completa (Multivariado),0,0.08576968312263489,AR
+sub-100028,XGBoost,Assinatura Completa (Multivariado),0,0.0717802569270134,AR
+sub-100029,XGBoost,Assinatura Completa (Multivariado),0,0.10040360689163208,CL
+sub-10003,XGBoost,Assinatura Completa (Multivariado),0,0.09065260738134384,AR
+sub-100030,XGBoost,Assinatura Completa (Multivariado),0,0.08732904493808746,AR
+sub-100031,XGBoost,Assinatura Completa (Multivariado),0,0.14182789623737335,AR
+sub-100033,XGBoost,Assinatura Completa (Multivariado),0,0.3957642614841461,AR
+sub-100034,XGBoost,Assinatura Completa (Multivariado),1,0.5859638452529907,CL
+sub-100035,XGBoost,Assinatura Completa (Multivariado),1,0.9474748373031616,AR
+sub-100037,XGBoost,Assinatura Completa (Multivariado),0,0.08562280982732773,CL
+sub-100038,XGBoost,Assinatura Completa (Multivariado),0,0.06658628582954407,AR
+sub-10004,XGBoost,Assinatura Completa (Multivariado),0,0.17033487558364868,AR
+sub-100043,XGBoost,Assinatura Completa (Multivariado),0,0.05945916846394539,CL
+sub-10005,XGBoost,Assinatura Completa (Multivariado),0,0.08483953028917313,CL
+sub-10006,XGBoost,Assinatura Completa (Multivariado),0,0.05721943452954292,AR
+sub-10007,XGBoost,Assinatura Completa (Multivariado),0,0.11171986162662506,AR
+sub-10008,XGBoost,Assinatura Completa (Multivariado),0,0.09508062154054642,CL
+sub-10009,XGBoost,Assinatura Completa (Multivariado),0,0.06507620960474014,AR
+sub-30001,XGBoost,Assinatura Completa (Multivariado),1,0.6983880400657654,AR
+sub-30002,XGBoost,Assinatura Completa (Multivariado),0,0.3433186411857605,AR
+sub-30003,XGBoost,Assinatura Completa (Multivariado),0,0.15737192332744598,CL
+sub-30004,XGBoost,Assinatura Completa (Multivariado),0,0.1133277490735054,AR
+sub-30005,XGBoost,Assinatura Completa (Multivariado),0,0.07701698690652847,CL
+sub-30006,XGBoost,Assinatura Completa (Multivariado),1,0.9776815176010132,CL
+sub-30007,XGBoost,Assinatura Completa (Multivariado),0,0.1343236267566681,CL
+sub-30008,XGBoost,Assinatura Completa (Multivariado),0,0.13051089644432068,AR
+sub-30009,XGBoost,Assinatura Completa (Multivariado),0,0.09232451021671295,AR
+sub-30010,XGBoost,Assinatura Completa (Multivariado),0,0.49430111050605774,CL
+sub-30011,XGBoost,Assinatura Completa (Multivariado),0,0.06705623120069504,AR
+sub-30012,XGBoost,Assinatura Completa (Multivariado),0,0.19975067675113678,AR
+sub-30013,XGBoost,Assinatura Completa (Multivariado),0,0.08676368743181229,AR
+sub-30014,XGBoost,Assinatura Completa (Multivariado),0,0.05945916846394539,CL
+sub-30015,XGBoost,Assinatura Completa (Multivariado),1,0.7886556386947632,AR
+sub-30016,XGBoost,Assinatura Completa (Multivariado),1,0.7331923842430115,CL
+sub-30017,XGBoost,Assinatura Completa (Multivariado),0,0.18236641585826874,AR
+sub-30018,XGBoost,Assinatura Completa (Multivariado),0,0.17469745874404907,AR
+sub-30019,XGBoost,Assinatura Completa (Multivariado),0,0.136671781539917,CL
+sub-30020,XGBoost,Assinatura Completa (Multivariado),0,0.08134832978248596,AR
+sub-30021,XGBoost,Assinatura Completa (Multivariado),1,0.6440638899803162,CL
+sub-30022,XGBoost,Assinatura Completa (Multivariado),1,0.9474748373031616,AR
+sub-30023,XGBoost,Assinatura Completa (Multivariado),1,0.5035039782524109,CL
+sub-30024,XGBoost,Assinatura Completa (Multivariado),1,0.9332713484764099,CL
+sub-30025,XGBoost,Assinatura Completa (Multivariado),0,0.19488848745822906,CL
+sub-30026,XGBoost,Assinatura Completa (Multivariado),1,0.5859638452529907,AR
+sub-30027,XGBoost,Assinatura Completa (Multivariado),1,0.624665379524231,CL
+sub-30028,XGBoost,Assinatura Completa (Multivariado),0,0.14182789623737335,CL
+sub-30029,XGBoost,Assinatura Completa (Multivariado),1,0.7417263388633728,AR
+sub-30030,XGBoost,Assinatura Completa (Multivariado),0,0.17916786670684814,CL
+sub-30031,XGBoost,Assinatura Completa (Multivariado),0,0.0969775915145874,AR
+sub-30032,XGBoost,Assinatura Completa (Multivariado),0,0.0936247780919075,CL
+sub-30033,XGBoost,Assinatura Completa (Multivariado),0,0.25829851627349854,CL
+sub-30034,XGBoost,Assinatura Completa (Multivariado),1,0.7597439289093018,CL
+sub-30035,XGBoost,Assinatura Completa (Multivariado),1,0.5106493830680847,CL
