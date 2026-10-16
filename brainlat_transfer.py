@@ -25,10 +25,10 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 import mne
-from sklearn.metrics import accuracy_score, confusion_matrix, f1_score, roc_auc_score
-
 import channel_adaptation
 import ds004504_features as feats
+import modeling
+from feature_sets import ALL_FEATURES, FEATURE_VERSION, feature_tag
 
 EEG_EXTS = (".set", ".bdf", ".edf", ".fif")
 # Se houver mais de um arquivo EEG na pasta do sujeito, prefere o que tiver um
@@ -220,7 +220,7 @@ def process_subject(subject_id: str, path: str | Path, cache_dir: str | Path,
     cache_dir.mkdir(parents=True, exist_ok=True)
     out_csv = cache_dir / f"{subject_id}_epochs.csv"
     out_json = cache_dir / f"{subject_id}_provenance.json"
-    if out_csv.exists() and not overwrite:
+    if out_csv.exists() and out_json.exists() and not overwrite:
         return pd.read_csv(out_csv)
 
     t0 = time.time()
@@ -233,10 +233,10 @@ def process_subject(subject_id: str, path: str | Path, cache_dir: str | Path,
     df = pd.DataFrame(feats.extract_epoch_features(raw_clean, subject_id))
     df.to_csv(out_csv, index=False)
 
-    record = {"subject": subject_id, "source": str(path),
+    record = {"subject": subject_id, "source": str(path), "feature_version": FEATURE_VERSION, "feature_tag": feature_tag(),
               "processed_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),
               "recording": recording, "adapter": prov, "cleaning": clean_report,
-              "n_epochs": len(df),
+              "epochs_qc": feats.epoch_qc(df), "n_epochs": len(df),
               "seconds": round(time.time() - t0, 1)}
     with open(out_json, "w", encoding="utf-8") as fh:
         json.dump(record, fh, indent=2, ensure_ascii=False)
@@ -278,7 +278,7 @@ def mapping_summary(cache_dir: str | Path) -> pd.DataFrame:
         rows.append({"sid": rec["subject"], "geometry": a["geometry_source"],
                      "median_deg": round(a["median_angle_deg"], 2),
                      "max_deg": round(a["max_angle_deg"], 2),
-                     "ref": "+".join(a["ref_channels"]),
+                     "ref": a.get("reference", "?") + (f" ({'+'.join(a['ref_channels'])})" if a["ref_channels"] else ""),
                      "interpolated": ",".join(a["interpolated"]),
                      "orig_sfreq": a["orig_sfreq"],
                      "electrodes": " ".join(m["source"] for m in a["mapping"]),
@@ -290,7 +290,7 @@ def mapping_summary(cache_dir: str | Path) -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
-def subject_level(epochs: pd.DataFrame, feature_cols=feats.ALL_FEATURES) -> pd.DataFrame:
+def subject_level(epochs: pd.DataFrame, feature_cols=ALL_FEATURES) -> pd.DataFrame:
     return epochs.groupby("Subject_ID", as_index=False)[list(feature_cols)].mean()
 
 
@@ -298,33 +298,63 @@ def subject_level(epochs: pd.DataFrame, feature_cols=feats.ALL_FEATURES) -> pd.D
 # Predição e métricas
 # --------------------------------------------------------------------------
 def predict_all(bundle: dict, subj: pd.DataFrame) -> pd.DataFrame:
+    """
+    Predição de cada modelo do bundle. 'score' é a mesma pontuação contínua usada
+    na avaliação LOSO (decision_function no SVM, probabilidade de AD nos demais),
+    coerente com 'pred'.
+    """
     out = []
     for key, pipe in bundle["models"].items():
         model, cat = key.split("|", 1)
-        X = subj[bundle["feature_sets"][cat]].values
+        X = subj[bundle["feature_sets"][cat]].to_numpy(float)
         out.append(pd.DataFrame({"Subject_ID": subj["Subject_ID"].astype(str).values,
                                  "Modelo": model, "Categoria": cat,
                                  "pred": pipe.predict(X).astype(int),
-                                 "prob_AD": pipe.predict_proba(X)[:, 1]}))
+                                 "score": modeling.continuous_score(pipe, X)}))
     return pd.concat(out, ignore_index=True)
 
 
 def evaluate(preds: pd.DataFrame, labels: pd.Series) -> pd.DataFrame:
-    """labels: Series indexada pelo ID do sujeito, 1 = AD, 0 = controle."""
+    """
+    Métricas com IC95% (Wilson para proporções, bootstrap estratificado para AUC).
+    labels: Series indexada pelo ID do sujeito, 1 = AD, 0 = controle.
+    """
     lab = pd.DataFrame({"Subject_ID": labels.index.astype(str), "y": labels.values.astype(int)})
     df = preds.merge(lab, on="Subject_ID", how="inner")
     rows = []
     for (model, cat), g in df.groupby(["Modelo", "Categoria"], sort=False):
-        y, p, s = g["y"].values, g["pred"].values, g["prob_AD"].values
-        tn, fp, fn, tp = confusion_matrix(y, p, labels=[0, 1]).ravel()
-        rows.append({"Modelo": model, "Categoria": cat, "n": len(g),
-                     "Accuracy": round(accuracy_score(y, p), 4),
-                     "Sensibilidade": round(tp / (tp + fn), 4) if tp + fn else np.nan,
-                     "Especificidade": round(tn / (tn + fp), 4) if tn + fp else np.nan,
-                     "F1": round(f1_score(y, p, zero_division=0), 4),
-                     "AUC": round(roc_auc_score(y, s), 4) if len(set(y)) == 2 else np.nan,
-                     "frac_pred_AD": round(p.mean(), 3)})
+        rows.append({"Modelo": model, "Categoria": cat,
+                     **modeling.metrics(g["y"].values, g["pred"].values, g["score"].values)})
     return pd.DataFrame(rows)
+
+
+def within_cohort_loso(subj: pd.DataFrame, labels: pd.Series, verbose: bool = True):
+    """
+    Referência necessária para interpretar a transferência: os mesmos pipelines
+    treinados e avaliados por LOSO DENTRO do BrainLat. Se o desempenho interno
+    também for baixo, a queda não se deve só ao deslocamento entre bases.
+    """
+    s = subj.assign(Subject_ID=subj["Subject_ID"].astype(str))
+    lab = pd.Series(labels.values.astype(int), index=labels.index.astype(str))
+    s = s[s["Subject_ID"].isin(lab.index)].copy()
+    s["y"] = s["Subject_ID"].map(lab).astype(int)
+    return modeling.run_all(s, verbose=verbose)
+
+
+def cohort_flow(cohort: pd.DataFrame, failures: dict | None = None) -> pd.DataFrame:
+    """
+    Fluxo da amostra por grupo e sítio: rotulados -> com pasta e arquivo ->
+    processados. As exclusões ficam registradas com o motivo.
+    """
+    failures = failures or {}
+    c = cohort.copy()
+    c["etapa_final"] = "processado"
+    c.loc[c["status"] != "ok", "etapa_final"] = "excluído: " + c["status"]
+    fail = c["sid"].isin(failures)
+    c.loc[fail, "etapa_final"] = "falhou: " + c.loc[fail, "sid"].map(
+        lambda s: failures[s].split(":")[0])
+    return (c.groupby(["diagnosis", "site", "etapa_final"]).size()
+              .rename("n").reset_index())
 
 
 # --------------------------------------------------------------------------
@@ -341,7 +371,7 @@ def _cohen_d(a, b):
 
 
 def domain_shift_report(train_subj: pd.DataFrame, target_subj: pd.DataFrame,
-                        target_labels: pd.Series, feature_cols=feats.ALL_FEATURES) -> pd.DataFrame:
+                        target_labels: pd.Series, feature_cols=ALL_FEATURES) -> pd.DataFrame:
     t = target_subj.assign(Subject_ID=target_subj["Subject_ID"].astype(str)).set_index("Subject_ID")
     lab = pd.Series(target_labels.values, index=target_labels.index.astype(str)).reindex(t.index)
     tr_ad = train_subj[train_subj["Group"] == "A"]
@@ -359,7 +389,7 @@ def domain_shift_report(train_subj: pd.DataFrame, target_subj: pd.DataFrame,
 
 
 def align_to_training_controls(target_subj: pd.DataFrame, train_subj: pd.DataFrame,
-                               calib_ids, feature_cols=feats.ALL_FEATURES) -> pd.DataFrame:
+                               calib_ids, feature_cols=ALL_FEATURES) -> pd.DataFrame:
     """
     x' = (x - mu_HC_brainlat) / sd_HC_brainlat * sd_CN_treino + mu_CN_treino
     calculado só com os controles de calibração, que devem sair da avaliação.

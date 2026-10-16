@@ -1,0 +1,22 @@
+Modelo,Conjunto,frac_prevista_AD
+Random Forest,RBP,0.35714285714285715
+Random Forest,Centroide espectral,0.35714285714285715
+Random Forest,LZC (banda estreita),0.7142857142857143
+Random Forest,PAC local,0.7857142857142857
+Random Forest,Kuramoto (sensor),0.8571428571428571
+Random Forest,Informação mútua,1.0
+Random Forest,Todas (31),0.7857142857142857
+SVM (Linear),RBP,0.07142857142857142
+SVM (Linear),Centroide espectral,0.7142857142857143
+SVM (Linear),LZC (banda estreita),0.6428571428571429
+SVM (Linear),PAC local,0.7142857142857143
+SVM (Linear),Kuramoto (sensor),1.0
+SVM (Linear),Informação mútua,1.0
+SVM (Linear),Todas (31),1.0
+XGBoost,RBP,0.07142857142857142
+XGBoost,Centroide espectral,0.42857142857142855
+XGBoost,LZC (banda estreita),0.7142857142857143
+XGBoost,PAC local,0.5
+XGBoost,Kuramoto (sensor),0.6428571428571429
+XGBoost,Informação mútua,1.0
+XGBoost,Todas (31),0.5

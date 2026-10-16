@@ -1,20 +1,22 @@
 """
 Adaptação de um registro BrainLat (touca Biosemi, 128 canais) para o espaço de
 sinal em que os modelos foram treinados (OpenNeuro ds004504):
-19 canais 10-20, referência nas orelhas (A1+A2), 500 Hz.
+19 canais 10-20, 500 Hz, na referência-alvo comum (feature_sets.TARGET_REFERENCE).
 
 Etapas de adapt_to_training_space, em ordem:
   1. Geometria: obtém a posição 3D de cada eletrodo do arquivo (ou, se o
      arquivo não tiver posições, do modelo padrão 'biosemi128' do MNE).
   2. Correspondência: para cada um dos 19 canais 10-20, escolhe o eletrodo do
      arquivo mais próximo da posição 10-20 ideal (compute_19ch_mapping).
-  3. Referência: escolhe os eletrodos mais próximos de TP9/TP10 (mastoides)
-     como substitutos das orelhas.
+  3. Referência: só se o alvo for "linked_ears", escolhe os eletrodos mais
+     próximos de TP9/TP10 (mastoides) como substitutos das orelhas. Com os
+     alvos "average" (padrão) e "rest" nenhum canal extra é necessário.
   4. Canais ruins: interpola, a partir de todos os canais, qualquer eletrodo
      escolhido que esteja marcado como ruim ou plano.
   5. Seleção, remoção de offset DC, reamostragem para 500 Hz.
-  6. Re-referência, renomeação para os nomes do treino, ordem do treino,
-     montagem standard_1020.
+  6. Renomeação para os nomes do treino, ordem do treino, montagem
+     standard_1020 e referência-alvo, aplicada por references.py, o mesmo
+     código usado no ds004504 e em qualquer outra base.
 
 Filtro, ASR, ICA e features ficam em ds004504_features.py.
 """
@@ -27,6 +29,12 @@ import warnings
 import numpy as np
 import pandas as pd
 import mne
+
+import references
+from feature_sets import TARGET_REFERENCE
+
+# Nomes antigos do parâmetro reference, aceitos por compatibilidade
+LEGACY_REFERENCE = {"mastoid_approx": "linked_ears", "explicit": "linked_ears"}
 
 # Ordem dos canais nos arquivos .set do ds004504 (sem A1/A2). Para confirmar,
 # use training_channel_order() com um arquivo do treino.
@@ -261,7 +269,7 @@ def resolve_geometry(raw: mne.io.BaseRaw, mapping_source: str = "auto",
 # --------------------------------------------------------------------------
 def adapt_to_training_space(raw: mne.io.BaseRaw,
                             mapping_source: str = "auto",
-                            reference: str = "mastoid_approx",
+                            reference: str | None = None,
                             ref_channels: list[str] | None = None,
                             order: list[str] | None = None,
                             rename: dict[str, str] | None = None,
@@ -269,10 +277,16 @@ def adapt_to_training_space(raw: mne.io.BaseRaw,
                             max_duration_s: float | None = None,
                             verbose: bool = False):
     """
+    reference : referência-alvo; None usa feature_sets.TARGET_REFERENCE.
+        "average" e "rest" não precisam de canais extras. "linked_ears" usa
+        ref_channels (p.ex. EXG nas mastoides) ou, sem eles, os eletrodos mais
+        próximos de TP9/TP10. "acquisition" não é aceito: a referência de
+        gravação do BrainLat difere da do treino.
+
     Returns
     -------
     raw19 : Raw com os 19 canais do treino (nomes e ordem do ds004504), 500 Hz,
-            re-referenciado, com montagem standard_1020.
+            na referência-alvo, com montagem standard_1020.
     prov  : dicionário com tudo o que foi decidido (para o JSON de proveniência).
     """
     order = order or list(DS004504_ORDER)
@@ -284,18 +298,16 @@ def adapt_to_training_space(raw: mne.io.BaseRaw,
     pos, mapping, geo_source, geo_notes = resolve_geometry(raw, mapping_source, order)
     signal_chs = list(mapping["source"])
 
-    # 3. referência
-    if reference == "mastoid_approx":
-        if ref_channels is None:
+    # 3. referência-alvo
+    target = LEGACY_REFERENCE.get(reference, reference) if reference else TARGET_REFERENCE
+    if target not in references.TARGETS or target == "acquisition":
+        raise ValueError(f"referência-alvo inválida para o BrainLat: {target}")
+    if target == "linked_ears":
+        if not ref_channels:
             refs = nearest_channels(pos, MASTOID_PROXIES, exclude=set(signal_chs))
             ref_channels = refs["source"].tolist()
-    elif reference == "explicit":
-        if not ref_channels:
-            raise ValueError("reference='explicit' exige ref_channels")
-    elif reference == "average":
-        ref_channels = []
     else:
-        raise ValueError(f"reference desconhecida: {reference}")
+        ref_channels = []
     if set(ref_channels) & set(signal_chs):
         raise ValueError("canais de referência coincidem com canais de sinal")
 
@@ -334,18 +346,22 @@ def adapt_to_training_space(raw: mne.io.BaseRaw,
     if not np.isclose(orig_sfreq, target_sfreq):
         raw.resample(target_sfreq, verbose="ERROR")
 
-    # 6. referência, nomes, ordem, montagem
-    if reference == "average":
-        raw.set_eeg_reference("average", projection=False, verbose="ERROR")
-    else:
-        raw.set_eeg_reference(ref_channels=list(ref_channels), verbose="ERROR")
-        raw.drop_channels(list(ref_channels))
+    # 6. nomes, ordem, montagem e referência-alvo (references.py)
+    source = references.SOURCE_REFERENCES.get("brainlat")
+    if target == "linked_ears":
+        # os canais de referência precisam existir no momento da subtração
+        raw, ref_record = references.apply_target_reference(
+            raw, "linked_ears", source=source, ref_channels=list(ref_channels))
     raw.rename_channels(dict(zip(mapping["source"], mapping["training_name"])))
     raw.reorder_channels(order)
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
         raw.set_montage(mne.channels.make_standard_montage("standard_1020"),
                         match_case=False, verbose="ERROR")
+    if target in ("average", "rest"):
+        # média (ou REST) calculada exatamente sobre os 19 canais do treino
+        raw, ref_record = references.apply_target_reference(
+            raw, target, source=source, expected_channels=order)
 
     assert raw.ch_names == order
     assert np.isclose(raw.info["sfreq"], target_sfreq)
@@ -357,8 +373,9 @@ def adapt_to_training_space(raw: mne.io.BaseRaw,
         "mapping": mapping.to_dict(orient="records"),
         "median_angle_deg": float(mapping["angle_deg"].median()),
         "max_angle_deg": float(mapping["angle_deg"].max()),
-        "reference": reference,
+        "reference": target,
         "ref_channels": list(ref_channels),
+        "reference_record": ref_record,
         "interpolated": bad_needed,
         "orig_sfreq": orig_sfreq,
         "sfreq": float(raw.info["sfreq"]),
@@ -366,7 +383,7 @@ def adapt_to_training_space(raw: mne.io.BaseRaw,
     }
     if verbose:
         print(f"  geometria={geo_source} ({len(pos)} pos.), desloc. mediano "
-              f"{prov['median_angle_deg']:.1f} graus, ref={ref_channels}, "
+              f"{prov['median_angle_deg']:.1f} graus, ref={target}{ref_channels or ''}, "
               f"interpolados={bad_needed or 'nenhum'}, {orig_sfreq:.0f}->{prov['sfreq']:.0f} Hz, "
               f"{prov['duration_s']:.0f} s")
     return raw, prov

@@ -1,0 +1,7 @@
+Modelo,Tipo,A,B,Acc_A,Acc_B,so_A_acerta,so_B_acerta,p,p_Holm
+Random Forest,primária,Todas (31),RBP,0.7692307692307693,0.7692307692307693,3,3,1.0,1.0
+Random Forest,secundária (exploratória),Todas (31),Kuramoto (sensor),0.7692307692307693,0.8,4,6,0.75390625,
+SVM (Linear),primária,Todas (31),RBP,0.7846153846153846,0.7692307692307693,7,6,1.0,1.0
+SVM (Linear),secundária (exploratória),Todas (31),Kuramoto (sensor),0.7846153846153846,0.8,5,6,1.0,
+XGBoost,primária,Todas (31),RBP,0.7230769230769231,0.7230769230769231,8,8,1.0,1.0
+XGBoost,secundária (exploratória),Todas (31),Kuramoto (sensor),0.7230769230769231,0.7692307692307693,6,9,0.6072387695312499,

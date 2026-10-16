@@ -1,0 +1,29 @@
+{
+  "feature_tag": "v2.1-average",
+  "feature_version": "2.1",
+  "target_reference": "average",
+  "bands": {
+    "Delta": [
+      1.0,
+      4.0
+    ],
+    "Theta": [
+      4.0,
+      8.0
+    ],
+    "Alpha": [
+      8.0,
+      13.0
+    ],
+    "Beta": [
+      13.0,
+      25.0
+    ],
+    "Gamma": [
+      25.0,
+      45.0
+    ]
+  },
+  "n_subjects": 65,
+  "n_epochs": 26823
+}

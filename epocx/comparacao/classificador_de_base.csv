@@ -1,0 +1,8 @@
+conjunto,AUC_media,AUC_p2_5,AUC_p97_5
+RBP,0.9993333333333334,1.0,1.0
+Centroide espectral,0.984388888888889,0.8597222222222223,1.0
+LZC (banda estreita),1.0,1.0,1.0
+PAC local,0.5837222222222223,0.2222222222222222,1.0
+Kuramoto (sensor),1.0,1.0,1.0
+Informação mútua,1.0,1.0,1.0
+Todas (31),1.0,1.0,1.0

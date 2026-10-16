@@ -2,3 +2,6 @@
 brainlat_eeg/
 __pycache__/
 brainlat_features/
+epocx/dados
+epocx/features
+features_ds004504

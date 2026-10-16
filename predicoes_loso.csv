@@ -1,0 +1,1366 @@
+Subject_ID,y,pred,score,degenerate,Modelo,Categoria
+sub-030,1,1,1.0,False,Random Forest,RBP
+sub-043,0,1,0.79,False,Random Forest,RBP
+sub-019,1,0,0.44,False,Random Forest,RBP
+sub-025,1,0,0.23,False,Random Forest,RBP
+sub-008,1,1,0.63,False,Random Forest,RBP
+sub-018,1,1,0.95,False,Random Forest,RBP
+sub-028,1,1,0.99,False,Random Forest,RBP
+sub-055,0,0,0.41,False,Random Forest,RBP
+sub-065,0,0,0.22,False,Random Forest,RBP
+sub-045,0,1,0.92,False,Random Forest,RBP
+sub-052,0,0,0.26,False,Random Forest,RBP
+sub-006,1,0,0.29,False,Random Forest,RBP
+sub-063,0,0,0.45,False,Random Forest,RBP
+sub-026,1,1,0.94,False,Random Forest,RBP
+sub-033,1,1,0.71,False,Random Forest,RBP
+sub-022,1,1,1.0,False,Random Forest,RBP
+sub-062,0,0,0.14,False,Random Forest,RBP
+sub-021,1,1,0.78,False,Random Forest,RBP
+sub-058,0,0,0.11,False,Random Forest,RBP
+sub-049,0,0,0.17,False,Random Forest,RBP
+sub-057,0,1,0.57,False,Random Forest,RBP
+sub-060,0,1,0.67,False,Random Forest,RBP
+sub-051,0,0,0.21,False,Random Forest,RBP
+sub-005,1,1,0.88,False,Random Forest,RBP
+sub-027,1,1,0.99,False,Random Forest,RBP
+sub-016,1,1,1.0,False,Random Forest,RBP
+sub-061,0,0,0.4,False,Random Forest,RBP
+sub-024,1,1,0.97,False,Random Forest,RBP
+sub-029,1,1,1.0,False,Random Forest,RBP
+sub-041,0,0,0.46,False,Random Forest,RBP
+sub-010,1,0,0.03,False,Random Forest,RBP
+sub-038,0,0,0.33,False,Random Forest,RBP
+sub-032,1,1,0.93,False,Random Forest,RBP
+sub-040,0,0,0.32,False,Random Forest,RBP
+sub-017,1,1,1.0,False,Random Forest,RBP
+sub-004,1,1,1.0,False,Random Forest,RBP
+sub-035,1,1,0.97,False,Random Forest,RBP
+sub-031,1,1,0.71,False,Random Forest,RBP
+sub-011,1,1,0.83,False,Random Forest,RBP
+sub-053,0,0,0.39,False,Random Forest,RBP
+sub-059,0,0,0.37,False,Random Forest,RBP
+sub-007,1,1,1.0,False,Random Forest,RBP
+sub-039,0,0,0.31,False,Random Forest,RBP
+sub-012,1,0,0.37,False,Random Forest,RBP
+sub-056,0,0,0.14,False,Random Forest,RBP
+sub-042,0,0,0.12,False,Random Forest,RBP
+sub-047,0,0,0.04,False,Random Forest,RBP
+sub-023,1,1,0.74,False,Random Forest,RBP
+sub-020,1,1,0.95,False,Random Forest,RBP
+sub-036,1,0,0.18,False,Random Forest,RBP
+sub-001,1,1,0.96,False,Random Forest,RBP
+sub-048,0,0,0.09,False,Random Forest,RBP
+sub-050,0,1,0.64,False,Random Forest,RBP
+sub-046,0,1,0.63,False,Random Forest,RBP
+sub-013,1,1,1.0,False,Random Forest,RBP
+sub-054,0,0,0.38,False,Random Forest,RBP
+sub-044,0,0,0.08,False,Random Forest,RBP
+sub-015,1,0,0.18,False,Random Forest,RBP
+sub-064,0,0,0.24,False,Random Forest,RBP
+sub-003,1,1,0.79,False,Random Forest,RBP
+sub-037,0,1,0.53,False,Random Forest,RBP
+sub-034,1,1,0.89,False,Random Forest,RBP
+sub-002,1,0,0.23,False,Random Forest,RBP
+sub-014,1,1,0.96,False,Random Forest,RBP
+sub-009,1,1,0.68,False,Random Forest,RBP
+sub-030,1,1,0.8,False,Random Forest,Centroide espectral
+sub-043,0,0,0.14,False,Random Forest,Centroide espectral
+sub-019,1,0,0.28,False,Random Forest,Centroide espectral
+sub-025,1,1,0.64,False,Random Forest,Centroide espectral
+sub-008,1,1,0.63,False,Random Forest,Centroide espectral
+sub-018,1,1,0.81,False,Random Forest,Centroide espectral
+sub-028,1,1,0.82,False,Random Forest,Centroide espectral
+sub-055,0,0,0.33,False,Random Forest,Centroide espectral
+sub-065,0,0,0.14,False,Random Forest,Centroide espectral
+sub-045,0,0,0.24,False,Random Forest,Centroide espectral
+sub-052,0,0,0.38,False,Random Forest,Centroide espectral
+sub-006,1,0,0.08,False,Random Forest,Centroide espectral
+sub-063,0,0,0.46,False,Random Forest,Centroide espectral
+sub-026,1,1,0.68,False,Random Forest,Centroide espectral
+sub-033,1,0,0.23,False,Random Forest,Centroide espectral
+sub-022,1,0,0.43,False,Random Forest,Centroide espectral
+sub-062,0,0,0.48,False,Random Forest,Centroide espectral
+sub-021,1,1,0.67,False,Random Forest,Centroide espectral
+sub-058,0,0,0.4,False,Random Forest,Centroide espectral
+sub-049,0,1,0.64,False,Random Forest,Centroide espectral
+sub-057,0,1,0.82,False,Random Forest,Centroide espectral
+sub-060,0,0,0.12,False,Random Forest,Centroide espectral
+sub-051,0,1,0.83,False,Random Forest,Centroide espectral
+sub-005,1,0,0.41,False,Random Forest,Centroide espectral
+sub-027,1,1,0.95,False,Random Forest,Centroide espectral
+sub-016,1,1,0.97,False,Random Forest,Centroide espectral
+sub-061,0,1,0.75,False,Random Forest,Centroide espectral
+sub-024,1,1,0.89,False,Random Forest,Centroide espectral
+sub-029,1,1,0.96,False,Random Forest,Centroide espectral
+sub-041,0,1,0.57,False,Random Forest,Centroide espectral
+sub-010,1,1,0.58,False,Random Forest,Centroide espectral
+sub-038,0,0,0.1,False,Random Forest,Centroide espectral
+sub-032,1,1,0.82,False,Random Forest,Centroide espectral
+sub-040,0,1,0.8,False,Random Forest,Centroide espectral
+sub-017,1,1,1.0,False,Random Forest,Centroide espectral
+sub-004,1,1,0.82,False,Random Forest,Centroide espectral
+sub-035,1,1,0.62,False,Random Forest,Centroide espectral
+sub-031,1,1,0.53,False,Random Forest,Centroide espectral
+sub-011,1,0,0.31,False,Random Forest,Centroide espectral
+sub-053,0,1,0.58,False,Random Forest,Centroide espectral
+sub-059,0,0,0.21,False,Random Forest,Centroide espectral
+sub-007,1,1,0.98,False,Random Forest,Centroide espectral
+sub-039,0,0,0.46,False,Random Forest,Centroide espectral
+sub-012,1,1,0.71,False,Random Forest,Centroide espectral
+sub-056,0,0,0.38,False,Random Forest,Centroide espectral
+sub-042,0,0,0.25,False,Random Forest,Centroide espectral
+sub-047,0,0,0.21,False,Random Forest,Centroide espectral
+sub-023,1,1,0.91,False,Random Forest,Centroide espectral
+sub-020,1,0,0.45,False,Random Forest,Centroide espectral
+sub-036,1,1,0.51,False,Random Forest,Centroide espectral
+sub-001,1,1,0.98,False,Random Forest,Centroide espectral
+sub-048,0,1,0.88,False,Random Forest,Centroide espectral
+sub-050,0,0,0.39,False,Random Forest,Centroide espectral
+sub-046,0,0,0.5,False,Random Forest,Centroide espectral
+sub-013,1,1,0.81,False,Random Forest,Centroide espectral
+sub-054,0,0,0.28,False,Random Forest,Centroide espectral
+sub-044,0,0,0.37,False,Random Forest,Centroide espectral
+sub-015,1,1,0.95,False,Random Forest,Centroide espectral
+sub-064,0,0,0.35,False,Random Forest,Centroide espectral
+sub-003,1,1,0.67,False,Random Forest,Centroide espectral
+sub-037,0,0,0.23,False,Random Forest,Centroide espectral
+sub-034,1,0,0.39,False,Random Forest,Centroide espectral
+sub-002,1,0,0.13,False,Random Forest,Centroide espectral
+sub-014,1,1,0.96,False,Random Forest,Centroide espectral
+sub-009,1,1,0.66,False,Random Forest,Centroide espectral
+sub-030,1,1,0.88,False,Random Forest,LZC (banda estreita)
+sub-043,0,1,0.7,False,Random Forest,LZC (banda estreita)
+sub-019,1,0,0.2,False,Random Forest,LZC (banda estreita)
+sub-025,1,0,0.13,False,Random Forest,LZC (banda estreita)
+sub-008,1,1,0.83,False,Random Forest,LZC (banda estreita)
+sub-018,1,1,0.9,False,Random Forest,LZC (banda estreita)
+sub-028,1,1,0.99,False,Random Forest,LZC (banda estreita)
+sub-055,0,0,0.14,False,Random Forest,LZC (banda estreita)
+sub-065,0,0,0.29,False,Random Forest,LZC (banda estreita)
+sub-045,0,1,0.96,False,Random Forest,LZC (banda estreita)
+sub-052,0,0,0.38,False,Random Forest,LZC (banda estreita)
+sub-006,1,0,0.24,False,Random Forest,LZC (banda estreita)
+sub-063,0,1,0.62,False,Random Forest,LZC (banda estreita)
+sub-026,1,1,1.0,False,Random Forest,LZC (banda estreita)
+sub-033,1,1,0.68,False,Random Forest,LZC (banda estreita)
+sub-022,1,1,0.8,False,Random Forest,LZC (banda estreita)
+sub-062,0,0,0.29,False,Random Forest,LZC (banda estreita)
+sub-021,1,1,0.66,False,Random Forest,LZC (banda estreita)
+sub-058,0,0,0.23,False,Random Forest,LZC (banda estreita)
+sub-049,0,0,0.3,False,Random Forest,LZC (banda estreita)
+sub-057,0,1,0.55,False,Random Forest,LZC (banda estreita)
+sub-060,0,1,0.79,False,Random Forest,LZC (banda estreita)
+sub-051,0,0,0.39,False,Random Forest,LZC (banda estreita)
+sub-005,1,1,0.76,False,Random Forest,LZC (banda estreita)
+sub-027,1,1,0.9,False,Random Forest,LZC (banda estreita)
+sub-016,1,1,0.72,False,Random Forest,LZC (banda estreita)
+sub-061,0,0,0.35,False,Random Forest,LZC (banda estreita)
+sub-024,1,1,0.87,False,Random Forest,LZC (banda estreita)
+sub-029,1,1,0.98,False,Random Forest,LZC (banda estreita)
+sub-041,0,1,0.69,False,Random Forest,LZC (banda estreita)
+sub-010,1,1,0.77,False,Random Forest,LZC (banda estreita)
+sub-038,0,0,0.19,False,Random Forest,LZC (banda estreita)
+sub-032,1,1,0.78,False,Random Forest,LZC (banda estreita)
+sub-040,0,0,0.26,False,Random Forest,LZC (banda estreita)
+sub-017,1,1,0.99,False,Random Forest,LZC (banda estreita)
+sub-004,1,1,0.89,False,Random Forest,LZC (banda estreita)
+sub-035,1,1,0.8,False,Random Forest,LZC (banda estreita)
+sub-031,1,1,0.74,False,Random Forest,LZC (banda estreita)
+sub-011,1,0,0.38,False,Random Forest,LZC (banda estreita)
+sub-053,0,0,0.38,False,Random Forest,LZC (banda estreita)
+sub-059,0,0,0.36,False,Random Forest,LZC (banda estreita)
+sub-007,1,1,0.91,False,Random Forest,LZC (banda estreita)
+sub-039,0,0,0.21,False,Random Forest,LZC (banda estreita)
+sub-012,1,1,0.9,False,Random Forest,LZC (banda estreita)
+sub-056,0,0,0.1,False,Random Forest,LZC (banda estreita)
+sub-042,0,0,0.11,False,Random Forest,LZC (banda estreita)
+sub-047,0,0,0.16,False,Random Forest,LZC (banda estreita)
+sub-023,1,1,0.86,False,Random Forest,LZC (banda estreita)
+sub-020,1,1,0.82,False,Random Forest,LZC (banda estreita)
+sub-036,1,1,0.61,False,Random Forest,LZC (banda estreita)
+sub-001,1,1,0.81,False,Random Forest,LZC (banda estreita)
+sub-048,0,0,0.01,False,Random Forest,LZC (banda estreita)
+sub-050,0,0,0.1,False,Random Forest,LZC (banda estreita)
+sub-046,0,1,0.65,False,Random Forest,LZC (banda estreita)
+sub-013,1,1,1.0,False,Random Forest,LZC (banda estreita)
+sub-054,0,0,0.12,False,Random Forest,LZC (banda estreita)
+sub-044,0,0,0.12,False,Random Forest,LZC (banda estreita)
+sub-015,1,1,0.59,False,Random Forest,LZC (banda estreita)
+sub-064,0,0,0.35,False,Random Forest,LZC (banda estreita)
+sub-003,1,0,0.32,False,Random Forest,LZC (banda estreita)
+sub-037,0,0,0.32,False,Random Forest,LZC (banda estreita)
+sub-034,1,1,0.91,False,Random Forest,LZC (banda estreita)
+sub-002,1,0,0.01,False,Random Forest,LZC (banda estreita)
+sub-014,1,1,0.96,False,Random Forest,LZC (banda estreita)
+sub-009,1,1,0.66,False,Random Forest,LZC (banda estreita)
+sub-030,1,1,0.84,False,Random Forest,PAC local
+sub-043,0,1,0.86,False,Random Forest,PAC local
+sub-019,1,1,0.85,False,Random Forest,PAC local
+sub-025,1,1,0.55,False,Random Forest,PAC local
+sub-008,1,1,0.77,False,Random Forest,PAC local
+sub-018,1,1,0.57,False,Random Forest,PAC local
+sub-028,1,1,0.6013333333333333,False,Random Forest,PAC local
+sub-055,0,1,0.53,False,Random Forest,PAC local
+sub-065,0,1,0.63,False,Random Forest,PAC local
+sub-045,0,1,0.71,False,Random Forest,PAC local
+sub-052,0,1,0.61,False,Random Forest,PAC local
+sub-006,1,0,0.42,False,Random Forest,PAC local
+sub-063,0,1,0.59,False,Random Forest,PAC local
+sub-026,1,0,0.4,False,Random Forest,PAC local
+sub-033,1,0,0.45,False,Random Forest,PAC local
+sub-022,1,1,0.57,False,Random Forest,PAC local
+sub-062,0,1,0.57,False,Random Forest,PAC local
+sub-021,1,0,0.26,False,Random Forest,PAC local
+sub-058,0,1,0.67,False,Random Forest,PAC local
+sub-049,0,0,0.19,False,Random Forest,PAC local
+sub-057,0,1,0.86,False,Random Forest,PAC local
+sub-060,0,1,0.74,False,Random Forest,PAC local
+sub-051,0,1,0.83,False,Random Forest,PAC local
+sub-005,1,0,0.39,False,Random Forest,PAC local
+sub-027,1,1,0.61,False,Random Forest,PAC local
+sub-016,1,0,0.49,False,Random Forest,PAC local
+sub-061,0,1,0.56,False,Random Forest,PAC local
+sub-024,1,1,0.56,False,Random Forest,PAC local
+sub-029,1,1,0.63,False,Random Forest,PAC local
+sub-041,0,1,0.72,False,Random Forest,PAC local
+sub-010,1,1,0.78,False,Random Forest,PAC local
+sub-038,0,1,0.53,False,Random Forest,PAC local
+sub-032,1,1,0.54,False,Random Forest,PAC local
+sub-040,0,0,0.32,False,Random Forest,PAC local
+sub-017,1,1,0.61,False,Random Forest,PAC local
+sub-004,1,0,0.5,False,Random Forest,PAC local
+sub-035,1,0,0.5,False,Random Forest,PAC local
+sub-031,1,1,0.52,False,Random Forest,PAC local
+sub-011,1,1,0.66,False,Random Forest,PAC local
+sub-053,0,1,0.76,False,Random Forest,PAC local
+sub-059,0,1,0.78,False,Random Forest,PAC local
+sub-007,1,0,0.3,False,Random Forest,PAC local
+sub-039,0,1,0.55,False,Random Forest,PAC local
+sub-012,1,1,0.82,False,Random Forest,PAC local
+sub-056,0,1,0.54,False,Random Forest,PAC local
+sub-042,0,0,0.46285714285714286,False,Random Forest,PAC local
+sub-047,0,0,0.34,False,Random Forest,PAC local
+sub-023,1,1,0.67,False,Random Forest,PAC local
+sub-020,1,0,0.41,False,Random Forest,PAC local
+sub-036,1,1,0.6,False,Random Forest,PAC local
+sub-001,1,0,0.2675,False,Random Forest,PAC local
+sub-048,0,0,0.4375,False,Random Forest,PAC local
+sub-050,0,0,0.19,False,Random Forest,PAC local
+sub-046,0,0,0.37,False,Random Forest,PAC local
+sub-013,1,1,0.54,False,Random Forest,PAC local
+sub-054,0,0,0.28,False,Random Forest,PAC local
+sub-044,0,0,0.37,False,Random Forest,PAC local
+sub-015,1,1,0.54,False,Random Forest,PAC local
+sub-064,0,0,0.41,False,Random Forest,PAC local
+sub-003,1,1,0.535,False,Random Forest,PAC local
+sub-037,0,0,0.47,False,Random Forest,PAC local
+sub-034,1,1,0.63,False,Random Forest,PAC local
+sub-002,1,0,0.29,False,Random Forest,PAC local
+sub-014,1,0,0.46,False,Random Forest,PAC local
+sub-009,1,0,0.37,False,Random Forest,PAC local
+sub-030,1,1,0.94,False,Random Forest,Kuramoto (sensor)
+sub-043,0,1,0.96,False,Random Forest,Kuramoto (sensor)
+sub-019,1,1,0.51,False,Random Forest,Kuramoto (sensor)
+sub-025,1,0,0.3,False,Random Forest,Kuramoto (sensor)
+sub-008,1,1,0.94,False,Random Forest,Kuramoto (sensor)
+sub-018,1,1,0.9,False,Random Forest,Kuramoto (sensor)
+sub-028,1,1,0.89,False,Random Forest,Kuramoto (sensor)
+sub-055,0,0,0.43,False,Random Forest,Kuramoto (sensor)
+sub-065,0,0,0.14,False,Random Forest,Kuramoto (sensor)
+sub-045,0,0,0.31,False,Random Forest,Kuramoto (sensor)
+sub-052,0,0,0.34,False,Random Forest,Kuramoto (sensor)
+sub-006,1,1,0.9,False,Random Forest,Kuramoto (sensor)
+sub-063,0,0,0.38,False,Random Forest,Kuramoto (sensor)
+sub-026,1,1,0.69,False,Random Forest,Kuramoto (sensor)
+sub-033,1,1,0.55,False,Random Forest,Kuramoto (sensor)
+sub-022,1,1,0.93,False,Random Forest,Kuramoto (sensor)
+sub-062,0,0,0.23,False,Random Forest,Kuramoto (sensor)
+sub-021,1,1,0.76,False,Random Forest,Kuramoto (sensor)
+sub-058,0,0,0.29,False,Random Forest,Kuramoto (sensor)
+sub-049,0,0,0.15,False,Random Forest,Kuramoto (sensor)
+sub-057,0,0,0.22,False,Random Forest,Kuramoto (sensor)
+sub-060,0,1,0.81,False,Random Forest,Kuramoto (sensor)
+sub-051,0,1,0.92,False,Random Forest,Kuramoto (sensor)
+sub-005,1,1,0.75,False,Random Forest,Kuramoto (sensor)
+sub-027,1,1,0.9,False,Random Forest,Kuramoto (sensor)
+sub-016,1,1,0.8,False,Random Forest,Kuramoto (sensor)
+sub-061,0,0,0.4,False,Random Forest,Kuramoto (sensor)
+sub-024,1,1,0.92,False,Random Forest,Kuramoto (sensor)
+sub-029,1,1,0.84,False,Random Forest,Kuramoto (sensor)
+sub-041,0,0,0.39,False,Random Forest,Kuramoto (sensor)
+sub-010,1,0,0.34,False,Random Forest,Kuramoto (sensor)
+sub-038,0,0,0.15,False,Random Forest,Kuramoto (sensor)
+sub-032,1,1,0.72,False,Random Forest,Kuramoto (sensor)
+sub-040,0,0,0.19,False,Random Forest,Kuramoto (sensor)
+sub-017,1,1,1.0,False,Random Forest,Kuramoto (sensor)
+sub-004,1,1,0.78,False,Random Forest,Kuramoto (sensor)
+sub-035,1,1,0.87,False,Random Forest,Kuramoto (sensor)
+sub-031,1,0,0.1,False,Random Forest,Kuramoto (sensor)
+sub-011,1,0,0.33,False,Random Forest,Kuramoto (sensor)
+sub-053,0,1,0.66,False,Random Forest,Kuramoto (sensor)
+sub-059,0,0,0.43,False,Random Forest,Kuramoto (sensor)
+sub-007,1,1,0.92,False,Random Forest,Kuramoto (sensor)
+sub-039,0,0,0.22,False,Random Forest,Kuramoto (sensor)
+sub-012,1,1,0.86,False,Random Forest,Kuramoto (sensor)
+sub-056,0,1,0.63,False,Random Forest,Kuramoto (sensor)
+sub-042,0,0,0.1,False,Random Forest,Kuramoto (sensor)
+sub-047,0,0,0.25,False,Random Forest,Kuramoto (sensor)
+sub-023,1,0,0.29,False,Random Forest,Kuramoto (sensor)
+sub-020,1,1,0.86,False,Random Forest,Kuramoto (sensor)
+sub-036,1,1,0.69,False,Random Forest,Kuramoto (sensor)
+sub-001,1,1,0.81,False,Random Forest,Kuramoto (sensor)
+sub-048,0,0,0.29,False,Random Forest,Kuramoto (sensor)
+sub-050,0,0,0.4,False,Random Forest,Kuramoto (sensor)
+sub-046,0,0,0.31,False,Random Forest,Kuramoto (sensor)
+sub-013,1,1,0.82,False,Random Forest,Kuramoto (sensor)
+sub-054,0,0,0.41,False,Random Forest,Kuramoto (sensor)
+sub-044,0,0,0.43,False,Random Forest,Kuramoto (sensor)
+sub-015,1,0,0.2,False,Random Forest,Kuramoto (sensor)
+sub-064,0,0,0.12,False,Random Forest,Kuramoto (sensor)
+sub-003,1,0,0.09,False,Random Forest,Kuramoto (sensor)
+sub-037,0,0,0.28,False,Random Forest,Kuramoto (sensor)
+sub-034,1,1,0.75,False,Random Forest,Kuramoto (sensor)
+sub-002,1,0,0.46,False,Random Forest,Kuramoto (sensor)
+sub-014,1,1,0.9,False,Random Forest,Kuramoto (sensor)
+sub-009,1,1,0.58,False,Random Forest,Kuramoto (sensor)
+sub-030,1,1,0.89,False,Random Forest,Informação mútua
+sub-043,0,1,0.81,False,Random Forest,Informação mútua
+sub-019,1,1,0.71,False,Random Forest,Informação mútua
+sub-025,1,1,0.7,False,Random Forest,Informação mútua
+sub-008,1,1,0.7,False,Random Forest,Informação mútua
+sub-018,1,1,0.97,False,Random Forest,Informação mútua
+sub-028,1,1,0.99,False,Random Forest,Informação mútua
+sub-055,0,1,0.6,False,Random Forest,Informação mútua
+sub-065,0,0,0.35,False,Random Forest,Informação mútua
+sub-045,0,1,0.83,False,Random Forest,Informação mútua
+sub-052,0,0,0.34,False,Random Forest,Informação mútua
+sub-006,1,0,0.11,False,Random Forest,Informação mútua
+sub-063,0,0,0.26,False,Random Forest,Informação mútua
+sub-026,1,1,0.85,False,Random Forest,Informação mútua
+sub-033,1,1,0.62,False,Random Forest,Informação mútua
+sub-022,1,1,0.83,False,Random Forest,Informação mútua
+sub-062,0,0,0.25,False,Random Forest,Informação mútua
+sub-021,1,1,0.72,False,Random Forest,Informação mútua
+sub-058,0,1,0.63,False,Random Forest,Informação mútua
+sub-049,0,0,0.05,False,Random Forest,Informação mútua
+sub-057,0,0,0.17,False,Random Forest,Informação mútua
+sub-060,0,1,0.65,False,Random Forest,Informação mútua
+sub-051,0,0,0.03,False,Random Forest,Informação mútua
+sub-005,1,0,0.43,False,Random Forest,Informação mútua
+sub-027,1,1,0.92,False,Random Forest,Informação mútua
+sub-016,1,1,0.83,False,Random Forest,Informação mútua
+sub-061,0,0,0.12,False,Random Forest,Informação mútua
+sub-024,1,1,0.76,False,Random Forest,Informação mútua
+sub-029,1,1,0.69,False,Random Forest,Informação mútua
+sub-041,0,0,0.16,False,Random Forest,Informação mútua
+sub-010,1,0,0.46,False,Random Forest,Informação mútua
+sub-038,0,0,0.12,False,Random Forest,Informação mútua
+sub-032,1,1,0.92,False,Random Forest,Informação mútua
+sub-040,0,0,0.47,False,Random Forest,Informação mútua
+sub-017,1,1,0.74,False,Random Forest,Informação mútua
+sub-004,1,1,0.9,False,Random Forest,Informação mútua
+sub-035,1,1,0.86,False,Random Forest,Informação mútua
+sub-031,1,0,0.02,False,Random Forest,Informação mútua
+sub-011,1,1,0.86,False,Random Forest,Informação mútua
+sub-053,0,1,0.62,False,Random Forest,Informação mútua
+sub-059,0,0,0.29,False,Random Forest,Informação mútua
+sub-007,1,1,0.92,False,Random Forest,Informação mútua
+sub-039,0,1,0.51,False,Random Forest,Informação mútua
+sub-012,1,1,0.96,False,Random Forest,Informação mútua
+sub-056,0,1,0.58,False,Random Forest,Informação mútua
+sub-042,0,0,0.28,False,Random Forest,Informação mútua
+sub-047,0,0,0.18,False,Random Forest,Informação mútua
+sub-023,1,1,0.79,False,Random Forest,Informação mútua
+sub-020,1,1,0.7,False,Random Forest,Informação mútua
+sub-036,1,1,0.88,False,Random Forest,Informação mútua
+sub-001,1,1,0.97,False,Random Forest,Informação mútua
+sub-048,0,0,0.11,False,Random Forest,Informação mútua
+sub-050,0,1,0.68,False,Random Forest,Informação mútua
+sub-046,0,1,0.86,False,Random Forest,Informação mútua
+sub-013,1,1,0.87,False,Random Forest,Informação mútua
+sub-054,0,0,0.42,False,Random Forest,Informação mútua
+sub-044,0,0,0.21,False,Random Forest,Informação mútua
+sub-015,1,0,0.46,False,Random Forest,Informação mútua
+sub-064,0,0,0.13,False,Random Forest,Informação mútua
+sub-003,1,0,0.36,False,Random Forest,Informação mútua
+sub-037,0,0,0.47,False,Random Forest,Informação mútua
+sub-034,1,1,0.89,False,Random Forest,Informação mútua
+sub-002,1,0,0.28,False,Random Forest,Informação mútua
+sub-014,1,1,0.96,False,Random Forest,Informação mútua
+sub-009,1,0,0.18,False,Random Forest,Informação mútua
+sub-030,1,1,0.93,False,Random Forest,Todas (31)
+sub-043,0,1,0.75,False,Random Forest,Todas (31)
+sub-019,1,0,0.22,False,Random Forest,Todas (31)
+sub-025,1,0,0.23,False,Random Forest,Todas (31)
+sub-008,1,1,0.8,False,Random Forest,Todas (31)
+sub-018,1,1,0.93,False,Random Forest,Todas (31)
+sub-028,1,1,0.96,False,Random Forest,Todas (31)
+sub-055,0,0,0.25,False,Random Forest,Todas (31)
+sub-065,0,0,0.29,False,Random Forest,Todas (31)
+sub-045,0,1,0.83,False,Random Forest,Todas (31)
+sub-052,0,0,0.17,False,Random Forest,Todas (31)
+sub-006,1,0,0.25,False,Random Forest,Todas (31)
+sub-063,0,0,0.45,False,Random Forest,Todas (31)
+sub-026,1,1,0.88,False,Random Forest,Todas (31)
+sub-033,1,1,0.59,False,Random Forest,Todas (31)
+sub-022,1,1,0.89,False,Random Forest,Todas (31)
+sub-062,0,0,0.26,False,Random Forest,Todas (31)
+sub-021,1,1,0.73,False,Random Forest,Todas (31)
+sub-058,0,0,0.3,False,Random Forest,Todas (31)
+sub-049,0,0,0.18,False,Random Forest,Todas (31)
+sub-057,0,1,0.57,False,Random Forest,Todas (31)
+sub-060,0,1,0.64,False,Random Forest,Todas (31)
+sub-051,0,1,0.53,False,Random Forest,Todas (31)
+sub-005,1,1,0.71,False,Random Forest,Todas (31)
+sub-027,1,1,0.97,False,Random Forest,Todas (31)
+sub-016,1,1,0.92,False,Random Forest,Todas (31)
+sub-061,0,0,0.34,False,Random Forest,Todas (31)
+sub-024,1,1,0.89,False,Random Forest,Todas (31)
+sub-029,1,1,0.94,False,Random Forest,Todas (31)
+sub-041,0,0,0.5,False,Random Forest,Todas (31)
+sub-010,1,0,0.39,False,Random Forest,Todas (31)
+sub-038,0,0,0.19,False,Random Forest,Todas (31)
+sub-032,1,1,0.89,False,Random Forest,Todas (31)
+sub-040,0,0,0.16,False,Random Forest,Todas (31)
+sub-017,1,1,0.95,False,Random Forest,Todas (31)
+sub-004,1,1,0.91,False,Random Forest,Todas (31)
+sub-035,1,1,0.94,False,Random Forest,Todas (31)
+sub-031,1,0,0.41,False,Random Forest,Todas (31)
+sub-011,1,0,0.48,False,Random Forest,Todas (31)
+sub-053,0,0,0.44,False,Random Forest,Todas (31)
+sub-059,0,0,0.23,False,Random Forest,Todas (31)
+sub-007,1,1,0.99,False,Random Forest,Todas (31)
+sub-039,0,0,0.31,False,Random Forest,Todas (31)
+sub-012,1,1,0.64,False,Random Forest,Todas (31)
+sub-056,0,0,0.38,False,Random Forest,Todas (31)
+sub-042,0,0,0.09,False,Random Forest,Todas (31)
+sub-047,0,0,0.13,False,Random Forest,Todas (31)
+sub-023,1,1,0.75,False,Random Forest,Todas (31)
+sub-020,1,1,0.78,False,Random Forest,Todas (31)
+sub-036,1,0,0.46,False,Random Forest,Todas (31)
+sub-001,1,1,0.96,False,Random Forest,Todas (31)
+sub-048,0,0,0.16,False,Random Forest,Todas (31)
+sub-050,0,0,0.36,False,Random Forest,Todas (31)
+sub-046,0,1,0.61,False,Random Forest,Todas (31)
+sub-013,1,1,0.91,False,Random Forest,Todas (31)
+sub-054,0,0,0.25,False,Random Forest,Todas (31)
+sub-044,0,0,0.21,False,Random Forest,Todas (31)
+sub-015,1,0,0.36,False,Random Forest,Todas (31)
+sub-064,0,0,0.13,False,Random Forest,Todas (31)
+sub-003,1,1,0.61,False,Random Forest,Todas (31)
+sub-037,0,0,0.42,False,Random Forest,Todas (31)
+sub-034,1,1,0.94,False,Random Forest,Todas (31)
+sub-002,1,0,0.23,False,Random Forest,Todas (31)
+sub-014,1,1,0.92,False,Random Forest,Todas (31)
+sub-009,1,1,0.58,False,Random Forest,Todas (31)
+sub-030,1,1,2.0946422540606036,False,SVM (Linear),RBP
+sub-043,0,1,0.09784851056001603,False,SVM (Linear),RBP
+sub-019,1,0,-0.608825590727277,False,SVM (Linear),RBP
+sub-025,1,0,-1.8839574322282109,False,SVM (Linear),RBP
+sub-008,1,0,-0.4424397790029962,False,SVM (Linear),RBP
+sub-018,1,1,2.1898840273434104,False,SVM (Linear),RBP
+sub-028,1,1,4.025221673969024,False,SVM (Linear),RBP
+sub-055,0,0,-2.1717219519205493,False,SVM (Linear),RBP
+sub-065,0,0,-1.1501191336518972,False,SVM (Linear),RBP
+sub-045,0,1,0.49036251624779875,False,SVM (Linear),RBP
+sub-052,0,0,-0.8783554247235239,False,SVM (Linear),RBP
+sub-006,1,0,-2.130080166621746,False,SVM (Linear),RBP
+sub-063,0,0,-0.5114461054428328,False,SVM (Linear),RBP
+sub-026,1,1,2.784882090653289,False,SVM (Linear),RBP
+sub-033,1,0,-0.6195816880116276,False,SVM (Linear),RBP
+sub-022,1,1,1.7735783894116737,False,SVM (Linear),RBP
+sub-062,0,0,-1.8635726398820551,False,SVM (Linear),RBP
+sub-021,1,0,-0.6680219567293763,False,SVM (Linear),RBP
+sub-058,0,0,-1.5083024374804372,False,SVM (Linear),RBP
+sub-049,0,0,-1.6608102340227977,False,SVM (Linear),RBP
+sub-057,0,0,-0.7965395929812571,False,SVM (Linear),RBP
+sub-060,0,0,-1.5396071030189096,False,SVM (Linear),RBP
+sub-051,0,0,-0.4498027009836841,False,SVM (Linear),RBP
+sub-005,1,1,0.5367986995037658,False,SVM (Linear),RBP
+sub-027,1,1,4.0768709667059895,False,SVM (Linear),RBP
+sub-016,1,1,2.658969863017595,False,SVM (Linear),RBP
+sub-061,0,0,-0.1463650770750728,False,SVM (Linear),RBP
+sub-024,1,1,3.5021634012524734,False,SVM (Linear),RBP
+sub-029,1,1,3.655685895374856,False,SVM (Linear),RBP
+sub-041,0,0,-0.9310658057045281,False,SVM (Linear),RBP
+sub-010,1,0,-1.2633373243004085,False,SVM (Linear),RBP
+sub-038,0,0,-0.8203107461211285,False,SVM (Linear),RBP
+sub-032,1,1,2.083512010156909,False,SVM (Linear),RBP
+sub-040,0,0,-0.8206929506394635,False,SVM (Linear),RBP
+sub-017,1,1,2.796311940646684,False,SVM (Linear),RBP
+sub-004,1,1,2.73722239914504,False,SVM (Linear),RBP
+sub-035,1,1,1.9448628545758562,False,SVM (Linear),RBP
+sub-031,1,0,-0.11688304124598634,False,SVM (Linear),RBP
+sub-011,1,1,1.8044800630088769,False,SVM (Linear),RBP
+sub-053,0,0,-0.4687870212507398,False,SVM (Linear),RBP
+sub-059,0,0,-1.2559881501744832,False,SVM (Linear),RBP
+sub-007,1,1,3.090116572789509,False,SVM (Linear),RBP
+sub-039,0,0,-1.4658093536256174,False,SVM (Linear),RBP
+sub-012,1,0,-0.5747873214845428,False,SVM (Linear),RBP
+sub-056,0,0,-1.8541870479443359,False,SVM (Linear),RBP
+sub-042,0,0,-1.7493901012039221,False,SVM (Linear),RBP
+sub-047,0,0,-1.6088623561580497,False,SVM (Linear),RBP
+sub-023,1,1,1.278122045605956,False,SVM (Linear),RBP
+sub-020,1,1,1.8312473583898508,False,SVM (Linear),RBP
+sub-036,1,0,-1.8230868379460894,False,SVM (Linear),RBP
+sub-001,1,1,3.5074111112353,False,SVM (Linear),RBP
+sub-048,0,0,-1.3124304727813065,False,SVM (Linear),RBP
+sub-050,0,0,-0.017133533355831038,False,SVM (Linear),RBP
+sub-046,0,0,-0.6090183309944897,False,SVM (Linear),RBP
+sub-013,1,1,2.730345199865935,False,SVM (Linear),RBP
+sub-054,0,0,-1.2036021349178256,False,SVM (Linear),RBP
+sub-044,0,0,-1.6782208557649407,False,SVM (Linear),RBP
+sub-015,1,0,-0.7629387810194679,False,SVM (Linear),RBP
+sub-064,0,0,-2.1834923354364255,False,SVM (Linear),RBP
+sub-003,1,1,0.5773554156200185,False,SVM (Linear),RBP
+sub-037,0,0,-1.0404693749034124,False,SVM (Linear),RBP
+sub-034,1,1,2.1456491737421723,False,SVM (Linear),RBP
+sub-002,1,0,-0.7641559391922038,False,SVM (Linear),RBP
+sub-014,1,1,1.9652634326206586,False,SVM (Linear),RBP
+sub-009,1,0,-0.4442437143434764,False,SVM (Linear),RBP
+sub-030,1,1,1.9736547581787907,False,SVM (Linear),Centroide espectral
+sub-043,0,0,-1.1043589509335898,False,SVM (Linear),Centroide espectral
+sub-019,1,0,-0.6462089891939229,False,SVM (Linear),Centroide espectral
+sub-025,1,0,-0.13365966611663718,False,SVM (Linear),Centroide espectral
+sub-008,1,0,-0.43607761533846995,False,SVM (Linear),Centroide espectral
+sub-018,1,1,0.0031221657166167205,False,SVM (Linear),Centroide espectral
+sub-028,1,1,1.7623605690232305,False,SVM (Linear),Centroide espectral
+sub-055,0,0,-4.277524824707483,False,SVM (Linear),Centroide espectral
+sub-065,0,0,-0.5483365542413632,False,SVM (Linear),Centroide espectral
+sub-045,0,1,0.02668090936753395,False,SVM (Linear),Centroide espectral
+sub-052,0,0,-0.44278577579611766,False,SVM (Linear),Centroide espectral
+sub-006,1,0,-1.8288344194668276,False,SVM (Linear),Centroide espectral
+sub-063,0,1,0.44122418694444854,False,SVM (Linear),Centroide espectral
+sub-026,1,1,3.7860528933453494,False,SVM (Linear),Centroide espectral
+sub-033,1,0,-0.6207655760832412,False,SVM (Linear),Centroide espectral
+sub-022,1,0,-0.5323989621015806,False,SVM (Linear),Centroide espectral
+sub-062,0,0,-0.8557850004471959,False,SVM (Linear),Centroide espectral
+sub-021,1,0,-0.1997350920676862,False,SVM (Linear),Centroide espectral
+sub-058,0,0,-1.358668274563742,False,SVM (Linear),Centroide espectral
+sub-049,0,1,0.7956008970020814,False,SVM (Linear),Centroide espectral
+sub-057,0,1,1.1167151934489237,False,SVM (Linear),Centroide espectral
+sub-060,0,0,-2.9528215836277525,False,SVM (Linear),Centroide espectral
+sub-051,0,0,-0.8115154704880001,False,SVM (Linear),Centroide espectral
+sub-005,1,0,-0.2617540606736409,False,SVM (Linear),Centroide espectral
+sub-027,1,1,4.12122623518116,False,SVM (Linear),Centroide espectral
+sub-016,1,1,1.5005351143768013,False,SVM (Linear),Centroide espectral
+sub-061,0,1,2.0976914673079805,False,SVM (Linear),Centroide espectral
+sub-024,1,1,1.887137054233333,False,SVM (Linear),Centroide espectral
+sub-029,1,1,0.9856455719512831,False,SVM (Linear),Centroide espectral
+sub-041,0,0,-1.9192675918654565,False,SVM (Linear),Centroide espectral
+sub-010,1,1,0.3636135361178835,False,SVM (Linear),Centroide espectral
+sub-038,0,0,-2.6882374039178245,False,SVM (Linear),Centroide espectral
+sub-032,1,1,1.5492417213074565,False,SVM (Linear),Centroide espectral
+sub-040,0,0,-0.3818491069980068,False,SVM (Linear),Centroide espectral
+sub-017,1,1,1.540671598725579,False,SVM (Linear),Centroide espectral
+sub-004,1,1,1.7346309291617725,False,SVM (Linear),Centroide espectral
+sub-035,1,1,0.5809971635709468,False,SVM (Linear),Centroide espectral
+sub-031,1,1,0.5221369837169559,False,SVM (Linear),Centroide espectral
+sub-011,1,0,-0.5522655204986474,False,SVM (Linear),Centroide espectral
+sub-053,0,1,0.8141807548115356,False,SVM (Linear),Centroide espectral
+sub-059,0,0,-1.0886997325846937,False,SVM (Linear),Centroide espectral
+sub-007,1,1,2.7192449216765806,False,SVM (Linear),Centroide espectral
+sub-039,0,0,-1.2575534432369546,False,SVM (Linear),Centroide espectral
+sub-012,1,0,-1.6456792935721645,False,SVM (Linear),Centroide espectral
+sub-056,0,0,-1.0444426758506464,False,SVM (Linear),Centroide espectral
+sub-042,0,0,-0.4253243152938138,False,SVM (Linear),Centroide espectral
+sub-047,0,0,-1.9475673848578956,False,SVM (Linear),Centroide espectral
+sub-023,1,1,2.3399453334047124,False,SVM (Linear),Centroide espectral
+sub-020,1,1,0.903641705236516,False,SVM (Linear),Centroide espectral
+sub-036,1,0,-0.8509299958013278,False,SVM (Linear),Centroide espectral
+sub-001,1,1,2.793661005498437,False,SVM (Linear),Centroide espectral
+sub-048,0,1,0.5463035179977485,False,SVM (Linear),Centroide espectral
+sub-050,0,1,0.27698787547109865,False,SVM (Linear),Centroide espectral
+sub-046,0,0,-0.9843445994786457,False,SVM (Linear),Centroide espectral
+sub-013,1,1,2.6808493129375446,False,SVM (Linear),Centroide espectral
+sub-054,0,0,-2.151531984172392,False,SVM (Linear),Centroide espectral
+sub-044,0,0,-0.8128558732135637,False,SVM (Linear),Centroide espectral
+sub-015,1,1,0.6140182605815097,False,SVM (Linear),Centroide espectral
+sub-064,0,0,-0.9223631376576586,False,SVM (Linear),Centroide espectral
+sub-003,1,1,1.5001202794069424,False,SVM (Linear),Centroide espectral
+sub-037,0,0,-0.5304452951471353,False,SVM (Linear),Centroide espectral
+sub-034,1,0,-0.36356731053128877,False,SVM (Linear),Centroide espectral
+sub-002,1,0,-0.7566899827927178,False,SVM (Linear),Centroide espectral
+sub-014,1,1,2.6073596118940316,False,SVM (Linear),Centroide espectral
+sub-009,1,1,0.1505944286490718,False,SVM (Linear),Centroide espectral
+sub-030,1,1,0.32137666385037256,False,SVM (Linear),LZC (banda estreita)
+sub-043,0,1,0.18850846890867692,False,SVM (Linear),LZC (banda estreita)
+sub-019,1,0,-0.6616282374996814,False,SVM (Linear),LZC (banda estreita)
+sub-025,1,0,-5.138246003878817,False,SVM (Linear),LZC (banda estreita)
+sub-008,1,0,-1.3150472467745575,False,SVM (Linear),LZC (banda estreita)
+sub-018,1,1,1.5010222120817671,False,SVM (Linear),LZC (banda estreita)
+sub-028,1,1,1.4841976711137046,False,SVM (Linear),LZC (banda estreita)
+sub-055,0,0,-2.1480778466429715,False,SVM (Linear),LZC (banda estreita)
+sub-065,0,0,-0.7659341460886515,False,SVM (Linear),LZC (banda estreita)
+sub-045,0,1,1.4860939037190835,False,SVM (Linear),LZC (banda estreita)
+sub-052,0,0,-0.5835706437125675,False,SVM (Linear),LZC (banda estreita)
+sub-006,1,0,-1.7883257227683227,False,SVM (Linear),LZC (banda estreita)
+sub-063,0,1,0.3069982594694839,False,SVM (Linear),LZC (banda estreita)
+sub-026,1,1,2.4014473119729747,False,SVM (Linear),LZC (banda estreita)
+sub-033,1,0,-1.502691552170669,False,SVM (Linear),LZC (banda estreita)
+sub-022,1,1,0.4807555768810069,False,SVM (Linear),LZC (banda estreita)
+sub-062,0,0,-4.636113380928754,False,SVM (Linear),LZC (banda estreita)
+sub-021,1,1,1.3267385950187263,False,SVM (Linear),LZC (banda estreita)
+sub-058,0,0,-1.3128859057407878,False,SVM (Linear),LZC (banda estreita)
+sub-049,0,0,-1.839883639439602,False,SVM (Linear),LZC (banda estreita)
+sub-057,0,0,-0.2028678044550166,False,SVM (Linear),LZC (banda estreita)
+sub-060,0,1,0.981103724210725,False,SVM (Linear),LZC (banda estreita)
+sub-051,0,0,-0.3596423590803531,False,SVM (Linear),LZC (banda estreita)
+sub-005,1,1,1.127110750875734,False,SVM (Linear),LZC (banda estreita)
+sub-027,1,1,1.8362618059441647,False,SVM (Linear),LZC (banda estreita)
+sub-016,1,1,1.1172251889700944,False,SVM (Linear),LZC (banda estreita)
+sub-061,0,0,-0.7024318087574886,False,SVM (Linear),LZC (banda estreita)
+sub-024,1,1,1.249822307411982,False,SVM (Linear),LZC (banda estreita)
+sub-029,1,1,1.5937443690767206,False,SVM (Linear),LZC (banda estreita)
+sub-041,0,0,-0.09715302157547245,False,SVM (Linear),LZC (banda estreita)
+sub-010,1,1,0.8197331389001814,False,SVM (Linear),LZC (banda estreita)
+sub-038,0,0,-1.2394231083977307,False,SVM (Linear),LZC (banda estreita)
+sub-032,1,1,1.8261248110352448,False,SVM (Linear),LZC (banda estreita)
+sub-040,0,0,-1.5934251492944327,False,SVM (Linear),LZC (banda estreita)
+sub-017,1,1,0.7259070232476498,False,SVM (Linear),LZC (banda estreita)
+sub-004,1,1,1.1727543788461645,False,SVM (Linear),LZC (banda estreita)
+sub-035,1,1,0.705251914283709,False,SVM (Linear),LZC (banda estreita)
+sub-031,1,1,0.4647348337817295,False,SVM (Linear),LZC (banda estreita)
+sub-011,1,0,-0.30878316814250373,False,SVM (Linear),LZC (banda estreita)
+sub-053,0,1,0.4395418104631783,False,SVM (Linear),LZC (banda estreita)
+sub-059,0,0,-0.12831757789189652,False,SVM (Linear),LZC (banda estreita)
+sub-007,1,1,2.5532049513402684,False,SVM (Linear),LZC (banda estreita)
+sub-039,0,0,-2.7788331405059696,False,SVM (Linear),LZC (banda estreita)
+sub-012,1,0,-0.054475736335220785,False,SVM (Linear),LZC (banda estreita)
+sub-056,0,0,-1.3930937081694852,False,SVM (Linear),LZC (banda estreita)
+sub-042,0,0,-1.7169097249604226,False,SVM (Linear),LZC (banda estreita)
+sub-047,0,0,-0.6413528610657568,False,SVM (Linear),LZC (banda estreita)
+sub-023,1,1,0.7305165216945255,False,SVM (Linear),LZC (banda estreita)
+sub-020,1,1,1.6120364525708923,False,SVM (Linear),LZC (banda estreita)
+sub-036,1,0,-0.4519166053586468,False,SVM (Linear),LZC (banda estreita)
+sub-001,1,1,1.950381035586606,False,SVM (Linear),LZC (banda estreita)
+sub-048,0,0,-2.0635971487872347,False,SVM (Linear),LZC (banda estreita)
+sub-050,0,0,-0.13723957419582364,False,SVM (Linear),LZC (banda estreita)
+sub-046,0,1,0.2211388821173565,False,SVM (Linear),LZC (banda estreita)
+sub-013,1,1,1.9025059371893893,False,SVM (Linear),LZC (banda estreita)
+sub-054,0,0,-2.452667379776603,False,SVM (Linear),LZC (banda estreita)
+sub-044,0,0,-2.781623459419345,False,SVM (Linear),LZC (banda estreita)
+sub-015,1,1,0.41366023719772393,False,SVM (Linear),LZC (banda estreita)
+sub-064,0,0,-1.7532619851232598,False,SVM (Linear),LZC (banda estreita)
+sub-003,1,0,-1.994650471622643,False,SVM (Linear),LZC (banda estreita)
+sub-037,0,0,-2.6273044987752776,False,SVM (Linear),LZC (banda estreita)
+sub-034,1,1,2.0001138548362305,False,SVM (Linear),LZC (banda estreita)
+sub-002,1,0,-1.6093870233305854,False,SVM (Linear),LZC (banda estreita)
+sub-014,1,1,1.4095708093606445,False,SVM (Linear),LZC (banda estreita)
+sub-009,1,1,0.3107530935141794,False,SVM (Linear),LZC (banda estreita)
+sub-030,1,1,0.6344950978466372,False,SVM (Linear),PAC local
+sub-043,0,1,0.9588895878602228,False,SVM (Linear),PAC local
+sub-019,1,1,0.24139055833880776,False,SVM (Linear),PAC local
+sub-025,1,0,-1.1003321433693476,False,SVM (Linear),PAC local
+sub-008,1,1,0.3583966221208592,False,SVM (Linear),PAC local
+sub-018,1,1,1.157878540065174,False,SVM (Linear),PAC local
+sub-028,1,1,0.1942927894542387,False,SVM (Linear),PAC local
+sub-055,0,1,0.7547460383154005,False,SVM (Linear),PAC local
+sub-065,0,1,0.7244421644707839,False,SVM (Linear),PAC local
+sub-045,0,1,0.264545480445344,False,SVM (Linear),PAC local
+sub-052,0,1,0.33154474526718936,False,SVM (Linear),PAC local
+sub-006,1,1,0.32087452861534527,False,SVM (Linear),PAC local
+sub-063,0,0,-0.30108629627833144,False,SVM (Linear),PAC local
+sub-026,1,0,-2.832389932341264,False,SVM (Linear),PAC local
+sub-033,1,1,1.5190484759320593,False,SVM (Linear),PAC local
+sub-022,1,1,0.6088673520425794,False,SVM (Linear),PAC local
+sub-062,0,0,-1.1929140642877276,False,SVM (Linear),PAC local
+sub-021,1,1,1.0345503477673494,False,SVM (Linear),PAC local
+sub-058,0,1,0.4302475032302141,False,SVM (Linear),PAC local
+sub-049,0,1,0.04375936059384902,False,SVM (Linear),PAC local
+sub-057,0,1,0.9967261043323861,False,SVM (Linear),PAC local
+sub-060,0,1,2.0071400224376488,False,SVM (Linear),PAC local
+sub-051,0,0,-0.42260747127840426,False,SVM (Linear),PAC local
+sub-005,1,0,-0.0006051288415336517,False,SVM (Linear),PAC local
+sub-027,1,1,0.7920910917037433,False,SVM (Linear),PAC local
+sub-016,1,1,0.5566945087136339,False,SVM (Linear),PAC local
+sub-061,0,1,1.4641293361993235,False,SVM (Linear),PAC local
+sub-024,1,0,-0.5354911959994837,False,SVM (Linear),PAC local
+sub-029,1,1,0.7532649784693953,False,SVM (Linear),PAC local
+sub-041,0,1,0.9268034598325302,False,SVM (Linear),PAC local
+sub-010,1,1,0.8136323923495017,False,SVM (Linear),PAC local
+sub-038,0,1,0.3659090965146319,False,SVM (Linear),PAC local
+sub-032,1,0,-0.2784760328213209,False,SVM (Linear),PAC local
+sub-040,0,0,-0.19937719813076749,False,SVM (Linear),PAC local
+sub-017,1,0,-0.11428028337258214,False,SVM (Linear),PAC local
+sub-004,1,0,-0.44944724786832746,False,SVM (Linear),PAC local
+sub-035,1,1,0.689791643607727,False,SVM (Linear),PAC local
+sub-031,1,1,0.8665779889478191,False,SVM (Linear),PAC local
+sub-011,1,1,1.0571789536664942,False,SVM (Linear),PAC local
+sub-053,0,1,0.6858230201119206,False,SVM (Linear),PAC local
+sub-059,0,1,0.5596637909920741,False,SVM (Linear),PAC local
+sub-007,1,1,0.11676070366615812,False,SVM (Linear),PAC local
+sub-039,0,1,0.5026002767522051,False,SVM (Linear),PAC local
+sub-012,1,1,0.8262817228435371,False,SVM (Linear),PAC local
+sub-056,0,1,0.3273981219283979,False,SVM (Linear),PAC local
+sub-042,0,0,-1.253334498674304,False,SVM (Linear),PAC local
+sub-047,0,1,0.5551194193835667,False,SVM (Linear),PAC local
+sub-023,1,0,-1.1901263520354932,False,SVM (Linear),PAC local
+sub-020,1,1,0.11864368017812896,False,SVM (Linear),PAC local
+sub-036,1,1,1.6184500262186778,False,SVM (Linear),PAC local
+sub-001,1,0,-1.3129059989364993,False,SVM (Linear),PAC local
+sub-048,0,0,-2.3389739893587915,False,SVM (Linear),PAC local
+sub-050,0,1,0.014663936535897287,False,SVM (Linear),PAC local
+sub-046,0,0,-0.38186734088319124,False,SVM (Linear),PAC local
+sub-013,1,1,0.5387002770786931,False,SVM (Linear),PAC local
+sub-054,0,0,-0.09642449645078918,False,SVM (Linear),PAC local
+sub-044,0,1,1.3598152024748837,False,SVM (Linear),PAC local
+sub-015,1,0,-0.3457579423130201,False,SVM (Linear),PAC local
+sub-064,0,0,-0.6001861545204272,False,SVM (Linear),PAC local
+sub-003,1,0,-0.11172066411394707,False,SVM (Linear),PAC local
+sub-037,0,0,-0.591623776076817,False,SVM (Linear),PAC local
+sub-034,1,1,0.48523220287400703,False,SVM (Linear),PAC local
+sub-002,1,0,-2.5286700138868903,False,SVM (Linear),PAC local
+sub-014,1,1,0.20484491101199584,False,SVM (Linear),PAC local
+sub-009,1,0,-0.5622873375631868,False,SVM (Linear),PAC local
+sub-030,1,1,1.5359032733483535,False,SVM (Linear),Kuramoto (sensor)
+sub-043,0,1,0.564152466202619,False,SVM (Linear),Kuramoto (sensor)
+sub-019,1,1,0.0028252823068172644,False,SVM (Linear),Kuramoto (sensor)
+sub-025,1,0,-1.18984665972988,False,SVM (Linear),Kuramoto (sensor)
+sub-008,1,1,1.9299921968080704,False,SVM (Linear),Kuramoto (sensor)
+sub-018,1,1,2.49835907540738,False,SVM (Linear),Kuramoto (sensor)
+sub-028,1,1,1.450104604010806,False,SVM (Linear),Kuramoto (sensor)
+sub-055,0,0,-2.588883887488527,False,SVM (Linear),Kuramoto (sensor)
+sub-065,0,0,-4.069833949365923,False,SVM (Linear),Kuramoto (sensor)
+sub-045,0,0,-0.031986330603364296,False,SVM (Linear),Kuramoto (sensor)
+sub-052,0,0,-1.2081054603813897,False,SVM (Linear),Kuramoto (sensor)
+sub-006,1,1,0.3180612683488032,False,SVM (Linear),Kuramoto (sensor)
+sub-063,0,0,-0.9893725072160864,False,SVM (Linear),Kuramoto (sensor)
+sub-026,1,1,2.692069125749335,False,SVM (Linear),Kuramoto (sensor)
+sub-033,1,0,-0.11170475975578506,False,SVM (Linear),Kuramoto (sensor)
+sub-022,1,1,0.7710854603958343,False,SVM (Linear),Kuramoto (sensor)
+sub-062,0,0,-1.4358979315717462,False,SVM (Linear),Kuramoto (sensor)
+sub-021,1,1,0.8490248103421552,False,SVM (Linear),Kuramoto (sensor)
+sub-058,0,0,-0.5150747725562157,False,SVM (Linear),Kuramoto (sensor)
+sub-049,0,0,-3.5590857209072277,False,SVM (Linear),Kuramoto (sensor)
+sub-057,0,0,-2.71416189007682,False,SVM (Linear),Kuramoto (sensor)
+sub-060,0,1,0.8070358848288536,False,SVM (Linear),Kuramoto (sensor)
+sub-051,0,1,0.739561803806814,False,SVM (Linear),Kuramoto (sensor)
+sub-005,1,1,0.7342658587884259,False,SVM (Linear),Kuramoto (sensor)
+sub-027,1,1,2.2185767663248046,False,SVM (Linear),Kuramoto (sensor)
+sub-016,1,1,1.407028817331791,False,SVM (Linear),Kuramoto (sensor)
+sub-061,0,0,-2.3463233250353435,False,SVM (Linear),Kuramoto (sensor)
+sub-024,1,1,1.3464574391643238,False,SVM (Linear),Kuramoto (sensor)
+sub-029,1,1,1.6966378398345872,False,SVM (Linear),Kuramoto (sensor)
+sub-041,0,0,-0.5886812623071475,False,SVM (Linear),Kuramoto (sensor)
+sub-010,1,0,-0.32817501429946216,False,SVM (Linear),Kuramoto (sensor)
+sub-038,0,0,-0.834954492911493,False,SVM (Linear),Kuramoto (sensor)
+sub-032,1,1,0.5621058255653613,False,SVM (Linear),Kuramoto (sensor)
+sub-040,0,0,-1.4903168897967216,False,SVM (Linear),Kuramoto (sensor)
+sub-017,1,1,1.21711588665881,False,SVM (Linear),Kuramoto (sensor)
+sub-004,1,1,1.4737837041271198,False,SVM (Linear),Kuramoto (sensor)
+sub-035,1,1,1.7052553310959957,False,SVM (Linear),Kuramoto (sensor)
+sub-031,1,0,-2.1104143331169762,False,SVM (Linear),Kuramoto (sensor)
+sub-011,1,0,-1.5748589452667312,False,SVM (Linear),Kuramoto (sensor)
+sub-053,0,0,-0.19730055981768005,False,SVM (Linear),Kuramoto (sensor)
+sub-059,0,0,-0.154148004661851,False,SVM (Linear),Kuramoto (sensor)
+sub-007,1,1,1.1751243923540091,False,SVM (Linear),Kuramoto (sensor)
+sub-039,0,0,-0.7862929212161703,False,SVM (Linear),Kuramoto (sensor)
+sub-012,1,1,1.3330529044317807,False,SVM (Linear),Kuramoto (sensor)
+sub-056,0,1,0.1897090706873945,False,SVM (Linear),Kuramoto (sensor)
+sub-042,0,0,-0.42135171995163667,False,SVM (Linear),Kuramoto (sensor)
+sub-047,0,0,-0.6297611955159773,False,SVM (Linear),Kuramoto (sensor)
+sub-023,1,0,-0.6722184753536589,False,SVM (Linear),Kuramoto (sensor)
+sub-020,1,1,1.353690814423214,False,SVM (Linear),Kuramoto (sensor)
+sub-036,1,1,0.5215456965920254,False,SVM (Linear),Kuramoto (sensor)
+sub-001,1,1,1.581402938045404,False,SVM (Linear),Kuramoto (sensor)
+sub-048,0,0,-2.3739875075012122,False,SVM (Linear),Kuramoto (sensor)
+sub-050,0,1,0.116685743934744,False,SVM (Linear),Kuramoto (sensor)
+sub-046,0,0,-0.9985959739148456,False,SVM (Linear),Kuramoto (sensor)
+sub-013,1,1,0.7580000890933047,False,SVM (Linear),Kuramoto (sensor)
+sub-054,0,0,-2.4802524162185273,False,SVM (Linear),Kuramoto (sensor)
+sub-044,0,0,-0.14583749421512648,False,SVM (Linear),Kuramoto (sensor)
+sub-015,1,0,-1.4981174472124021,False,SVM (Linear),Kuramoto (sensor)
+sub-064,0,0,-1.9313030253947783,False,SVM (Linear),Kuramoto (sensor)
+sub-003,1,0,-1.1902805913739363,False,SVM (Linear),Kuramoto (sensor)
+sub-037,0,0,-2.358991395578978,False,SVM (Linear),Kuramoto (sensor)
+sub-034,1,1,0.5212123709665051,False,SVM (Linear),Kuramoto (sensor)
+sub-002,1,1,0.49408036665990007,False,SVM (Linear),Kuramoto (sensor)
+sub-014,1,1,2.4435160157548985,False,SVM (Linear),Kuramoto (sensor)
+sub-009,1,1,1.8125420438419426,False,SVM (Linear),Kuramoto (sensor)
+sub-030,1,1,1.3419627460170642,False,SVM (Linear),Informação mútua
+sub-043,0,0,-0.833323509894967,False,SVM (Linear),Informação mútua
+sub-019,1,0,-0.033177212599162675,False,SVM (Linear),Informação mútua
+sub-025,1,0,-4.565893642922694,False,SVM (Linear),Informação mútua
+sub-008,1,1,2.4364650450960865,False,SVM (Linear),Informação mútua
+sub-018,1,1,0.7344778745855504,False,SVM (Linear),Informação mútua
+sub-028,1,1,1.2005138708279013,False,SVM (Linear),Informação mútua
+sub-055,0,0,-2.1881253733438757,False,SVM (Linear),Informação mútua
+sub-065,0,0,-0.7026528928790546,False,SVM (Linear),Informação mútua
+sub-045,0,1,0.5944336441692596,False,SVM (Linear),Informação mútua
+sub-052,0,0,-0.2513916115224166,False,SVM (Linear),Informação mútua
+sub-006,1,0,-3.2382060469316363,False,SVM (Linear),Informação mútua
+sub-063,0,1,0.13704869876078113,False,SVM (Linear),Informação mútua
+sub-026,1,1,1.3342028980709801,False,SVM (Linear),Informação mútua
+sub-033,1,0,-0.31638644378810565,False,SVM (Linear),Informação mútua
+sub-022,1,1,0.6254175711815371,False,SVM (Linear),Informação mútua
+sub-062,0,0,-3.7254987026355773,False,SVM (Linear),Informação mútua
+sub-021,1,1,0.7435528963195265,False,SVM (Linear),Informação mútua
+sub-058,0,0,-0.8571973106935542,False,SVM (Linear),Informação mútua
+sub-049,0,0,-2.7741819798017056,False,SVM (Linear),Informação mútua
+sub-057,0,0,-1.2401447320152592,False,SVM (Linear),Informação mútua
+sub-060,0,1,0.58077323095124,False,SVM (Linear),Informação mútua
+sub-051,0,0,-1.106062697136651,False,SVM (Linear),Informação mútua
+sub-005,1,0,-0.35174337100647896,False,SVM (Linear),Informação mútua
+sub-027,1,1,3.782599099576315,False,SVM (Linear),Informação mútua
+sub-016,1,1,1.7664240278417247,False,SVM (Linear),Informação mútua
+sub-061,0,0,-2.477675535226813,False,SVM (Linear),Informação mútua
+sub-024,1,1,1.2591379533769482,False,SVM (Linear),Informação mútua
+sub-029,1,1,1.3997935792899823,False,SVM (Linear),Informação mútua
+sub-041,0,0,-1.0098360346366004,False,SVM (Linear),Informação mútua
+sub-010,1,0,-0.9272036619273468,False,SVM (Linear),Informação mútua
+sub-038,0,0,-1.493704684394903,False,SVM (Linear),Informação mútua
+sub-032,1,1,1.0587181048073273,False,SVM (Linear),Informação mútua
+sub-040,0,0,-1.1716023577008248,False,SVM (Linear),Informação mútua
+sub-017,1,1,1.2764457893421643,False,SVM (Linear),Informação mútua
+sub-004,1,1,1.8045761709061825,False,SVM (Linear),Informação mútua
+sub-035,1,1,1.4908598436772007,False,SVM (Linear),Informação mútua
+sub-031,1,0,-0.6713566516709533,False,SVM (Linear),Informação mútua
+sub-011,1,1,0.7524112403924269,False,SVM (Linear),Informação mútua
+sub-053,0,1,0.1630565480153139,False,SVM (Linear),Informação mútua
+sub-059,0,0,-0.3773999869881124,False,SVM (Linear),Informação mútua
+sub-007,1,1,1.2504537673273248,False,SVM (Linear),Informação mútua
+sub-039,0,0,-0.5749200330433271,False,SVM (Linear),Informação mútua
+sub-012,1,1,0.6042202980891821,False,SVM (Linear),Informação mútua
+sub-056,0,0,-0.967416104670494,False,SVM (Linear),Informação mútua
+sub-042,0,0,-0.6087674288822232,False,SVM (Linear),Informação mútua
+sub-047,0,0,-0.6554584080899853,False,SVM (Linear),Informação mútua
+sub-023,1,1,0.5428032362832569,False,SVM (Linear),Informação mútua
+sub-020,1,1,0.2709120888833375,False,SVM (Linear),Informação mútua
+sub-036,1,1,0.29313854441475296,False,SVM (Linear),Informação mútua
+sub-001,1,1,1.6182949889228218,False,SVM (Linear),Informação mútua
+sub-048,0,0,-1.3127038598393095,False,SVM (Linear),Informação mútua
+sub-050,0,1,0.9636380602874339,False,SVM (Linear),Informação mútua
+sub-046,0,1,0.17420513018349792,False,SVM (Linear),Informação mútua
+sub-013,1,1,1.549491158387597,False,SVM (Linear),Informação mútua
+sub-054,0,0,-0.5654210421666992,False,SVM (Linear),Informação mútua
+sub-044,0,0,-2.3649180464822357,False,SVM (Linear),Informação mútua
+sub-015,1,0,-0.422541484871386,False,SVM (Linear),Informação mútua
+sub-064,0,0,-1.4635795615983973,False,SVM (Linear),Informação mútua
+sub-003,1,0,-0.7617317857050745,False,SVM (Linear),Informação mútua
+sub-037,0,0,-1.4861927938238695,False,SVM (Linear),Informação mútua
+sub-034,1,1,0.7370484456170786,False,SVM (Linear),Informação mútua
+sub-002,1,0,-0.9846674796870657,False,SVM (Linear),Informação mútua
+sub-014,1,1,2.889114972315427,False,SVM (Linear),Informação mútua
+sub-009,1,0,-0.938397337620063,False,SVM (Linear),Informação mútua
+sub-030,1,1,3.5849400943971705,False,SVM (Linear),Todas (31)
+sub-043,0,1,0.21328971335567004,False,SVM (Linear),Todas (31)
+sub-019,1,0,-1.5743108868091964,False,SVM (Linear),Todas (31)
+sub-025,1,0,-0.9733647895800931,False,SVM (Linear),Todas (31)
+sub-008,1,1,3.6536270189181024,False,SVM (Linear),Todas (31)
+sub-018,1,1,3.920351700940377,False,SVM (Linear),Todas (31)
+sub-028,1,1,5.008034711968924,False,SVM (Linear),Todas (31)
+sub-055,0,0,-5.50114611714348,False,SVM (Linear),Todas (31)
+sub-065,0,0,-2.3434101527255637,False,SVM (Linear),Todas (31)
+sub-045,0,1,2.2970325384821844,False,SVM (Linear),Todas (31)
+sub-052,0,0,-1.0552623473797706,False,SVM (Linear),Todas (31)
+sub-006,1,1,0.8376367109094278,False,SVM (Linear),Todas (31)
+sub-063,0,0,-0.7262335274374925,False,SVM (Linear),Todas (31)
+sub-026,1,1,6.005936045051521,False,SVM (Linear),Todas (31)
+sub-033,1,0,-1.1949302611692803,False,SVM (Linear),Todas (31)
+sub-022,1,1,2.6871230605412944,False,SVM (Linear),Todas (31)
+sub-062,0,0,-1.380576916896365,False,SVM (Linear),Todas (31)
+sub-021,1,1,1.8956891128250297,False,SVM (Linear),Todas (31)
+sub-058,0,0,-1.4176942206948124,False,SVM (Linear),Todas (31)
+sub-049,0,0,-0.6159040887716143,False,SVM (Linear),Todas (31)
+sub-057,0,0,-0.5092092821529912,False,SVM (Linear),Todas (31)
+sub-060,0,0,-1.6740230690633466,False,SVM (Linear),Todas (31)
+sub-051,0,0,-0.26728236816023043,False,SVM (Linear),Todas (31)
+sub-005,1,0,-0.7816537856502399,False,SVM (Linear),Todas (31)
+sub-027,1,1,6.838771923332055,False,SVM (Linear),Todas (31)
+sub-016,1,1,3.8815062170380332,False,SVM (Linear),Todas (31)
+sub-061,0,1,2.3366020721366216,False,SVM (Linear),Todas (31)
+sub-024,1,1,4.435027878413351,False,SVM (Linear),Todas (31)
+sub-029,1,1,4.539795437855026,False,SVM (Linear),Todas (31)
+sub-041,0,0,-2.558443378530292,False,SVM (Linear),Todas (31)
+sub-010,1,0,-0.6121601595591383,False,SVM (Linear),Todas (31)
+sub-038,0,0,-3.807158268500968,False,SVM (Linear),Todas (31)
+sub-032,1,1,4.761386219073561,False,SVM (Linear),Todas (31)
+sub-040,0,0,-1.1822703896494289,False,SVM (Linear),Todas (31)
+sub-017,1,1,4.712570315485728,False,SVM (Linear),Todas (31)
+sub-004,1,1,2.5835552470605303,False,SVM (Linear),Todas (31)
+sub-035,1,1,2.4216283958648717,False,SVM (Linear),Todas (31)
+sub-031,1,1,0.7595484942425419,False,SVM (Linear),Todas (31)
+sub-011,1,0,-0.7306016901211788,False,SVM (Linear),Todas (31)
+sub-053,0,0,-0.3724482216085856,False,SVM (Linear),Todas (31)
+sub-059,0,0,-0.050198736610140626,False,SVM (Linear),Todas (31)
+sub-007,1,1,5.066654139363155,False,SVM (Linear),Todas (31)
+sub-039,0,1,1.799425878792425,False,SVM (Linear),Todas (31)
+sub-012,1,0,-1.1978936155739763,False,SVM (Linear),Todas (31)
+sub-056,0,0,-2.533231180383278,False,SVM (Linear),Todas (31)
+sub-042,0,0,-1.2690320307426826,False,SVM (Linear),Todas (31)
+sub-047,0,0,-2.5807494925755794,False,SVM (Linear),Todas (31)
+sub-023,1,1,0.3910422083827503,False,SVM (Linear),Todas (31)
+sub-020,1,1,3.815310242294047,False,SVM (Linear),Todas (31)
+sub-036,1,1,1.74882851862424,False,SVM (Linear),Todas (31)
+sub-001,1,1,4.56750552321405,False,SVM (Linear),Todas (31)
+sub-048,0,0,-2.8886749880254907,False,SVM (Linear),Todas (31)
+sub-050,0,1,1.394480482592586,False,SVM (Linear),Todas (31)
+sub-046,0,0,-1.63973749771518,False,SVM (Linear),Todas (31)
+sub-013,1,1,5.530394210306194,False,SVM (Linear),Todas (31)
+sub-054,0,0,-3.6842275122358608,False,SVM (Linear),Todas (31)
+sub-044,0,0,-2.753592321639744,False,SVM (Linear),Todas (31)
+sub-015,1,0,-0.5997310810505837,False,SVM (Linear),Todas (31)
+sub-064,0,0,-2.0201932944848657,False,SVM (Linear),Todas (31)
+sub-003,1,0,-0.2226839062234548,False,SVM (Linear),Todas (31)
+sub-037,0,0,-2.828238824091427,False,SVM (Linear),Todas (31)
+sub-034,1,1,1.91702556923671,False,SVM (Linear),Todas (31)
+sub-002,1,1,0.7303315007759635,False,SVM (Linear),Todas (31)
+sub-014,1,1,5.79504188997412,False,SVM (Linear),Todas (31)
+sub-009,1,1,1.6591955982628042,False,SVM (Linear),Todas (31)
+sub-030,1,1,0.9850358963012695,False,XGBoost,RBP
+sub-043,0,1,0.6126180291175842,False,XGBoost,RBP
+sub-019,1,0,0.07395253330469131,False,XGBoost,RBP
+sub-025,1,0,0.20921175181865692,False,XGBoost,RBP
+sub-008,1,0,0.17622704803943634,False,XGBoost,RBP
+sub-018,1,1,0.9873314499855042,False,XGBoost,RBP
+sub-028,1,1,0.9873130917549133,False,XGBoost,RBP
+sub-055,0,0,0.10746361315250397,False,XGBoost,RBP
+sub-065,0,0,0.045923393219709396,False,XGBoost,RBP
+sub-045,0,1,0.9189280271530151,False,XGBoost,RBP
+sub-052,0,0,0.15956097841262817,False,XGBoost,RBP
+sub-006,1,0,0.03145039454102516,False,XGBoost,RBP
+sub-063,0,1,0.7987875938415527,False,XGBoost,RBP
+sub-026,1,1,0.9785268306732178,False,XGBoost,RBP
+sub-033,1,1,0.6310635805130005,False,XGBoost,RBP
+sub-022,1,1,0.9877774119377136,False,XGBoost,RBP
+sub-062,0,0,0.1300690919160843,False,XGBoost,RBP
+sub-021,1,1,0.7614051699638367,False,XGBoost,RBP
+sub-058,0,0,0.17468437552452087,False,XGBoost,RBP
+sub-049,0,0,0.04852756857872009,False,XGBoost,RBP
+sub-057,0,1,0.8044711351394653,False,XGBoost,RBP
+sub-060,0,1,0.8280224800109863,False,XGBoost,RBP
+sub-051,0,0,0.2379479706287384,False,XGBoost,RBP
+sub-005,1,1,0.9392620921134949,False,XGBoost,RBP
+sub-027,1,1,0.9850358963012695,False,XGBoost,RBP
+sub-016,1,1,0.9877774119377136,False,XGBoost,RBP
+sub-061,0,0,0.13279668986797333,False,XGBoost,RBP
+sub-024,1,1,0.9850358963012695,False,XGBoost,RBP
+sub-029,1,1,0.9850358963012695,False,XGBoost,RBP
+sub-041,0,0,0.20366370677947998,False,XGBoost,RBP
+sub-010,1,0,0.012106749229133129,False,XGBoost,RBP
+sub-038,0,0,0.04036082327365875,False,XGBoost,RBP
+sub-032,1,1,0.9840216040611267,False,XGBoost,RBP
+sub-040,0,1,0.7409495115280151,False,XGBoost,RBP
+sub-017,1,1,0.9850358963012695,False,XGBoost,RBP
+sub-004,1,1,0.9764578938484192,False,XGBoost,RBP
+sub-035,1,1,0.9659212827682495,False,XGBoost,RBP
+sub-031,1,1,0.9775701761245728,False,XGBoost,RBP
+sub-011,1,1,0.9554089307785034,False,XGBoost,RBP
+sub-053,0,0,0.19529755413532257,False,XGBoost,RBP
+sub-059,0,0,0.42329171299934387,False,XGBoost,RBP
+sub-007,1,1,0.9764578938484192,False,XGBoost,RBP
+sub-039,0,0,0.25202465057373047,False,XGBoost,RBP
+sub-012,1,0,0.24288757145404816,False,XGBoost,RBP
+sub-056,0,0,0.13419026136398315,False,XGBoost,RBP
+sub-042,0,0,0.05089161545038223,False,XGBoost,RBP
+sub-047,0,0,0.08878590911626816,False,XGBoost,RBP
+sub-023,1,1,0.9708372950553894,False,XGBoost,RBP
+sub-020,1,1,0.9365844130516052,False,XGBoost,RBP
+sub-036,1,0,0.18371866643428802,False,XGBoost,RBP
+sub-001,1,1,0.976834237575531,False,XGBoost,RBP
+sub-048,0,0,0.029430070891976357,False,XGBoost,RBP
+sub-050,0,0,0.1863792985677719,False,XGBoost,RBP
+sub-046,0,0,0.491362065076828,False,XGBoost,RBP
+sub-013,1,1,0.9892321825027466,False,XGBoost,RBP
+sub-054,0,1,0.5027071833610535,False,XGBoost,RBP
+sub-044,0,0,0.026877067983150482,False,XGBoost,RBP
+sub-015,1,0,0.18588902056217194,False,XGBoost,RBP
+sub-064,0,0,0.1525895893573761,False,XGBoost,RBP
+sub-003,1,1,0.9671146273612976,False,XGBoost,RBP
+sub-037,0,1,0.5065086483955383,False,XGBoost,RBP
+sub-034,1,1,0.9674317240715027,False,XGBoost,RBP
+sub-002,1,0,0.0615607388317585,False,XGBoost,RBP
+sub-014,1,1,0.9675590395927429,False,XGBoost,RBP
+sub-009,1,0,0.31210237741470337,False,XGBoost,RBP
+sub-030,1,1,0.867080807685852,False,XGBoost,Centroide espectral
+sub-043,0,0,0.035408865660429,False,XGBoost,Centroide espectral
+sub-019,1,0,0.1487506777048111,False,XGBoost,Centroide espectral
+sub-025,1,0,0.35274967551231384,False,XGBoost,Centroide espectral
+sub-008,1,0,0.1733497530221939,False,XGBoost,Centroide espectral
+sub-018,1,1,0.9465554356575012,False,XGBoost,Centroide espectral
+sub-028,1,1,0.8043935298919678,False,XGBoost,Centroide espectral
+sub-055,0,0,0.13887397944927216,False,XGBoost,Centroide espectral
+sub-065,0,0,0.045383650809526443,False,XGBoost,Centroide espectral
+sub-045,0,0,0.14789527654647827,False,XGBoost,Centroide espectral
+sub-052,0,0,0.16375397145748138,False,XGBoost,Centroide espectral
+sub-006,1,0,0.02860294282436371,False,XGBoost,Centroide espectral
+sub-063,0,1,0.7701473236083984,False,XGBoost,Centroide espectral
+sub-026,1,1,0.5924451351165771,False,XGBoost,Centroide espectral
+sub-033,1,0,0.06341016292572021,False,XGBoost,Centroide espectral
+sub-022,1,0,0.026037199422717094,False,XGBoost,Centroide espectral
+sub-062,0,0,0.3914978802204132,False,XGBoost,Centroide espectral
+sub-021,1,1,0.9058476090431213,False,XGBoost,Centroide espectral
+sub-058,0,1,0.5005207657814026,False,XGBoost,Centroide espectral
+sub-049,0,0,0.43801018595695496,False,XGBoost,Centroide espectral
+sub-057,0,1,0.9388079643249512,False,XGBoost,Centroide espectral
+sub-060,0,0,0.030673667788505554,False,XGBoost,Centroide espectral
+sub-051,0,1,0.9309860467910767,False,XGBoost,Centroide espectral
+sub-005,1,0,0.20130635797977448,False,XGBoost,Centroide espectral
+sub-027,1,1,0.9895399212837219,False,XGBoost,Centroide espectral
+sub-016,1,1,0.9939398765563965,False,XGBoost,Centroide espectral
+sub-061,0,1,0.6959279179573059,False,XGBoost,Centroide espectral
+sub-024,1,1,0.9615296721458435,False,XGBoost,Centroide espectral
+sub-029,1,1,0.99382084608078,False,XGBoost,Centroide espectral
+sub-041,0,1,0.6781719326972961,False,XGBoost,Centroide espectral
+sub-010,1,1,0.8241617679595947,False,XGBoost,Centroide espectral
+sub-038,0,0,0.017153244465589523,False,XGBoost,Centroide espectral
+sub-032,1,1,0.7975382804870605,False,XGBoost,Centroide espectral
+sub-040,0,1,0.7498310208320618,False,XGBoost,Centroide espectral
+sub-017,1,1,0.9944697618484497,False,XGBoost,Centroide espectral
+sub-004,1,1,0.9023585319519043,False,XGBoost,Centroide espectral
+sub-035,1,1,0.7390178442001343,False,XGBoost,Centroide espectral
+sub-031,1,0,0.3192962408065796,False,XGBoost,Centroide espectral
+sub-011,1,0,0.20589567720890045,False,XGBoost,Centroide espectral
+sub-053,0,1,0.9625575542449951,False,XGBoost,Centroide espectral
+sub-059,0,0,0.21487008035182953,False,XGBoost,Centroide espectral
+sub-007,1,1,0.9931816458702087,False,XGBoost,Centroide espectral
+sub-039,0,0,0.31861597299575806,False,XGBoost,Centroide espectral
+sub-012,1,1,0.9096447825431824,False,XGBoost,Centroide espectral
+sub-056,0,0,0.05689132213592529,False,XGBoost,Centroide espectral
+sub-042,0,0,0.28324365615844727,False,XGBoost,Centroide espectral
+sub-047,0,0,0.19090516865253448,False,XGBoost,Centroide espectral
+sub-023,1,1,0.9471621513366699,False,XGBoost,Centroide espectral
+sub-020,1,0,0.3346398174762726,False,XGBoost,Centroide espectral
+sub-036,1,1,0.5363183617591858,False,XGBoost,Centroide espectral
+sub-001,1,1,0.9867631793022156,False,XGBoost,Centroide espectral
+sub-048,0,1,0.8412631750106812,False,XGBoost,Centroide espectral
+sub-050,0,0,0.4365593194961548,False,XGBoost,Centroide espectral
+sub-046,0,1,0.5117957592010498,False,XGBoost,Centroide espectral
+sub-013,1,1,0.8777126669883728,False,XGBoost,Centroide espectral
+sub-054,0,0,0.09120506048202515,False,XGBoost,Centroide espectral
+sub-044,0,0,0.4233698546886444,False,XGBoost,Centroide espectral
+sub-015,1,1,0.9870703220367432,False,XGBoost,Centroide espectral
+sub-064,0,1,0.5044025182723999,False,XGBoost,Centroide espectral
+sub-003,1,1,0.6211739778518677,False,XGBoost,Centroide espectral
+sub-037,0,0,0.15925554931163788,False,XGBoost,Centroide espectral
+sub-034,1,0,0.27463117241859436,False,XGBoost,Centroide espectral
+sub-002,1,0,0.07682156562805176,False,XGBoost,Centroide espectral
+sub-014,1,1,0.9658842086791992,False,XGBoost,Centroide espectral
+sub-009,1,1,0.8633283972740173,False,XGBoost,Centroide espectral
+sub-030,1,1,0.939389705657959,False,XGBoost,LZC (banda estreita)
+sub-043,0,0,0.09598195552825928,False,XGBoost,LZC (banda estreita)
+sub-019,1,0,0.10324142873287201,False,XGBoost,LZC (banda estreita)
+sub-025,1,0,0.03608262538909912,False,XGBoost,LZC (banda estreita)
+sub-008,1,1,0.8787669539451599,False,XGBoost,LZC (banda estreita)
+sub-018,1,1,0.9598204493522644,False,XGBoost,LZC (banda estreita)
+sub-028,1,1,0.9861278533935547,False,XGBoost,LZC (banda estreita)
+sub-055,0,0,0.013933097012341022,False,XGBoost,LZC (banda estreita)
+sub-065,0,0,0.0163300521671772,False,XGBoost,LZC (banda estreita)
+sub-045,0,1,0.9852741956710815,False,XGBoost,LZC (banda estreita)
+sub-052,0,0,0.4299042522907257,False,XGBoost,LZC (banda estreita)
+sub-006,1,0,0.21799173951148987,False,XGBoost,LZC (banda estreita)
+sub-063,0,1,0.8254742622375488,False,XGBoost,LZC (banda estreita)
+sub-026,1,1,0.9904351234436035,False,XGBoost,LZC (banda estreita)
+sub-033,1,1,0.7089698910713196,False,XGBoost,LZC (banda estreita)
+sub-022,1,1,0.5716635584831238,False,XGBoost,LZC (banda estreita)
+sub-062,0,0,0.05195559188723564,False,XGBoost,LZC (banda estreita)
+sub-021,1,1,0.8787904977798462,False,XGBoost,LZC (banda estreita)
+sub-058,0,0,0.13883520662784576,False,XGBoost,LZC (banda estreita)
+sub-049,0,0,0.16520221531391144,False,XGBoost,LZC (banda estreita)
+sub-057,0,1,0.7704165577888489,False,XGBoost,LZC (banda estreita)
+sub-060,0,1,0.7712496519088745,False,XGBoost,LZC (banda estreita)
+sub-051,0,1,0.7104393839836121,False,XGBoost,LZC (banda estreita)
+sub-005,1,1,0.9235774278640747,False,XGBoost,LZC (banda estreita)
+sub-027,1,1,0.9102845191955566,False,XGBoost,LZC (banda estreita)
+sub-016,1,1,0.6742963194847107,False,XGBoost,LZC (banda estreita)
+sub-061,0,1,0.5110592842102051,False,XGBoost,LZC (banda estreita)
+sub-024,1,1,0.9739050269126892,False,XGBoost,LZC (banda estreita)
+sub-029,1,1,0.9901392459869385,False,XGBoost,LZC (banda estreita)
+sub-041,0,1,0.6055262088775635,False,XGBoost,LZC (banda estreita)
+sub-010,1,1,0.9491026997566223,False,XGBoost,LZC (banda estreita)
+sub-038,0,0,0.0125302504748106,False,XGBoost,LZC (banda estreita)
+sub-032,1,1,0.9056548476219177,False,XGBoost,LZC (banda estreita)
+sub-040,0,0,0.23057213425636292,False,XGBoost,LZC (banda estreita)
+sub-017,1,1,0.9797012805938721,False,XGBoost,LZC (banda estreita)
+sub-004,1,1,0.8790552616119385,False,XGBoost,LZC (banda estreita)
+sub-035,1,1,0.9439941644668579,False,XGBoost,LZC (banda estreita)
+sub-031,1,1,0.9221006631851196,False,XGBoost,LZC (banda estreita)
+sub-011,1,0,0.07753901928663254,False,XGBoost,LZC (banda estreita)
+sub-053,0,0,0.49235865473747253,False,XGBoost,LZC (banda estreita)
+sub-059,0,0,0.27722159028053284,False,XGBoost,LZC (banda estreita)
+sub-007,1,1,0.9895607233047485,False,XGBoost,LZC (banda estreita)
+sub-039,0,0,0.12629908323287964,False,XGBoost,LZC (banda estreita)
+sub-012,1,1,0.9164336919784546,False,XGBoost,LZC (banda estreita)
+sub-056,0,0,0.11242333054542542,False,XGBoost,LZC (banda estreita)
+sub-042,0,0,0.10929175466299057,False,XGBoost,LZC (banda estreita)
+sub-047,0,0,0.07788043469190598,False,XGBoost,LZC (banda estreita)
+sub-023,1,1,0.9858359098434448,False,XGBoost,LZC (banda estreita)
+sub-020,1,1,0.9424800872802734,False,XGBoost,LZC (banda estreita)
+sub-036,1,1,0.6608786582946777,False,XGBoost,LZC (banda estreita)
+sub-001,1,1,0.9627028107643127,False,XGBoost,LZC (banda estreita)
+sub-048,0,0,0.007159452885389328,False,XGBoost,LZC (banda estreita)
+sub-050,0,0,0.20382750034332275,False,XGBoost,LZC (banda estreita)
+sub-046,0,1,0.8884140253067017,False,XGBoost,LZC (banda estreita)
+sub-013,1,1,0.9934237003326416,False,XGBoost,LZC (banda estreita)
+sub-054,0,0,0.03868823125958443,False,XGBoost,LZC (banda estreita)
+sub-044,0,0,0.05530871823430061,False,XGBoost,LZC (banda estreita)
+sub-015,1,1,0.7991387844085693,False,XGBoost,LZC (banda estreita)
+sub-064,0,0,0.18841689825057983,False,XGBoost,LZC (banda estreita)
+sub-003,1,0,0.058313943445682526,False,XGBoost,LZC (banda estreita)
+sub-037,0,1,0.5026394724845886,False,XGBoost,LZC (banda estreita)
+sub-034,1,1,0.9865055680274963,False,XGBoost,LZC (banda estreita)
+sub-002,1,0,0.009381239302456379,False,XGBoost,LZC (banda estreita)
+sub-014,1,1,0.9692991971969604,False,XGBoost,LZC (banda estreita)
+sub-009,1,1,0.6257522106170654,False,XGBoost,LZC (banda estreita)
+sub-030,1,1,0.9563234448432922,False,XGBoost,PAC local
+sub-043,0,1,0.8415102362632751,False,XGBoost,PAC local
+sub-019,1,1,0.9783176183700562,False,XGBoost,PAC local
+sub-025,1,1,0.543527364730835,False,XGBoost,PAC local
+sub-008,1,1,0.9590888023376465,False,XGBoost,PAC local
+sub-018,1,1,0.8573628664016724,False,XGBoost,PAC local
+sub-028,1,1,0.8151307106018066,False,XGBoost,PAC local
+sub-055,0,1,0.5175050497055054,False,XGBoost,PAC local
+sub-065,0,1,0.8387370109558105,False,XGBoost,PAC local
+sub-045,0,1,0.8331233859062195,False,XGBoost,PAC local
+sub-052,0,0,0.330130398273468,False,XGBoost,PAC local
+sub-006,1,0,0.283677875995636,False,XGBoost,PAC local
+sub-063,0,1,0.5328138470649719,False,XGBoost,PAC local
+sub-026,1,0,0.36340513825416565,False,XGBoost,PAC local
+sub-033,1,1,0.5692854523658752,False,XGBoost,PAC local
+sub-022,1,0,0.1320851445198059,False,XGBoost,PAC local
+sub-062,0,1,0.836371660232544,False,XGBoost,PAC local
+sub-021,1,0,0.14521196484565735,False,XGBoost,PAC local
+sub-058,0,1,0.6800451874732971,False,XGBoost,PAC local
+sub-049,0,0,0.05562395229935646,False,XGBoost,PAC local
+sub-057,0,1,0.9736045598983765,False,XGBoost,PAC local
+sub-060,0,1,0.9485836625099182,False,XGBoost,PAC local
+sub-051,0,1,0.8735359907150269,False,XGBoost,PAC local
+sub-005,1,0,0.22313308715820312,False,XGBoost,PAC local
+sub-027,1,1,0.7477521896362305,False,XGBoost,PAC local
+sub-016,1,1,0.5588898658752441,False,XGBoost,PAC local
+sub-061,0,1,0.8332527875900269,False,XGBoost,PAC local
+sub-024,1,0,0.1811472773551941,False,XGBoost,PAC local
+sub-029,1,1,0.7264441847801208,False,XGBoost,PAC local
+sub-041,0,0,0.39242035150527954,False,XGBoost,PAC local
+sub-010,1,0,0.42390385270118713,False,XGBoost,PAC local
+sub-038,0,0,0.20242588222026825,False,XGBoost,PAC local
+sub-032,1,1,0.8644857406616211,False,XGBoost,PAC local
+sub-040,0,0,0.14848144352436066,False,XGBoost,PAC local
+sub-017,1,1,0.8471864461898804,False,XGBoost,PAC local
+sub-004,1,0,0.18883107602596283,False,XGBoost,PAC local
+sub-035,1,1,0.5037785172462463,False,XGBoost,PAC local
+sub-031,1,1,0.5525188446044922,False,XGBoost,PAC local
+sub-011,1,0,0.3822495639324188,False,XGBoost,PAC local
+sub-053,0,1,0.912298858165741,False,XGBoost,PAC local
+sub-059,0,1,0.9127112030982971,False,XGBoost,PAC local
+sub-007,1,0,0.24976365268230438,False,XGBoost,PAC local
+sub-039,0,0,0.48842763900756836,False,XGBoost,PAC local
+sub-012,1,1,0.9707713723182678,False,XGBoost,PAC local
+sub-056,0,0,0.15413948893547058,False,XGBoost,PAC local
+sub-042,0,1,0.6700010299682617,False,XGBoost,PAC local
+sub-047,0,0,0.31215688586235046,False,XGBoost,PAC local
+sub-023,1,1,0.7830860614776611,False,XGBoost,PAC local
+sub-020,1,0,0.1168207973241806,False,XGBoost,PAC local
+sub-036,1,1,0.7591243982315063,False,XGBoost,PAC local
+sub-001,1,0,0.1416795551776886,False,XGBoost,PAC local
+sub-048,0,1,0.5892208814620972,False,XGBoost,PAC local
+sub-050,0,0,0.028069695457816124,False,XGBoost,PAC local
+sub-046,0,0,0.13417382538318634,False,XGBoost,PAC local
+sub-013,1,0,0.26236069202423096,False,XGBoost,PAC local
+sub-054,0,0,0.18632076680660248,False,XGBoost,PAC local
+sub-044,0,0,0.034925781190395355,False,XGBoost,PAC local
+sub-015,1,1,0.6956321001052856,False,XGBoost,PAC local
+sub-064,0,1,0.5193396806716919,False,XGBoost,PAC local
+sub-003,1,1,0.5905875563621521,False,XGBoost,PAC local
+sub-037,0,0,0.27678754925727844,False,XGBoost,PAC local
+sub-034,1,1,0.9564468264579773,False,XGBoost,PAC local
+sub-002,1,0,0.08890662342309952,False,XGBoost,PAC local
+sub-014,1,0,0.04810972139239311,False,XGBoost,PAC local
+sub-009,1,0,0.41681578755378723,False,XGBoost,PAC local
+sub-030,1,1,0.9661006927490234,False,XGBoost,Kuramoto (sensor)
+sub-043,0,1,0.9841160178184509,False,XGBoost,Kuramoto (sensor)
+sub-019,1,1,0.6558765172958374,False,XGBoost,Kuramoto (sensor)
+sub-025,1,0,0.21767772734165192,False,XGBoost,Kuramoto (sensor)
+sub-008,1,1,0.979915201663971,False,XGBoost,Kuramoto (sensor)
+sub-018,1,1,0.9879401922225952,False,XGBoost,Kuramoto (sensor)
+sub-028,1,1,0.9432954788208008,False,XGBoost,Kuramoto (sensor)
+sub-055,0,0,0.0649670660495758,False,XGBoost,Kuramoto (sensor)
+sub-065,0,0,0.026536468416452408,False,XGBoost,Kuramoto (sensor)
+sub-045,0,0,0.25306662917137146,False,XGBoost,Kuramoto (sensor)
+sub-052,0,0,0.23199471831321716,False,XGBoost,Kuramoto (sensor)
+sub-006,1,1,0.8593901991844177,False,XGBoost,Kuramoto (sensor)
+sub-063,0,0,0.11297070235013962,False,XGBoost,Kuramoto (sensor)
+sub-026,1,1,0.8800519704818726,False,XGBoost,Kuramoto (sensor)
+sub-033,1,0,0.14978520572185516,False,XGBoost,Kuramoto (sensor)
+sub-022,1,1,0.9845676422119141,False,XGBoost,Kuramoto (sensor)
+sub-062,0,0,0.1872968077659607,False,XGBoost,Kuramoto (sensor)
+sub-021,1,1,0.8834292888641357,False,XGBoost,Kuramoto (sensor)
+sub-058,0,0,0.27295318245887756,False,XGBoost,Kuramoto (sensor)
+sub-049,0,0,0.07010792940855026,False,XGBoost,Kuramoto (sensor)
+sub-057,0,0,0.04511912167072296,False,XGBoost,Kuramoto (sensor)
+sub-060,0,1,0.8951706886291504,False,XGBoost,Kuramoto (sensor)
+sub-051,0,1,0.9750434756278992,False,XGBoost,Kuramoto (sensor)
+sub-005,1,1,0.8610791563987732,False,XGBoost,Kuramoto (sensor)
+sub-027,1,1,0.9826334118843079,False,XGBoost,Kuramoto (sensor)
+sub-016,1,1,0.9734950661659241,False,XGBoost,Kuramoto (sensor)
+sub-061,0,0,0.1148236021399498,False,XGBoost,Kuramoto (sensor)
+sub-024,1,1,0.9272767305374146,False,XGBoost,Kuramoto (sensor)
+sub-029,1,1,0.9678223729133606,False,XGBoost,Kuramoto (sensor)
+sub-041,0,0,0.12581677734851837,False,XGBoost,Kuramoto (sensor)
+sub-010,1,1,0.5904060006141663,False,XGBoost,Kuramoto (sensor)
+sub-038,0,0,0.13769084215164185,False,XGBoost,Kuramoto (sensor)
+sub-032,1,1,0.9220567941665649,False,XGBoost,Kuramoto (sensor)
+sub-040,0,0,0.05693021044135094,False,XGBoost,Kuramoto (sensor)
+sub-017,1,1,0.9824389219284058,False,XGBoost,Kuramoto (sensor)
+sub-004,1,1,0.9158740639686584,False,XGBoost,Kuramoto (sensor)
+sub-035,1,1,0.9610210061073303,False,XGBoost,Kuramoto (sensor)
+sub-031,1,0,0.0289536714553833,False,XGBoost,Kuramoto (sensor)
+sub-011,1,0,0.4911591410636902,False,XGBoost,Kuramoto (sensor)
+sub-053,0,1,0.8687242269515991,False,XGBoost,Kuramoto (sensor)
+sub-059,0,1,0.8503434062004089,False,XGBoost,Kuramoto (sensor)
+sub-007,1,1,0.9506375193595886,False,XGBoost,Kuramoto (sensor)
+sub-039,0,0,0.440145879983902,False,XGBoost,Kuramoto (sensor)
+sub-012,1,1,0.9253125786781311,False,XGBoost,Kuramoto (sensor)
+sub-056,0,1,0.909380316734314,False,XGBoost,Kuramoto (sensor)
+sub-042,0,0,0.05959368869662285,False,XGBoost,Kuramoto (sensor)
+sub-047,0,0,0.13469162583351135,False,XGBoost,Kuramoto (sensor)
+sub-023,1,0,0.045081090182065964,False,XGBoost,Kuramoto (sensor)
+sub-020,1,1,0.9720785021781921,False,XGBoost,Kuramoto (sensor)
+sub-036,1,1,0.8266292214393616,False,XGBoost,Kuramoto (sensor)
+sub-001,1,1,0.9586594700813293,False,XGBoost,Kuramoto (sensor)
+sub-048,0,0,0.052137747406959534,False,XGBoost,Kuramoto (sensor)
+sub-050,0,1,0.5364896059036255,False,XGBoost,Kuramoto (sensor)
+sub-046,0,0,0.4488549530506134,False,XGBoost,Kuramoto (sensor)
+sub-013,1,1,0.7043893933296204,False,XGBoost,Kuramoto (sensor)
+sub-054,0,1,0.7886731028556824,False,XGBoost,Kuramoto (sensor)
+sub-044,0,0,0.2738822400569916,False,XGBoost,Kuramoto (sensor)
+sub-015,1,0,0.07029082626104355,False,XGBoost,Kuramoto (sensor)
+sub-064,0,0,0.06703658401966095,False,XGBoost,Kuramoto (sensor)
+sub-003,1,0,0.01929578371345997,False,XGBoost,Kuramoto (sensor)
+sub-037,0,0,0.07730577886104584,False,XGBoost,Kuramoto (sensor)
+sub-034,1,1,0.6586968898773193,False,XGBoost,Kuramoto (sensor)
+sub-002,1,1,0.8451728224754333,False,XGBoost,Kuramoto (sensor)
+sub-014,1,1,0.9844836592674255,False,XGBoost,Kuramoto (sensor)
+sub-009,1,1,0.8984414935112,False,XGBoost,Kuramoto (sensor)
+sub-030,1,1,0.9851362109184265,False,XGBoost,Informação mútua
+sub-043,0,1,0.5444040298461914,False,XGBoost,Informação mútua
+sub-019,1,1,0.7871160507202148,False,XGBoost,Informação mútua
+sub-025,1,1,0.7175822257995605,False,XGBoost,Informação mútua
+sub-008,1,1,0.8063413500785828,False,XGBoost,Informação mútua
+sub-018,1,1,0.9907475709915161,False,XGBoost,Informação mútua
+sub-028,1,1,0.9941481351852417,False,XGBoost,Informação mútua
+sub-055,0,1,0.5354446172714233,False,XGBoost,Informação mútua
+sub-065,0,0,0.28248900175094604,False,XGBoost,Informação mútua
+sub-045,0,1,0.813667356967926,False,XGBoost,Informação mútua
+sub-052,0,0,0.13784711062908173,False,XGBoost,Informação mútua
+sub-006,1,0,0.027302969247102737,False,XGBoost,Informação mútua
+sub-063,0,0,0.02559378743171692,False,XGBoost,Informação mútua
+sub-026,1,1,0.9910757541656494,False,XGBoost,Informação mútua
+sub-033,1,0,0.4790036082267761,False,XGBoost,Informação mútua
+sub-022,1,1,0.9451756477355957,False,XGBoost,Informação mútua
+sub-062,0,0,0.10300114005804062,False,XGBoost,Informação mútua
+sub-021,1,1,0.9699961543083191,False,XGBoost,Informação mútua
+sub-058,0,0,0.462142676115036,False,XGBoost,Informação mútua
+sub-049,0,0,0.012027256190776825,False,XGBoost,Informação mútua
+sub-057,0,0,0.0440165139734745,False,XGBoost,Informação mútua
+sub-060,0,1,0.9700341820716858,False,XGBoost,Informação mútua
+sub-051,0,0,0.01213831640779972,False,XGBoost,Informação mútua
+sub-005,1,0,0.352232426404953,False,XGBoost,Informação mútua
+sub-027,1,1,0.9934159517288208,False,XGBoost,Informação mútua
+sub-016,1,1,0.9350617527961731,False,XGBoost,Informação mútua
+sub-061,0,0,0.011487468145787716,False,XGBoost,Informação mútua
+sub-024,1,1,0.9235546588897705,False,XGBoost,Informação mútua
+sub-029,1,1,0.8014755845069885,False,XGBoost,Informação mútua
+sub-041,0,0,0.01688445173203945,False,XGBoost,Informação mútua
+sub-010,1,0,0.40525346994400024,False,XGBoost,Informação mútua
+sub-038,0,0,0.025414297357201576,False,XGBoost,Informação mútua
+sub-032,1,1,0.9878221154212952,False,XGBoost,Informação mútua
+sub-040,0,1,0.7363172173500061,False,XGBoost,Informação mútua
+sub-017,1,1,0.8697376251220703,False,XGBoost,Informação mútua
+sub-004,1,1,0.9307838082313538,False,XGBoost,Informação mútua
+sub-035,1,1,0.8925403952598572,False,XGBoost,Informação mútua
+sub-031,1,0,0.008002657443284988,False,XGBoost,Informação mútua
+sub-011,1,1,0.7851253151893616,False,XGBoost,Informação mútua
+sub-053,0,1,0.7486940026283264,False,XGBoost,Informação mútua
+sub-059,0,0,0.3364798426628113,False,XGBoost,Informação mútua
+sub-007,1,1,0.9445537328720093,False,XGBoost,Informação mútua
+sub-039,0,1,0.9055719375610352,False,XGBoost,Informação mútua
+sub-012,1,1,0.8786283731460571,False,XGBoost,Informação mútua
+sub-056,0,1,0.5848603844642639,False,XGBoost,Informação mútua
+sub-042,0,0,0.24422048032283783,False,XGBoost,Informação mútua
+sub-047,0,0,0.01991063542664051,False,XGBoost,Informação mútua
+sub-023,1,1,0.7175822257995605,False,XGBoost,Informação mútua
+sub-020,1,1,0.8758467435836792,False,XGBoost,Informação mútua
+sub-036,1,1,0.9034256339073181,False,XGBoost,Informação mútua
+sub-001,1,1,0.9941481351852417,False,XGBoost,Informação mútua
+sub-048,0,0,0.021432185545563698,False,XGBoost,Informação mútua
+sub-050,0,1,0.8386790752410889,False,XGBoost,Informação mútua
+sub-046,0,1,0.7301929593086243,False,XGBoost,Informação mútua
+sub-013,1,1,0.9634288549423218,False,XGBoost,Informação mútua
+sub-054,0,0,0.45004382729530334,False,XGBoost,Informação mútua
+sub-044,0,0,0.05083988606929779,False,XGBoost,Informação mútua
+sub-015,1,1,0.6401490569114685,False,XGBoost,Informação mútua
+sub-064,0,0,0.025080040097236633,False,XGBoost,Informação mútua
+sub-003,1,0,0.10181907564401627,False,XGBoost,Informação mútua
+sub-037,0,0,0.22968266904354095,False,XGBoost,Informação mútua
+sub-034,1,1,0.9594392776489258,False,XGBoost,Informação mútua
+sub-002,1,0,0.09682531654834747,False,XGBoost,Informação mútua
+sub-014,1,1,0.9934159517288208,False,XGBoost,Informação mútua
+sub-009,1,0,0.2550707161426544,False,XGBoost,Informação mútua
+sub-030,1,1,0.9896766543388367,False,XGBoost,Todas (31)
+sub-043,0,0,0.38960757851600647,False,XGBoost,Todas (31)
+sub-019,1,0,0.11234474927186966,False,XGBoost,Todas (31)
+sub-025,1,0,0.0751732885837555,False,XGBoost,Todas (31)
+sub-008,1,1,0.759769082069397,False,XGBoost,Todas (31)
+sub-018,1,1,0.9742395877838135,False,XGBoost,Todas (31)
+sub-028,1,1,0.9890839457511902,False,XGBoost,Todas (31)
+sub-055,0,0,0.04474459961056709,False,XGBoost,Todas (31)
+sub-065,0,0,0.01588795892894268,False,XGBoost,Todas (31)
+sub-045,0,1,0.9375530481338501,False,XGBoost,Todas (31)
+sub-052,0,0,0.07948900014162064,False,XGBoost,Todas (31)
+sub-006,1,0,0.13125139474868774,False,XGBoost,Todas (31)
+sub-063,0,0,0.038387689739465714,False,XGBoost,Todas (31)
+sub-026,1,1,0.9839819073677063,False,XGBoost,Todas (31)
+sub-033,1,0,0.12351565062999725,False,XGBoost,Todas (31)
+sub-022,1,1,0.983424961566925,False,XGBoost,Todas (31)
+sub-062,0,0,0.0456024706363678,False,XGBoost,Todas (31)
+sub-021,1,1,0.9614894390106201,False,XGBoost,Todas (31)
+sub-058,0,0,0.16986781358718872,False,XGBoost,Todas (31)
+sub-049,0,0,0.07256896048784256,False,XGBoost,Todas (31)
+sub-057,0,0,0.40271174907684326,False,XGBoost,Todas (31)
+sub-060,0,1,0.7099898457527161,False,XGBoost,Todas (31)
+sub-051,0,1,0.69233638048172,False,XGBoost,Todas (31)
+sub-005,1,1,0.9579400420188904,False,XGBoost,Todas (31)
+sub-027,1,1,0.9924485683441162,False,XGBoost,Todas (31)
+sub-016,1,1,0.989591658115387,False,XGBoost,Todas (31)
+sub-061,0,1,0.6100083589553833,False,XGBoost,Todas (31)
+sub-024,1,1,0.9799422025680542,False,XGBoost,Todas (31)
+sub-029,1,1,0.9908910393714905,False,XGBoost,Todas (31)
+sub-041,0,1,0.5778589844703674,False,XGBoost,Todas (31)
+sub-010,1,0,0.34540292620658875,False,XGBoost,Todas (31)
+sub-038,0,0,0.02150140330195427,False,XGBoost,Todas (31)
+sub-032,1,1,0.9637944102287292,False,XGBoost,Todas (31)
+sub-040,0,0,0.04340045154094696,False,XGBoost,Todas (31)
+sub-017,1,1,0.993228018283844,False,XGBoost,Todas (31)
+sub-004,1,1,0.9508393406867981,False,XGBoost,Todas (31)
+sub-035,1,1,0.9729256629943848,False,XGBoost,Todas (31)
+sub-031,1,0,0.45969057083129883,False,XGBoost,Todas (31)
+sub-011,1,1,0.8346368074417114,False,XGBoost,Todas (31)
+sub-053,0,1,0.5145207047462463,False,XGBoost,Todas (31)
+sub-059,0,0,0.02409403584897518,False,XGBoost,Todas (31)
+sub-007,1,1,0.9920130372047424,False,XGBoost,Todas (31)
+sub-039,0,0,0.18125490844249725,False,XGBoost,Todas (31)
+sub-012,1,1,0.7950004935264587,False,XGBoost,Todas (31)
+sub-056,0,1,0.554444432258606,False,XGBoost,Todas (31)
+sub-042,0,0,0.06831657141447067,False,XGBoost,Todas (31)
+sub-047,0,0,0.02083192951977253,False,XGBoost,Todas (31)
+sub-023,1,1,0.9533246755599976,False,XGBoost,Todas (31)
+sub-020,1,1,0.9719582200050354,False,XGBoost,Todas (31)
+sub-036,1,0,0.13723762333393097,False,XGBoost,Todas (31)
+sub-001,1,1,0.9858500361442566,False,XGBoost,Todas (31)
+sub-048,0,0,0.05180847644805908,False,XGBoost,Todas (31)
+sub-050,0,0,0.1705331653356552,False,XGBoost,Todas (31)
+sub-046,0,0,0.23674558103084564,False,XGBoost,Todas (31)
+sub-013,1,1,0.9922884106636047,False,XGBoost,Todas (31)
+sub-054,0,0,0.06003453955054283,False,XGBoost,Todas (31)
+sub-044,0,0,0.0746852234005928,False,XGBoost,Todas (31)
+sub-015,1,0,0.17825177311897278,False,XGBoost,Todas (31)
+sub-064,0,0,0.03546737879514694,False,XGBoost,Todas (31)
+sub-003,1,0,0.3970947861671448,False,XGBoost,Todas (31)
+sub-037,0,1,0.5150828957557678,False,XGBoost,Todas (31)
+sub-034,1,1,0.9445720911026001,False,XGBoost,Todas (31)
+sub-002,1,0,0.05825083702802658,False,XGBoost,Todas (31)
+sub-014,1,1,0.9845787286758423,False,XGBoost,Todas (31)
+sub-009,1,1,0.7001788020133972,False,XGBoost,Todas (31)

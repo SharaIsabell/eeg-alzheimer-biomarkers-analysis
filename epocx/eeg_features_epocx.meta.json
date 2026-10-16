@@ -1,0 +1,20 @@
+{
+  "feature_tag": "v3.0-mastoid-epocx_comum-128Hz",
+  "channels": [
+    "F7",
+    "F3",
+    "T7",
+    "P7",
+    "O1",
+    "O2",
+    "P8",
+    "T8",
+    "F4",
+    "F8"
+  ],
+  "sfreq": 128.0,
+  "reference": "mastoid",
+  "n_recordings": 14,
+  "n_epochs": 2177,
+  "task": "eyesclosed"
+}
